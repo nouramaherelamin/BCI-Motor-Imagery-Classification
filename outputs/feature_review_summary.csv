@@ -1,0 +1,5 @@
+feature_group,reliability,total_features,features_with_high_correlations,total_high_correlation_links
+Frequency-Domain,Provisional - Sampling Rate Unconfirmed,68,35,64
+Metadata,Reference Only,2,0,0
+Motor Imagery,Provisional - Depends on Frequency Features,4,0,0
+Time-Domain,Requires Final Review,48,28,96

@@ -1,0 +1,121 @@
+feature,feature_group,is_target,is_identifier,validation_status,scientific_meaning,high_correlation_count,review_priority,reliability
+cz_rms,Time-Domain,False,False,Available - Requires Final Review,Signal energy / amplitude magnitude at Central electrode,6,High,Requires Final Review
+cz_std,Time-Domain,False,False,Available - Requires Final Review,Signal variability at Central electrode,6,High,Requires Final Review
+fz_iqr,Time-Domain,False,False,Available - Requires Final Review,Interquartile range at Frontal electrode,6,High,Requires Final Review
+fz_line_length,Time-Domain,False,False,Available - Requires Final Review,Signal complexity and variation at Frontal electrode,6,High,Requires Final Review
+fz_max,Time-Domain,False,False,Available - Requires Final Review,Maximum signal amplitude at Frontal electrode,6,High,Requires Final Review
+fz_min,Time-Domain,False,False,Available - Requires Final Review,Minimum signal amplitude at Frontal electrode,6,High,Requires Final Review
+fz_ptp,Time-Domain,False,False,Available - Requires Final Review,Peak-to-peak amplitude (maximum minus minimum) at Frontal electrode,6,High,Requires Final Review
+fz_rms,Time-Domain,False,False,Available - Requires Final Review,Signal energy / amplitude magnitude at Frontal electrode,6,High,Requires Final Review
+fz_std,Time-Domain,False,False,Available - Requires Final Review,Signal variability at Frontal electrode,6,High,Requires Final Review
+beta_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Beta band at Frontal electrode,4,Medium,Provisional - Sampling Rate Unconfirmed
+cz_ptp,Time-Domain,False,False,Available - Requires Final Review,Peak-to-peak amplitude (maximum minus minimum) at Central electrode,4,Medium,Requires Final Review
+gamma_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Gamma band at Frontal electrode,4,Medium,Provisional - Sampling Rate Unconfirmed
+mu_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Mu band at Frontal electrode,4,Medium,Provisional - Sampling Rate Unconfirmed
+alpha_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Alpha band at Central electrode,3,Medium,Provisional - Sampling Rate Unconfirmed
+alpha_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Alpha band at Frontal electrode,3,Medium,Provisional - Sampling Rate Unconfirmed
+beta_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Beta band at Central electrode,3,Medium,Provisional - Sampling Rate Unconfirmed
+c3_iqr,Time-Domain,False,False,Available - Requires Final Review,Interquartile range at Left sensorimotor electrode,3,Medium,Requires Final Review
+c3_line_length,Time-Domain,False,False,Available - Requires Final Review,Signal complexity and variation at Left sensorimotor electrode,3,Medium,Requires Final Review
+c3_rms,Time-Domain,False,False,Available - Requires Final Review,Signal energy / amplitude magnitude at Left sensorimotor electrode,3,Medium,Requires Final Review
+c3_std,Time-Domain,False,False,Available - Requires Final Review,Signal variability at Left sensorimotor electrode,3,Medium,Requires Final Review
+c4_iqr,Time-Domain,False,False,Available - Requires Final Review,Interquartile range at Right sensorimotor electrode,3,Medium,Requires Final Review
+cz_iqr,Time-Domain,False,False,Available - Requires Final Review,Interquartile range at Central electrode,3,Medium,Requires Final Review
+cz_line_length,Time-Domain,False,False,Available - Requires Final Review,Signal complexity and variation at Central electrode,3,Medium,Requires Final Review
+cz_max,Time-Domain,False,False,Available - Requires Final Review,Maximum signal amplitude at Central electrode,3,Medium,Requires Final Review
+gamma_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Gamma band at Central electrode,3,Medium,Provisional - Sampling Rate Unconfirmed
+gamma_relative_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Gamma power relative to total power at Right sensorimotor electrode,3,Medium,Provisional - Sampling Rate Unconfirmed
+gamma_relative_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Gamma power relative to total power at Frontal electrode,3,Medium,Provisional - Sampling Rate Unconfirmed
+mu_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Mu band at Central electrode,3,Medium,Provisional - Sampling Rate Unconfirmed
+theta_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Theta band at Frontal electrode,3,Medium,Provisional - Sampling Rate Unconfirmed
+beta_relative_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Beta power relative to total power at Right sensorimotor electrode,2,Medium,Provisional - Sampling Rate Unconfirmed
+beta_relative_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Beta power relative to total power at Frontal electrode,2,Medium,Provisional - Sampling Rate Unconfirmed
+c3_ptp,Time-Domain,False,False,Available - Requires Final Review,Peak-to-peak amplitude (maximum minus minimum) at Left sensorimotor electrode,2,Medium,Requires Final Review
+c4_ptp,Time-Domain,False,False,Available - Requires Final Review,Peak-to-peak amplitude (maximum minus minimum) at Right sensorimotor electrode,2,Medium,Requires Final Review
+c4_rms,Time-Domain,False,False,Available - Requires Final Review,Signal energy / amplitude magnitude at Right sensorimotor electrode,2,Medium,Requires Final Review
+c4_std,Time-Domain,False,False,Available - Requires Final Review,Signal variability at Right sensorimotor electrode,2,Medium,Requires Final Review
+gamma_relative_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Gamma power relative to total power at Central electrode,2,Medium,Provisional - Sampling Rate Unconfirmed
+total_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Total signal power across the analyzed spectrum at Central electrode,2,Medium,Provisional - Sampling Rate Unconfirmed
+alpha_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Alpha band at Left sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+alpha_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Alpha band at Right sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+alpha_relative_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Alpha power relative to total power at Left sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+alpha_relative_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Alpha power relative to total power at Right sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+alpha_relative_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Alpha power relative to total power at Central electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+alpha_relative_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Alpha power relative to total power at Frontal electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+beta_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Beta band at Left sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+beta_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Beta band at Right sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+c3_max,Time-Domain,False,False,Available - Requires Final Review,Maximum signal amplitude at Left sensorimotor electrode,1,Low,Requires Final Review
+c3_min,Time-Domain,False,False,Available - Requires Final Review,Minimum signal amplitude at Left sensorimotor electrode,1,Low,Requires Final Review
+c4_line_length,Time-Domain,False,False,Available - Requires Final Review,Signal complexity and variation at Right sensorimotor electrode,1,Low,Requires Final Review
+c4_max,Time-Domain,False,False,Available - Requires Final Review,Maximum signal amplitude at Right sensorimotor electrode,1,Low,Requires Final Review
+c4_min,Time-Domain,False,False,Available - Requires Final Review,Minimum signal amplitude at Right sensorimotor electrode,1,Low,Requires Final Review
+cz_min,Time-Domain,False,False,Available - Requires Final Review,Minimum signal amplitude at Central electrode,1,Low,Requires Final Review
+delta_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Delta band at Left sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+delta_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Delta band at Right sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+gamma_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Gamma band at Left sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+gamma_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Gamma band at Right sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+mu_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Mu band at Left sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+mu_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Mu band at Right sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+mu_relative_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Mu power relative to total power at Left sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+mu_relative_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Mu power relative to total power at Right sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+mu_relative_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Mu power relative to total power at Central electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+mu_relative_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Mu power relative to total power at Frontal electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+total_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Total signal power across the analyzed spectrum at Left sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+total_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Total signal power across the analyzed spectrum at Right sensorimotor electrode,1,Low,Provisional - Sampling Rate Unconfirmed
+beta_power_c3_c4_difference,Motor Imagery,False,False,Provisional - Depends on Frequency Features,Difference in Beta power between C3 and C4,0,Low,Provisional - Depends on Frequency Features
+beta_relative_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Beta power relative to total power at Left sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+beta_relative_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Beta power relative to total power at Central electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+c3_kurtosis,Time-Domain,False,False,Available - Requires Final Review,Tailedness of signal distribution at Left sensorimotor electrode,0,Low,Requires Final Review
+c3_mean,Time-Domain,False,False,Available - Requires Final Review,Average signal amplitude at Left sensorimotor electrode,0,Low,Requires Final Review
+c3_median,Time-Domain,False,False,Available - Requires Final Review,Median signal amplitude at Left sensorimotor electrode,0,Low,Requires Final Review
+c3_skewness,Time-Domain,False,False,Available - Requires Final Review,Asymmetry of signal distribution at Left sensorimotor electrode,0,Low,Requires Final Review
+c3_zero_crossing_rate,Time-Domain,False,False,Available - Requires Final Review,Rate of signal zero crossings at Left sensorimotor electrode,0,Low,Requires Final Review
+c4_kurtosis,Time-Domain,False,False,Available - Requires Final Review,Tailedness of signal distribution at Right sensorimotor electrode,0,Low,Requires Final Review
+c4_mean,Time-Domain,False,False,Available - Requires Final Review,Average signal amplitude at Right sensorimotor electrode,0,Low,Requires Final Review
+c4_median,Time-Domain,False,False,Available - Requires Final Review,Median signal amplitude at Right sensorimotor electrode,0,Low,Requires Final Review
+c4_skewness,Time-Domain,False,False,Available - Requires Final Review,Asymmetry of signal distribution at Right sensorimotor electrode,0,Low,Requires Final Review
+c4_zero_crossing_rate,Time-Domain,False,False,Available - Requires Final Review,Rate of signal zero crossings at Right sensorimotor electrode,0,Low,Requires Final Review
+cz_kurtosis,Time-Domain,False,False,Available - Requires Final Review,Tailedness of signal distribution at Central electrode,0,Low,Requires Final Review
+cz_mean,Time-Domain,False,False,Available - Requires Final Review,Average signal amplitude at Central electrode,0,Low,Requires Final Review
+cz_median,Time-Domain,False,False,Available - Requires Final Review,Median signal amplitude at Central electrode,0,Low,Requires Final Review
+cz_skewness,Time-Domain,False,False,Available - Requires Final Review,Asymmetry of signal distribution at Central electrode,0,Low,Requires Final Review
+cz_zero_crossing_rate,Time-Domain,False,False,Available - Requires Final Review,Rate of signal zero crossings at Central electrode,0,Low,Requires Final Review
+delta_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Delta band at Central electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+delta_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Delta band at Frontal electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+delta_relative_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Delta power relative to total power at Left sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+delta_relative_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Delta power relative to total power at Right sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+delta_relative_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Delta power relative to total power at Central electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+delta_relative_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Delta power relative to total power at Frontal electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+dominant_frequency_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Frequency with the highest spectral power at Left sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+dominant_frequency_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Frequency with the highest spectral power at Right sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+dominant_frequency_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Frequency with the highest spectral power at Central electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+dominant_frequency_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Frequency with the highest spectral power at Frontal electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+fz_kurtosis,Time-Domain,False,False,Available - Requires Final Review,Tailedness of signal distribution at Frontal electrode,0,Low,Requires Final Review
+fz_mean,Time-Domain,False,False,Available - Requires Final Review,Average signal amplitude at Frontal electrode,0,Low,Requires Final Review
+fz_median,Time-Domain,False,False,Available - Requires Final Review,Median signal amplitude at Frontal electrode,0,Low,Requires Final Review
+fz_skewness,Time-Domain,False,False,Available - Requires Final Review,Asymmetry of signal distribution at Frontal electrode,0,Low,Requires Final Review
+fz_zero_crossing_rate,Time-Domain,False,False,Available - Requires Final Review,Rate of signal zero crossings at Frontal electrode,0,Low,Requires Final Review
+gamma_relative_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Gamma power relative to total power at Left sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+mu_beta_ratio_c3,Motor Imagery,False,False,Provisional - Depends on Frequency Features,Ratio between Mu and Beta power,0,Low,Provisional - Depends on Frequency Features
+mu_beta_ratio_c4,Motor Imagery,False,False,Provisional - Depends on Frequency Features,Ratio between Mu and Beta power,0,Low,Provisional - Depends on Frequency Features
+mu_power_c3_c4_difference,Motor Imagery,False,False,Provisional - Depends on Frequency Features,Difference in Mu power between C3 and C4,0,Low,Provisional - Depends on Frequency Features
+spectral_bandwidth_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Spread of power around the spectral centroid at Left sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+spectral_bandwidth_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Spread of power around the spectral centroid at Right sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+spectral_bandwidth_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Spread of power around the spectral centroid at Central electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+spectral_bandwidth_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Spread of power around the spectral centroid at Frontal electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+spectral_centroid_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Center of mass of the power spectrum at Left sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+spectral_centroid_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Center of mass of the power spectrum at Right sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+spectral_centroid_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Center of mass of the power spectrum at Central electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+spectral_centroid_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Center of mass of the power spectrum at Frontal electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+spectral_entropy_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Distribution / complexity of spectral power at Left sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+spectral_entropy_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Distribution / complexity of spectral power at Right sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+spectral_entropy_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Distribution / complexity of spectral power at Central electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+spectral_entropy_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Distribution / complexity of spectral power at Frontal electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+theta_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Theta band at Left sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+theta_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Theta band at Right sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+theta_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Power in the Theta band at Central electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+theta_relative_power_c3,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Theta power relative to total power at Left sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+theta_relative_power_c4,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Theta power relative to total power at Right sensorimotor electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+theta_relative_power_cz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Theta power relative to total power at Central electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+theta_relative_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Theta power relative to total power at Frontal electrode,0,Low,Provisional - Sampling Rate Unconfirmed
+total_power_fz,Frequency-Domain,False,False,Provisional - Sampling Rate Unconfirmed,Total signal power across the analyzed spectrum at Frontal electrode,0,Low,Provisional - Sampling Rate Unconfirmed

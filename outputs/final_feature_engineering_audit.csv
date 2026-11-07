@@ -1,0 +1,4 @@
+Feature Group,Number of Features,Missing Values,Infinite Values,Status
+Time-Domain,48,0,0,Reviewed - Requires Final Selection
+Frequency-Domain,68,0,0,Provisional - Sampling Rate Unconfirmed
+Motor Imagery,4,0,0,Provisional - Sampling Rate Unconfirmed

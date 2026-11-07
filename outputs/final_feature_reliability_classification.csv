@@ -1,0 +1,121 @@
+feature,feature_group,sampling_rate_unconfirmed,signal_quality_review,near_redundant,mathematical_redundancy_candidate,alpha_mu_overlap,high_correlation_review,review_flags,review_flag_count,reliability_status,review_priority
+fz_mean,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+fz_std,Time-Domain,False,True,True,False,False,True,Signal Quality Review | Near-Redundant | High Correlation Review,3,Signal Quality Review,Technical Review
+fz_rms,Time-Domain,False,True,True,False,False,True,Signal Quality Review | Near-Redundant | High Correlation Review,3,Signal Quality Review,Technical Review
+fz_min,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+fz_max,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+fz_ptp,Time-Domain,False,True,False,True,False,True,Signal Quality Review | Mathematical Redundancy Review | High Correlation Review,3,Mathematical Redundancy Review,Critical Review
+fz_median,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+fz_iqr,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+fz_skewness,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+fz_kurtosis,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+fz_zero_crossing_rate,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+fz_line_length,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c3_mean,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c3_std,Time-Domain,False,True,True,False,False,True,Signal Quality Review | Near-Redundant | High Correlation Review,3,Signal Quality Review,Technical Review
+c3_rms,Time-Domain,False,True,True,False,False,True,Signal Quality Review | Near-Redundant | High Correlation Review,3,Signal Quality Review,Technical Review
+c3_min,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c3_max,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c3_ptp,Time-Domain,False,True,False,True,False,True,Signal Quality Review | Mathematical Redundancy Review | High Correlation Review,3,Mathematical Redundancy Review,Critical Review
+c3_median,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c3_iqr,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c3_skewness,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c3_kurtosis,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c3_zero_crossing_rate,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c3_line_length,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+cz_mean,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+cz_std,Time-Domain,False,True,True,False,False,True,Signal Quality Review | Near-Redundant | High Correlation Review,3,Signal Quality Review,Technical Review
+cz_rms,Time-Domain,False,True,True,False,False,True,Signal Quality Review | Near-Redundant | High Correlation Review,3,Signal Quality Review,Technical Review
+cz_min,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+cz_max,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+cz_ptp,Time-Domain,False,True,False,True,False,True,Signal Quality Review | Mathematical Redundancy Review | High Correlation Review,3,Mathematical Redundancy Review,Critical Review
+cz_median,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+cz_iqr,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+cz_skewness,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+cz_kurtosis,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+cz_zero_crossing_rate,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+cz_line_length,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c4_mean,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c4_std,Time-Domain,False,True,True,False,False,True,Signal Quality Review | Near-Redundant | High Correlation Review,3,Signal Quality Review,Technical Review
+c4_rms,Time-Domain,False,True,True,False,False,True,Signal Quality Review | Near-Redundant | High Correlation Review,3,Signal Quality Review,Technical Review
+c4_min,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c4_max,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c4_ptp,Time-Domain,False,True,False,True,False,True,Signal Quality Review | Mathematical Redundancy Review | High Correlation Review,3,Mathematical Redundancy Review,Critical Review
+c4_median,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c4_iqr,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c4_skewness,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c4_kurtosis,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c4_zero_crossing_rate,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+c4_line_length,Time-Domain,False,True,False,False,False,True,Signal Quality Review | High Correlation Review,2,Signal Quality Review,Technical Review
+dominant_frequency_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+dominant_frequency_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+dominant_frequency_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+dominant_frequency_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+total_power_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+total_power_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+total_power_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+total_power_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+spectral_centroid_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+spectral_centroid_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+spectral_centroid_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+spectral_centroid_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+spectral_bandwidth_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+spectral_bandwidth_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+spectral_bandwidth_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+spectral_bandwidth_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+spectral_entropy_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+spectral_entropy_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+spectral_entropy_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+spectral_entropy_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+delta_power_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+delta_power_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+delta_power_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+delta_power_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+delta_relative_power_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+delta_relative_power_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+delta_relative_power_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+delta_relative_power_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+theta_power_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+theta_power_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+theta_power_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+theta_power_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+theta_relative_power_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+theta_relative_power_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+theta_relative_power_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+theta_relative_power_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+alpha_power_c3,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+alpha_power_c4,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+alpha_power_cz,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+alpha_power_fz,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+alpha_relative_power_c3,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+alpha_relative_power_c4,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+alpha_relative_power_cz,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+alpha_relative_power_fz,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+mu_power_c3,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+mu_power_c4,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+mu_power_cz,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+mu_power_fz,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+mu_relative_power_c3,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+mu_relative_power_c4,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+mu_relative_power_cz,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+mu_relative_power_fz,Frequency-Domain,True,False,False,False,True,True,Sampling Rate Unconfirmed | Alpha-Mu Band Overlap | High Correlation Review,3,Frequency Band Overlap Review,Critical Review
+beta_power_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+beta_power_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+beta_power_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+beta_power_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+beta_relative_power_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+beta_relative_power_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+beta_relative_power_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+beta_relative_power_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+gamma_power_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+gamma_power_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+gamma_power_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+gamma_power_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+gamma_relative_power_c3,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+gamma_relative_power_c4,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+gamma_relative_power_cz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+gamma_relative_power_fz,Frequency-Domain,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+mu_beta_ratio_c3,Motor Imagery,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+mu_beta_ratio_c4,Motor Imagery,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+mu_power_c3_c4_difference,Motor Imagery,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review
+beta_power_c3_c4_difference,Motor Imagery,True,False,False,False,False,True,Sampling Rate Unconfirmed | High Correlation Review,2,Sampling Rate Unconfirmed,Technical Review

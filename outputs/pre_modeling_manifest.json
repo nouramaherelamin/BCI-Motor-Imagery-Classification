@@ -1,0 +1,32 @@
+{
+    "trials": 2160,
+    "features": 48,
+    "channels": [
+        "FZ",
+        "C3",
+        "CZ",
+        "C4"
+    ],
+    "samples_per_trial": 2500,
+    "classes": [
+        "Left",
+        "Right"
+    ],
+    "label_encoding": "Left=0, Right=1",
+    "class_counts": {
+        "0": 1082,
+        "1": 1078
+    },
+    "feature_missing_values": 0,
+    "feature_infinite_values": 0,
+    "feature_engineering": "12 time-domain features per channel",
+    "preprocessing": [
+        "Per-trial DC offset removal"
+    ],
+    "label_mapping": "Provisional: first 2160 labels paired with first 2160 files",
+    "sampling_rate": "Unconfirmed; timestamps are irregular",
+    "filtering": "Not applied",
+    "resampling": "Not applied",
+    "artifact_policy": "No trials automatically removed",
+    "modeling": "Not started"
+}

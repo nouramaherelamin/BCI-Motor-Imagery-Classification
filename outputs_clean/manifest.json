@@ -1,0 +1,66 @@
+{
+  "created": "2026-11-07T05:32:18",
+  "n_trials_loaded": 2160,
+  "n_trials_kept": 1222,
+  "X_clean": {
+    "shape": [
+      1222,
+      2500,
+      4
+    ],
+    "dtype": "float32",
+    "axes": [
+      "trial",
+      "time",
+      "channel"
+    ],
+    "channels": [
+      "FZ",
+      "C3",
+      "CZ",
+      "C4"
+    ],
+    "fs_hz": 250.0,
+    "duration_s": 10.0
+  },
+  "labels": {
+    "encoding": {
+      "Left": 0,
+      "Right": 1
+    },
+    "counts": {
+      "Left": 602,
+      "Right": 620
+    },
+    "mapping": "label[i] <-> cellula_MI_data_{i}.csv (first 2160 of 2400 labels); confirmed by the project owner"
+  },
+  "preprocessing": [
+    "stale rows interpolated",
+    "DC removal",
+    "notch 50.0 Hz (Q=30.0)",
+    "band-pass (1.0, 40.0) Hz, Butterworth order 4, zero-phase",
+    "each continuous block (consecutive files) filtered as ONE stream; first/last trial of every block rejected",
+    "one robust (median-power) scalar per trial; inter-channel ratios preserved"
+  ],
+  "rejection": {
+    "stale_frac_gt": 0.15,
+    "stale_run_gt": 50,
+    "contam_frac_gt": 0.15,
+    "abs_z_gt": 10.0,
+    "by_reason": {
+      "spike": 580,
+      "block_edge": 480,
+      "contaminated": 251,
+      "stale_run": 112,
+      "stale_frac": 57
+    }
+  },
+  "cv_advice": "session_id = recording (from Time gaps). Use GroupKFold on session_id, or contiguous (non-shuffled) KFold. Never shuffle trials across recordings.",
+  "n_recordings": 240,
+  "n_filter_blocks": 240,
+  "caveats": [
+    "no cue timing -> no ERD/ERS or baseline correction",
+    "CAR on 4 channels is rank-3: do not use X_clean_car for CSP"
+  ],
+  "decodability_check": "NO decodable signal with whole-trial CSP + LDA (labels are confirmed, so this is a signal/feature limitation)"
+}

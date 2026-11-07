@@ -1,0 +1,5 @@
+group_relationship,pair_count,mean_correlation,max_correlation
+Time-Domain vs Time-Domain,80,0.9555886432637998,0.9999999999999182
+Frequency-Domain vs Frequency-Domain,76,0.9437104965607067,0.9985330461357781
+Time-Domain vs Frequency-Domain,19,0.9251044370501852,0.9520360007439093
+Motor Imagery vs Motor Imagery,1,0.9151571485550434,0.9151571485550434

@@ -1,0 +1,2 @@
+number_of_trials,samples_per_trial,number_of_channels,channels,data_type,missing_values,infinite_values,preprocessing_applied,label_encoding,label_mapping_status,sampling_rate_status,filtering_status,resampling_status,modeling_status
+2160,2500,4,"FZ, C3, CZ, C4",float32,False,False,Per-trial mean removal (DC offset removal),"Left=0, Right=1",Provisional,Unconfirmed - Irregular timestamps,Not applied,Not applied,Not started

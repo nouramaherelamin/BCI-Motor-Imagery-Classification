@@ -1,0 +1,5 @@
+review_status,trial_count,mean_repeated_percentage,max_repeated_percentage,max_constant_run,percentage
+Critical - Severe Repetition,22,67.03954308996326,76.5906362545018,277,1.0185185185185186
+High - Long Shared Plateau,12,36.554621848739494,49.419767907162864,307,0.5555555555555556
+No Detected Issue,1549,0.0,0.0,1,71.71296296296296
+Review Required,577,4.623270452028299,48.41936774709884,96,26.712962962962962

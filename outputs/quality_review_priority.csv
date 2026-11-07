@@ -1,0 +1,2161 @@
+trial_index,repeated_samples,longest_constant_run,repeated_percentage,outlier_count,outlier_channels,has_outlier,has_repeated_samples,has_long_plateau,quality_category
+605,1914,258,76.5906362545018,0,,False,True,True,Long Plateau
+301,1908,88,76.35054021608644,0,,False,True,True,Long Plateau
+299,1890,102,75.63025210084034,0,,False,True,True,Long Plateau
+305,1885,135,75.43017206882753,0,,False,True,True,Long Plateau
+302,1863,132,74.54981992797119,0,,False,True,True,Long Plateau
+304,1863,93,74.54981992797119,0,,False,True,True,Long Plateau
+297,1822,100,72.90916366546618,0,,False,True,True,Long Plateau
+300,1820,96,72.82913165266106,0,,False,True,True,Long Plateau
+603,1817,195,72.70908363345339,2,"CZ, FZ",True,True,True,Outlier + Long Plateau
+298,1809,111,72.3889555822329,0,,False,True,True,Long Plateau
+303,1808,108,72.34893957583033,0,,False,True,True,Long Plateau
+505,1787,155,71.50860344137655,0,,False,True,True,Long Plateau
+504,1772,277,70.90836334533813,4,"C3, C4, CZ, FZ",True,True,True,Outlier + Long Plateau
+512,1654,172,66.18647458983592,0,,False,True,True,Long Plateau
+606,1587,134,63.50540216086434,0,,False,True,True,Long Plateau
+508,1488,153,59.5438175270108,0,,False,True,True,Long Plateau
+611,1446,200,57.863145258103245,0,,False,True,True,Long Plateau
+609,1428,160,57.14285714285714,0,,False,True,True,Long Plateau
+608,1373,180,54.94197679071628,0,,False,True,True,Long Plateau
+610,1329,174,53.1812725090036,0,,False,True,True,Long Plateau
+604,1319,109,52.78111244497799,0,,False,True,True,Long Plateau
+507,1275,128,51.02040816326531,0,,False,True,True,Long Plateau
+607,1235,115,49.419767907162864,0,,False,True,True,Long Plateau
+1067,1210,96,48.41936774709884,0,,False,True,True,Long Plateau
+572,1192,155,47.69907963185274,2,"CZ, FZ",True,True,True,Outlier + Long Plateau
+506,1172,196,46.89875950380152,0,,False,True,True,Long Plateau
+571,1106,109,44.25770308123249,2,"CZ, FZ",True,True,True,Outlier + Long Plateau
+590,1038,247,41.53661464585834,2,"CZ, FZ",True,True,True,Outlier + Long Plateau
+510,1013,277,40.53621448579432,0,,False,True,True,Long Plateau
+509,1012,139,40.49619847939175,0,,False,True,True,Long Plateau
+573,967,144,38.695478191276514,2,"CZ, FZ",True,True,True,Outlier + Long Plateau
+659,909,63,36.37454981992797,3,"C3, CZ, FZ",True,True,True,Outlier + Long Plateau
+511,801,174,32.052821128451384,0,,False,True,True,Long Plateau
+657,741,70,29.65186074429772,0,,False,True,True,Long Plateau
+658,741,59,29.65186074429772,3,"C3, CZ, FZ",True,True,True,Outlier + Long Plateau
+574,602,63,24.089635854341736,2,"CZ, FZ",True,True,True,Outlier + Long Plateau
+909,593,47,23.729491796718687,0,,False,True,False,Repeated Samples
+589,575,121,23.00920368147259,2,"CZ, FZ",True,True,True,Outlier + Long Plateau
+2069,558,53,22.328931572629052,0,,False,True,True,Long Plateau
+662,549,66,21.968787515006003,3,"C3, CZ, FZ",True,True,True,Outlier + Long Plateau
+246,499,307,19.96798719487795,0,,False,True,True,Long Plateau
+1068,478,69,19.12765106042417,0,,False,True,True,Long Plateau
+838,465,41,18.60744297719088,0,,False,True,False,Repeated Samples
+1653,458,70,18.32733093237295,0,,False,True,True,Long Plateau
+1872,443,49,17.727090836334533,0,,False,True,False,Repeated Samples
+776,426,43,17.046818727490997,1,CZ,True,True,False,Outlier + Repeated Samples
+999,422,56,16.88675470188075,0,,False,True,True,Long Plateau
+832,414,41,16.56662665066026,0,,False,True,False,Repeated Samples
+1638,412,62,16.48659463785514,0,,False,True,True,Long Plateau
+781,406,47,16.246498599439775,0,,False,True,False,Repeated Samples
+1593,404,48,16.166466586634655,0,,False,True,False,Repeated Samples
+1515,402,62,16.086434573829532,0,,False,True,True,Long Plateau
+777,401,61,16.046418567426972,0,,False,True,True,Long Plateau
+774,396,37,15.846338535414164,0,,False,True,False,Repeated Samples
+1611,391,41,15.646258503401361,0,,False,True,False,Repeated Samples
+570,388,49,15.526210484193678,2,"CZ, FZ",True,True,False,Outlier + Repeated Samples
+1830,385,46,15.406162464985995,0,,False,True,False,Repeated Samples
+1630,375,55,15.006002400960384,0,,False,True,True,Long Plateau
+1594,375,42,15.006002400960384,0,,False,True,False,Repeated Samples
+782,372,61,14.8859543817527,0,,False,True,True,Long Plateau
+1969,366,40,14.645858343337334,0,,False,True,False,Repeated Samples
+1044,364,86,14.565826330532214,0,,False,True,True,Long Plateau
+851,363,41,14.525810324129651,0,,False,True,False,Repeated Samples
+1062,362,85,14.485794317727091,0,,False,True,True,Long Plateau
+797,362,37,14.485794317727091,0,,False,True,False,Repeated Samples
+811,359,50,14.365746298519408,0,,False,True,True,Long Plateau
+853,357,65,14.285714285714285,0,,False,True,True,Long Plateau
+837,355,51,14.205682272909165,0,,False,True,True,Long Plateau
+840,354,53,14.165666266506602,0,,False,True,True,Long Plateau
+1066,352,102,14.085634253701482,0,,False,True,True,Long Plateau
+833,348,75,13.925570228091235,0,,False,True,True,Long Plateau
+623,341,53,13.645458183273309,0,,False,True,True,Long Plateau
+1670,340,49,13.60544217687075,0,,False,True,False,Repeated Samples
+1604,340,48,13.60544217687075,0,,False,True,False,Repeated Samples
+1623,325,53,13.005202080832333,0,,False,True,True,Long Plateau
+2129,325,37,13.005202080832333,0,,False,True,False,Repeated Samples
+624,320,35,12.805122048819529,0,,False,True,False,Repeated Samples
+1421,320,35,12.805122048819529,1,CZ,True,True,False,Outlier + Repeated Samples
+1767,317,56,12.685074029611846,0,,False,True,True,Long Plateau
+1418,317,31,12.685074029611846,1,CZ,True,True,False,Outlier + Repeated Samples
+1669,316,48,12.645058023209282,0,,False,True,False,Repeated Samples
+1647,310,68,12.404961984793918,0,,False,True,True,Long Plateau
+1827,308,55,12.324929971988796,0,,False,True,True,Long Plateau
+1672,308,47,12.324929971988796,0,,False,True,False,Repeated Samples
+1766,307,44,12.284913965586234,0,,False,True,False,Repeated Samples
+819,306,53,12.244897959183673,0,,False,True,True,Long Plateau
+1963,301,33,12.044817927170868,0,,False,True,False,Repeated Samples
+1624,298,59,11.924769907963185,0,,False,True,True,Long Plateau
+1654,298,53,11.924769907963185,0,,False,True,True,Long Plateau
+786,295,48,11.804721888755502,0,,False,True,False,Repeated Samples
+92,293,55,11.72468987595038,0,,False,True,True,Long Plateau
+1967,293,43,11.72468987595038,0,,False,True,False,Repeated Samples
+835,292,61,11.684673869547819,0,,False,True,True,Long Plateau
+1569,290,48,11.604641856742697,0,,False,True,False,Repeated Samples
+1655,289,44,11.564625850340136,0,,False,True,False,Repeated Samples
+1650,287,58,11.484593837535014,0,,False,True,True,Long Plateau
+820,287,38,11.484593837535014,0,,False,True,False,Repeated Samples
+1633,283,62,11.324529811924771,0,,False,True,True,Long Plateau
+1637,275,51,11.004401760704281,0,,False,True,True,Long Plateau
+866,275,44,11.004401760704281,0,,False,True,False,Repeated Samples
+830,274,52,10.964385754301722,1,C3,True,True,True,Outlier + Long Plateau
+1771,274,50,10.964385754301722,0,,False,True,True,Long Plateau
+784,273,69,10.92436974789916,0,,False,True,True,Long Plateau
+1866,273,52,10.92436974789916,0,,False,True,True,Long Plateau
+785,273,34,10.92436974789916,0,,False,True,False,Repeated Samples
+1671,272,45,10.884353741496598,0,,False,True,False,Repeated Samples
+818,271,31,10.844337735094038,0,,False,True,False,Repeated Samples
+1194,267,40,10.684273709483794,0,,False,True,False,Repeated Samples
+834,266,51,10.644257703081232,0,,False,True,True,Long Plateau
+796,265,48,10.604241696678672,0,,False,True,False,Repeated Samples
+1649,264,68,10.56422569027611,0,,False,True,True,Long Plateau
+1620,264,35,10.56422569027611,0,,False,True,False,Repeated Samples
+1566,262,38,10.484193677470989,0,,False,True,False,Repeated Samples
+1000,261,59,10.444177671068427,0,,False,True,True,Long Plateau
+795,261,55,10.444177671068427,0,,False,True,True,Long Plateau
+1064,260,40,10.404161664665866,0,,False,True,False,Repeated Samples
+1475,257,51,10.284113645458183,0,,False,True,True,Long Plateau
+1602,255,54,10.204081632653061,0,,False,True,True,Long Plateau
+845,255,43,10.204081632653061,0,,False,True,False,Repeated Samples
+1970,254,51,10.1640656262505,0,,False,True,True,Long Plateau
+1417,253,38,10.124049619847938,1,CZ,True,True,False,Outlier + Repeated Samples
+1665,252,62,10.084033613445378,0,,False,True,True,Long Plateau
+663,251,55,10.044017607042816,3,"C3, CZ, FZ",True,True,True,Outlier + Long Plateau
+1346,250,36,10.004001600640255,0,,False,True,False,Repeated Samples
+839,246,53,9.843937575030012,0,,False,True,True,Long Plateau
+622,246,34,9.843937575030012,0,,False,True,False,Repeated Samples
+846,245,38,9.803921568627452,0,,False,True,False,Repeated Samples
+1354,244,46,9.76390556222489,0,,False,True,False,Repeated Samples
+821,244,34,9.76390556222489,0,,False,True,False,Repeated Samples
+1622,240,31,9.603841536614647,0,,False,True,False,Repeated Samples
+664,238,72,9.523809523809524,3,"C3, CZ, FZ",True,True,True,Outlier + Long Plateau
+1621,238,53,9.523809523809524,0,,False,True,True,Long Plateau
+1651,237,31,9.483793517406964,0,,False,True,False,Repeated Samples
+836,236,75,9.443777511004402,0,,False,True,True,Long Plateau
+0,232,32,9.283713485394157,0,,False,True,False,Repeated Samples
+3,231,49,9.243697478991598,0,,False,True,False,Repeated Samples
+1584,230,45,9.203681472589036,0,,False,True,False,Repeated Samples
+1002,230,41,9.203681472589036,0,,False,True,False,Repeated Samples
+852,230,36,9.203681472589036,0,,False,True,False,Repeated Samples
+783,230,30,9.203681472589036,0,,False,True,False,Repeated Samples
+778,229,46,9.163665466186474,0,,False,True,False,Repeated Samples
+1003,226,52,9.043617446978791,0,,False,True,True,Long Plateau
+813,225,48,9.003601440576231,0,,False,True,False,Repeated Samples
+1764,219,54,8.763505402160865,0,,False,True,True,Long Plateau
+1966,219,39,8.763505402160865,0,,False,True,False,Repeated Samples
+792,218,47,8.723489395758303,0,,False,True,False,Repeated Samples
+791,216,40,8.643457382953182,0,,False,True,False,Repeated Samples
+1968,210,41,8.403361344537815,0,,False,True,False,Repeated Samples
+1769,209,38,8.363345338135254,0,,False,True,False,Repeated Samples
+1596,207,33,8.28331332533013,0,,False,True,False,Repeated Samples
+633,206,60,8.24329731892757,0,,False,True,True,Long Plateau
+932,204,65,8.16326530612245,0,,False,True,True,Long Plateau
+1374,204,51,8.16326530612245,0,,False,True,True,Long Plateau
+1867,204,42,8.16326530612245,0,,False,True,False,Repeated Samples
+1060,204,31,8.16326530612245,0,,False,True,False,Repeated Samples
+1631,202,47,8.083233293317328,0,,False,True,False,Repeated Samples
+1652,200,71,8.003201280512204,0,,False,True,True,Long Plateau
+289,198,53,7.923169267707082,0,,False,True,True,Long Plateau
+1562,197,58,7.883153261304522,0,,False,True,True,Long Plateau
+1668,196,51,7.8431372549019605,0,,False,True,True,Long Plateau
+865,196,39,7.8431372549019605,0,,False,True,False,Repeated Samples
+1031,194,47,7.763105242096839,0,,False,True,False,Repeated Samples
+812,194,46,7.763105242096839,0,,False,True,False,Repeated Samples
+1646,193,40,7.723089235694277,0,,False,True,False,Repeated Samples
+780,192,33,7.6830732292917165,0,,False,True,False,Repeated Samples
+1570,190,46,7.603041216486595,0,,False,True,False,Repeated Samples
+1242,190,43,7.603041216486595,0,,False,True,False,Repeated Samples
+1965,190,31,7.603041216486595,0,,False,True,False,Repeated Samples
+1220,189,55,7.563025210084033,0,,False,True,True,Long Plateau
+1616,189,36,7.563025210084033,0,,False,True,False,Repeated Samples
+1625,188,43,7.523009203681473,0,,False,True,False,Repeated Samples
+854,188,28,7.523009203681473,0,,False,True,False,Repeated Samples
+1632,187,44,7.482993197278912,0,,False,True,False,Repeated Samples
+799,186,38,7.44297719087635,0,,False,True,False,Repeated Samples
+1419,186,34,7.44297719087635,1,CZ,True,True,False,Outlier + Repeated Samples
+310,185,49,7.40296118447379,0,,False,True,False,Repeated Samples
+1529,184,49,7.362945178071229,0,,False,True,False,Repeated Samples
+841,181,53,7.242897158863546,0,,False,True,True,Long Plateau
+1415,180,27,7.202881152460984,1,CZ,True,True,False,Outlier + Repeated Samples
+1607,175,54,7.002801120448179,0,,False,True,True,Long Plateau
+638,175,47,7.002801120448179,0,,False,True,False,Repeated Samples
+887,175,40,7.002801120448179,0,,False,True,False,Repeated Samples
+1821,174,34,6.962785114045618,0,,False,True,False,Repeated Samples
+294,172,30,6.882753101240496,0,,False,True,False,Repeated Samples
+2115,171,41,6.8427370948379345,0,,False,True,False,Repeated Samples
+630,171,30,6.8427370948379345,0,,False,True,False,Repeated Samples
+113,169,47,6.762705082032813,0,,False,True,False,Repeated Samples
+1768,168,51,6.722689075630252,0,,False,True,True,Long Plateau
+1619,168,45,6.722689075630252,0,,False,True,False,Repeated Samples
+1599,167,58,6.682673069227691,0,,False,True,True,Long Plateau
+1572,167,43,6.682673069227691,0,,False,True,False,Repeated Samples
+815,166,56,6.64265706282513,0,,False,True,True,Long Plateau
+1470,165,48,6.602641056422569,0,,False,True,False,Repeated Samples
+2034,165,46,6.602641056422569,0,,False,True,False,Repeated Samples
+7,163,39,6.5226090436174475,0,,False,True,False,Repeated Samples
+1648,162,37,6.482593037214886,0,,False,True,False,Repeated Samples
+1595,160,37,6.402561024409764,0,,False,True,False,Repeated Samples
+775,159,27,6.362545018007203,2,"C4, CZ",True,True,False,Outlier + Repeated Samples
+847,158,38,6.322529011604641,0,,False,True,False,Repeated Samples
+142,157,32,6.282513005202081,0,,False,True,False,Repeated Samples
+626,157,28,6.282513005202081,0,,False,True,False,Repeated Samples
+1641,156,50,6.24249699879952,0,,False,True,True,Long Plateau
+798,156,44,6.24249699879952,0,,False,True,False,Repeated Samples
+104,155,36,6.202480992396959,0,,False,True,False,Repeated Samples
+1471,152,47,6.082432973189276,0,,False,True,False,Repeated Samples
+2000,152,33,6.082432973189276,0,,False,True,False,Repeated Samples
+822,152,31,6.082432973189276,0,,False,True,False,Repeated Samples
+1614,152,31,6.082432973189276,0,,False,True,False,Repeated Samples
+1069,148,50,5.922368947579031,0,,False,True,True,Long Plateau
+1063,147,28,5.88235294117647,0,,False,True,False,Repeated Samples
+632,146,30,5.842336934773909,0,,False,True,False,Repeated Samples
+1962,145,49,5.802320928371349,0,,False,True,False,Repeated Samples
+1571,144,46,5.762304921968788,0,,False,True,False,Repeated Samples
+1006,143,31,5.722288915566227,0,,False,True,False,Repeated Samples
+917,142,52,5.6822729091636655,0,,False,True,True,Long Plateau
+1004,142,39,5.6822729091636655,0,,False,True,False,Repeated Samples
+1367,139,51,5.562224889955982,0,,False,True,True,Long Plateau
+831,137,49,5.482192877150861,1,C3,True,True,False,Outlier + Repeated Samples
+911,136,41,5.442176870748299,0,,False,True,False,Repeated Samples
+1612,136,33,5.442176870748299,0,,False,True,False,Repeated Samples
+625,136,31,5.442176870748299,0,,False,True,False,Repeated Samples
+814,136,29,5.442176870748299,0,,False,True,False,Repeated Samples
+817,134,29,5.362144857943178,0,,False,True,False,Repeated Samples
+1364,133,39,5.322128851540616,0,,False,True,False,Repeated Samples
+1626,131,31,5.2420968387354945,0,,False,True,False,Repeated Samples
+1860,128,24,5.122048819527811,0,,False,True,False,Repeated Samples
+1645,127,41,5.08203281312525,0,,False,True,False,Repeated Samples
+108,126,52,5.042016806722689,0,,False,True,True,Long Plateau
+1629,125,40,5.002000800320127,0,,False,True,False,Repeated Samples
+1615,123,44,4.921968787515006,0,,False,True,False,Repeated Samples
+116,121,72,4.841936774709884,0,,False,True,True,Long Plateau
+1507,120,51,4.8019207683073235,0,,False,True,True,Long Plateau
+1864,118,50,4.721888755502201,0,,False,True,True,Long Plateau
+1413,118,36,4.721888755502201,0,,False,True,False,Repeated Samples
+2090,118,35,4.721888755502201,0,,False,True,False,Repeated Samples
+1081,117,56,4.68187274909964,2,"C4, CZ",True,True,True,Outlier + Long Plateau
+1628,116,37,4.641856742697079,0,,False,True,False,Repeated Samples
+1603,115,39,4.601840736294518,0,,False,True,False,Repeated Samples
+1527,115,37,4.601840736294518,0,,False,True,False,Repeated Samples
+1055,114,29,4.561824729891957,0,,False,True,False,Repeated Samples
+621,113,66,4.5218087234893956,2,"CZ, FZ",True,True,True,Outlier + Long Plateau
+929,113,50,4.5218087234893956,0,,False,True,True,Long Plateau
+826,113,20,4.5218087234893956,0,,False,True,False,Repeated Samples
+1573,112,55,4.481792717086835,0,,False,True,True,Long Plateau
+849,112,26,4.481792717086835,0,,False,True,False,Repeated Samples
+1035,109,59,4.361744697879152,0,,False,True,True,Long Plateau
+581,108,23,4.321728691476591,2,"CZ, FZ",True,True,False,Outlier + Repeated Samples
+810,107,25,4.281712685074029,0,,False,True,False,Repeated Samples
+875,106,53,4.2416966786714685,0,,False,True,True,Long Plateau
+629,106,44,4.2416966786714685,0,,False,True,False,Repeated Samples
+843,103,57,4.121648659463785,0,,False,True,True,Long Plateau
+1249,103,56,4.121648659463785,0,,False,True,True,Long Plateau
+2066,103,55,4.121648659463785,0,,False,True,True,Long Plateau
+1553,103,41,4.121648659463785,0,,False,True,False,Repeated Samples
+1634,103,30,4.121648659463785,0,,False,True,False,Repeated Samples
+413,102,27,4.081632653061225,0,,False,True,False,Repeated Samples
+1048,101,48,4.041616646658664,0,,False,True,False,Repeated Samples
+1993,101,33,4.041616646658664,0,,False,True,False,Repeated Samples
+1618,100,69,4.001600640256102,0,,False,True,True,Long Plateau
+1845,100,50,4.001600640256102,0,,False,True,True,Long Plateau
+1640,100,42,4.001600640256102,0,,False,True,False,Repeated Samples
+794,100,33,4.001600640256102,0,,False,True,False,Repeated Samples
+1547,100,31,4.001600640256102,0,,False,True,False,Repeated Samples
+1853,100,28,4.001600640256102,0,,False,True,False,Repeated Samples
+1080,99,54,3.961584633853541,0,,False,True,True,Long Plateau
+1643,99,49,3.961584633853541,0,,False,True,False,Repeated Samples
+1473,99,29,3.961584633853541,0,,False,True,False,Repeated Samples
+1627,99,24,3.961584633853541,0,,False,True,False,Repeated Samples
+856,99,21,3.961584633853541,0,,False,True,False,Repeated Samples
+1511,98,28,3.9215686274509802,0,,False,True,False,Repeated Samples
+892,97,57,3.8815526210484195,0,,False,True,True,Long Plateau
+406,97,53,3.8815526210484195,0,,False,True,True,Long Plateau
+66,97,51,3.8815526210484195,0,,False,True,True,Long Plateau
+74,97,40,3.8815526210484195,0,,False,True,False,Repeated Samples
+292,96,59,3.8415366146458583,0,,False,True,True,Long Plateau
+779,96,52,3.8415366146458583,0,,False,True,True,Long Plateau
+405,96,48,3.8415366146458583,0,,False,True,False,Repeated Samples
+631,96,33,3.8415366146458583,0,,False,True,False,Repeated Samples
+1094,96,29,3.8415366146458583,0,,False,True,False,Repeated Samples
+1341,95,51,3.8015206082432975,0,,False,True,True,Long Plateau
+2008,95,47,3.8015206082432975,0,,False,True,False,Repeated Samples
+793,94,46,3.7615046018407363,0,,False,True,False,Repeated Samples
+1352,94,36,3.7615046018407363,0,,False,True,False,Repeated Samples
+296,94,25,3.7615046018407363,0,,False,True,False,Repeated Samples
+1197,93,48,3.721488595438175,0,,False,True,False,Repeated Samples
+848,93,28,3.721488595438175,0,,False,True,False,Repeated Samples
+827,93,20,3.721488595438175,0,,False,True,False,Repeated Samples
+1881,92,52,3.6814725890356144,0,,False,True,True,Long Plateau
+871,92,35,3.6814725890356144,0,,False,True,False,Repeated Samples
+1875,92,35,3.6814725890356144,0,,False,True,False,Repeated Samples
+1589,92,33,3.6814725890356144,0,,False,True,False,Repeated Samples
+1609,91,48,3.6414565826330536,0,,False,True,False,Repeated Samples
+288,91,40,3.6414565826330536,0,,False,True,False,Repeated Samples
+1868,89,44,3.561424569827931,0,,False,True,False,Repeated Samples
+1524,89,36,3.561424569827931,0,,False,True,False,Repeated Samples
+1636,89,34,3.561424569827931,0,,False,True,False,Repeated Samples
+2038,89,28,3.561424569827931,0,,False,True,False,Repeated Samples
+2,86,41,3.441376550620248,0,,False,True,False,Repeated Samples
+800,86,37,3.441376550620248,0,,False,True,False,Repeated Samples
+1046,86,29,3.441376550620248,0,,False,True,False,Repeated Samples
+81,86,27,3.441376550620248,0,,False,True,False,Repeated Samples
+1590,86,25,3.441376550620248,0,,False,True,False,Repeated Samples
+1578,85,51,3.4013605442176873,0,,False,True,True,Long Plateau
+1885,85,50,3.4013605442176873,0,,False,True,True,Long Plateau
+1848,85,48,3.4013605442176873,0,,False,True,False,Repeated Samples
+2108,85,42,3.4013605442176873,0,,False,True,False,Repeated Samples
+879,85,40,3.4013605442176873,0,,False,True,False,Repeated Samples
+1027,85,35,3.4013605442176873,0,,False,True,False,Repeated Samples
+829,85,25,3.4013605442176873,0,,False,True,False,Repeated Samples
+2032,84,49,3.361344537815126,0,,False,True,False,Repeated Samples
+1001,84,43,3.361344537815126,0,,False,True,False,Repeated Samples
+1469,84,42,3.361344537815126,0,,False,True,False,Repeated Samples
+927,84,26,3.361344537815126,0,,False,True,False,Repeated Samples
+789,83,45,3.321328531412565,0,,False,True,False,Repeated Samples
+1474,83,29,3.321328531412565,0,,False,True,False,Repeated Samples
+2015,83,28,3.321328531412565,0,,False,True,False,Repeated Samples
+290,82,42,3.281312525010004,0,,False,True,False,Repeated Samples
+1551,82,40,3.281312525010004,0,,False,True,False,Repeated Samples
+1028,82,31,3.281312525010004,0,,False,True,False,Repeated Samples
+107,82,30,3.281312525010004,0,,False,True,False,Repeated Samples
+1893,81,48,3.241296518607443,0,,False,True,False,Repeated Samples
+1544,81,36,3.241296518607443,0,,False,True,False,Repeated Samples
+1516,81,33,3.241296518607443,0,,False,True,False,Repeated Samples
+1414,81,29,3.241296518607443,1,CZ,True,True,False,Outlier + Repeated Samples
+91,81,23,3.241296518607443,0,,False,True,False,Repeated Samples
+233,80,31,3.201280512204882,0,,False,True,False,Repeated Samples
+2037,80,30,3.201280512204882,0,,False,True,False,Repeated Samples
+4,80,27,3.201280512204882,0,,False,True,False,Repeated Samples
+228,80,25,3.201280512204882,0,,False,True,False,Repeated Samples
+1586,79,43,3.1612645058023205,0,,False,True,False,Repeated Samples
+1597,79,38,3.1612645058023205,0,,False,True,False,Repeated Samples
+1224,79,31,3.1612645058023205,0,,False,True,False,Repeated Samples
+850,79,20,3.1612645058023205,0,,False,True,False,Repeated Samples
+1508,78,28,3.12124849939976,0,,False,True,False,Repeated Samples
+1355,77,44,3.081232492997199,0,,False,True,False,Repeated Samples
+2013,77,42,3.081232492997199,0,,False,True,False,Repeated Samples
+2045,77,23,3.081232492997199,0,,False,True,False,Repeated Samples
+2130,76,32,3.041216486594638,0,,False,True,False,Repeated Samples
+286,76,29,3.041216486594638,0,,False,True,False,Repeated Samples
+1770,75,30,3.0012004801920766,0,,False,True,False,Repeated Samples
+1838,75,28,3.0012004801920766,0,,False,True,False,Repeated Samples
+287,74,39,2.9611844737895154,0,,False,True,False,Repeated Samples
+280,74,36,2.9611844737895154,0,,False,True,False,Repeated Samples
+2122,74,35,2.9611844737895154,0,,False,True,False,Repeated Samples
+1849,74,34,2.9611844737895154,0,,False,True,False,Repeated Samples
+1865,74,34,2.9611844737895154,0,,False,True,False,Repeated Samples
+237,74,33,2.9611844737895154,0,,False,True,False,Repeated Samples
+2016,74,32,2.9611844737895154,0,,False,True,False,Repeated Samples
+628,74,27,2.9611844737895154,0,,False,True,False,Repeated Samples
+1416,74,24,2.9611844737895154,1,CZ,True,True,False,Outlier + Repeated Samples
+127,74,21,2.9611844737895154,0,,False,True,False,Repeated Samples
+1842,74,19,2.9611844737895154,0,,False,True,False,Repeated Samples
+2081,73,52,2.9211684673869547,0,,False,True,True,Long Plateau
+1347,73,35,2.9211684673869547,0,,False,True,False,Repeated Samples
+1980,72,52,2.881152460984394,0,,False,True,True,Long Plateau
+891,72,30,2.881152460984394,0,,False,True,False,Repeated Samples
+1200,72,23,2.881152460984394,0,,False,True,False,Repeated Samples
+2097,71,36,2.8411364545818327,0,,False,True,False,Repeated Samples
+1617,71,34,2.8411364545818327,0,,False,True,False,Repeated Samples
+1240,71,31,2.8411364545818327,0,,False,True,False,Repeated Samples
+1195,71,27,2.8411364545818327,0,,False,True,False,Repeated Samples
+1222,71,26,2.8411364545818327,0,,False,True,False,Repeated Samples
+1187,71,25,2.8411364545818327,0,,False,True,False,Repeated Samples
+2042,71,23,2.8411364545818327,0,,False,True,False,Repeated Samples
+660,70,35,2.801120448179272,3,"C3, CZ, FZ",True,True,False,Outlier + Repeated Samples
+1984,70,31,2.801120448179272,0,,False,True,False,Repeated Samples
+2019,70,31,2.801120448179272,0,,False,True,False,Repeated Samples
+409,70,28,2.801120448179272,0,,False,True,False,Repeated Samples
+1635,69,32,2.7611044417767108,0,,False,True,False,Repeated Samples
+1567,68,32,2.7210884353741496,0,,False,True,False,Repeated Samples
+1392,67,30,2.681072428971589,2,"C3, CZ",True,True,False,Outlier + Repeated Samples
+1823,66,56,2.6410564225690276,0,,False,True,True,Long Plateau
+1592,66,33,2.6410564225690276,0,,False,True,False,Repeated Samples
+1467,66,31,2.6410564225690276,0,,False,True,False,Repeated Samples
+842,65,42,2.6010404161664664,0,,False,True,False,Repeated Samples
+1226,65,28,2.6010404161664664,0,,False,True,False,Repeated Samples
+141,61,32,2.4409763905562225,0,,False,True,False,Repeated Samples
+858,61,24,2.4409763905562225,0,,False,True,False,Repeated Samples
+828,61,22,2.4409763905562225,0,,False,True,False,Repeated Samples
+933,60,35,2.4009603841536618,0,,False,True,False,Repeated Samples
+1642,60,26,2.4009603841536618,0,,False,True,False,Repeated Samples
+1644,58,20,2.3209283713485394,0,,False,True,False,Repeated Samples
+2112,56,18,2.2408963585434174,0,,False,True,False,Repeated Samples
+121,56,12,2.2408963585434174,0,,False,True,False,Repeated Samples
+1059,55,26,2.200880352140856,0,,False,True,False,Repeated Samples
+1575,53,25,2.1208483393357342,0,,False,True,False,Repeated Samples
+1859,53,23,2.1208483393357342,0,,False,True,False,Repeated Samples
+627,51,30,2.0408163265306123,0,,False,True,False,Repeated Samples
+1863,50,14,2.000800320128051,0,,False,True,False,Repeated Samples
+1238,49,25,1.9607843137254901,0,,False,True,False,Repeated Samples
+1964,49,25,1.9607843137254901,0,,False,True,False,Repeated Samples
+1058,48,22,1.9207683073229291,0,,False,True,False,Repeated Samples
+2001,47,30,1.8807523009203682,0,,False,True,False,Repeated Samples
+1840,46,25,1.8407362945178072,0,,False,True,False,Repeated Samples
+1373,45,31,1.800720288115246,0,,False,True,False,Repeated Samples
+1837,44,15,1.7607042817126852,0,,False,True,False,Repeated Samples
+1585,42,38,1.680672268907563,0,,False,True,False,Repeated Samples
+327,42,21,1.680672268907563,1,CZ,True,True,False,Outlier + Repeated Samples
+2120,41,30,1.640656262505002,0,,False,True,False,Repeated Samples
+1765,41,28,1.640656262505002,0,,False,True,False,Repeated Samples
+2119,41,28,1.640656262505002,0,,False,True,False,Repeated Samples
+1826,41,17,1.640656262505002,0,,False,True,False,Repeated Samples
+8,38,39,1.520608243297319,0,,False,True,False,Repeated Samples
+1824,38,22,1.520608243297319,0,,False,True,False,Repeated Samples
+910,38,14,1.520608243297319,0,,False,True,False,Repeated Samples
+857,34,12,1.3605442176870748,0,,False,True,False,Repeated Samples
+1568,33,34,1.3205282112845138,0,,False,True,False,Repeated Samples
+790,32,19,1.2805122048819528,0,,False,True,False,Repeated Samples
+1577,32,19,1.2805122048819528,0,,False,True,False,Repeated Samples
+576,27,16,1.0804321728691477,2,"CZ, FZ",True,True,False,Outlier + Repeated Samples
+577,27,15,1.0804321728691477,2,"CZ, FZ",True,True,False,Outlier + Repeated Samples
+346,26,9,1.0404161664665865,1,CZ,True,True,False,Outlier + Repeated Samples
+1673,25,25,1.0004001600640255,0,,False,True,False,Repeated Samples
+568,23,24,0.9203681472589036,2,"CZ, FZ",True,True,False,Outlier + Repeated Samples
+2113,22,23,0.8803521408563426,0,,False,True,False,Repeated Samples
+408,20,21,0.8003201280512205,0,,False,True,False,Repeated Samples
+1391,19,12,0.7603041216486595,2,"C3, CZ",True,True,False,Outlier + Repeated Samples
+1825,19,10,0.7603041216486595,0,,False,True,False,Repeated Samples
+593,18,12,0.7202881152460985,2,"CZ, FZ",True,True,False,Outlier + Repeated Samples
+328,17,5,0.6802721088435374,1,CZ,True,True,False,Outlier + Repeated Samples
+1857,14,15,0.5602240896358543,0,,False,True,False,Repeated Samples
+402,13,14,0.5202080832332933,0,,False,True,False,Repeated Samples
+569,13,8,0.5202080832332933,2,"CZ, FZ",True,True,False,Outlier + Repeated Samples
+330,11,12,0.4401760704281713,1,CZ,True,True,False,Outlier + Repeated Samples
+347,11,7,0.4401760704281713,1,CZ,True,True,False,Outlier + Repeated Samples
+322,10,7,0.4001600640256103,0,,False,True,False,Repeated Samples
+582,9,10,0.36014405762304924,2,"CZ, FZ",True,True,False,Outlier + Repeated Samples
+935,9,10,0.36014405762304924,0,,False,True,False,Repeated Samples
+355,9,5,0.36014405762304924,0,,False,True,False,Repeated Samples
+586,7,8,0.2801120448179272,2,"CZ, FZ",True,True,False,Outlier + Repeated Samples
+334,6,7,0.24009603841536614,1,CZ,True,True,False,Outlier + Repeated Samples
+15,6,6,0.24009603841536614,0,,False,True,False,Repeated Samples
+345,6,4,0.24009603841536614,1,CZ,True,True,False,Outlier + Repeated Samples
+357,5,6,0.20008003201280514,0,,False,True,False,Repeated Samples
+339,5,5,0.20008003201280514,1,CZ,True,True,False,Outlier + Repeated Samples
+323,5,4,0.20008003201280514,0,,False,True,False,Repeated Samples
+311,4,5,0.1600640256102441,0,,False,True,False,Repeated Samples
+325,4,5,0.1600640256102441,1,CZ,True,True,False,Outlier + Repeated Samples
+371,4,5,0.1600640256102441,0,,False,True,False,Repeated Samples
+816,4,5,0.1600640256102441,0,,False,True,False,Repeated Samples
+1526,4,5,0.1600640256102441,0,,False,True,False,Repeated Samples
+329,3,4,0.12004801920768307,1,CZ,True,True,False,Outlier + Repeated Samples
+342,3,4,0.12004801920768307,1,CZ,True,True,False,Outlier + Repeated Samples
+343,3,4,0.12004801920768307,1,CZ,True,True,False,Outlier + Repeated Samples
+365,3,4,0.12004801920768307,0,,False,True,False,Repeated Samples
+375,3,4,0.12004801920768307,0,,False,True,False,Repeated Samples
+337,3,3,0.12004801920768307,1,CZ,True,True,False,Outlier + Repeated Samples
+361,3,3,0.12004801920768307,1,CZ,True,True,False,Outlier + Repeated Samples
+326,2,3,0.08003201280512205,1,CZ,True,True,False,Outlier + Repeated Samples
+340,2,3,0.08003201280512205,1,CZ,True,True,False,Outlier + Repeated Samples
+351,2,3,0.08003201280512205,1,CZ,True,True,False,Outlier + Repeated Samples
+358,2,3,0.08003201280512205,0,,False,True,False,Repeated Samples
+364,2,3,0.08003201280512205,0,,False,True,False,Repeated Samples
+316,1,2,0.040016006402561026,0,,False,True,False,Repeated Samples
+318,1,2,0.040016006402561026,0,,False,True,False,Repeated Samples
+341,1,2,0.040016006402561026,1,CZ,True,True,False,Outlier + Repeated Samples
+344,1,2,0.040016006402561026,1,CZ,True,True,False,Outlier + Repeated Samples
+348,1,2,0.040016006402561026,1,CZ,True,True,False,Outlier + Repeated Samples
+367,1,2,0.040016006402561026,0,,False,True,False,Repeated Samples
+377,1,2,0.040016006402561026,0,,False,True,False,Repeated Samples
+425,1,2,0.040016006402561026,0,,False,True,False,Repeated Samples
+1,0,1,0.0,0,,False,False,False,No Detected Issue
+5,0,1,0.0,0,,False,False,False,No Detected Issue
+6,0,1,0.0,0,,False,False,False,No Detected Issue
+9,0,1,0.0,0,,False,False,False,No Detected Issue
+10,0,1,0.0,0,,False,False,False,No Detected Issue
+11,0,1,0.0,0,,False,False,False,No Detected Issue
+12,0,1,0.0,0,,False,False,False,No Detected Issue
+13,0,1,0.0,0,,False,False,False,No Detected Issue
+14,0,1,0.0,0,,False,False,False,No Detected Issue
+16,0,1,0.0,0,,False,False,False,No Detected Issue
+17,0,1,0.0,0,,False,False,False,No Detected Issue
+18,0,1,0.0,0,,False,False,False,No Detected Issue
+19,0,1,0.0,0,,False,False,False,No Detected Issue
+20,0,1,0.0,0,,False,False,False,No Detected Issue
+21,0,1,0.0,0,,False,False,False,No Detected Issue
+22,0,1,0.0,0,,False,False,False,No Detected Issue
+23,0,1,0.0,0,,False,False,False,No Detected Issue
+24,0,1,0.0,0,,False,False,False,No Detected Issue
+25,0,1,0.0,0,,False,False,False,No Detected Issue
+26,0,1,0.0,0,,False,False,False,No Detected Issue
+27,0,1,0.0,0,,False,False,False,No Detected Issue
+28,0,1,0.0,0,,False,False,False,No Detected Issue
+29,0,1,0.0,0,,False,False,False,No Detected Issue
+30,0,1,0.0,0,,False,False,False,No Detected Issue
+31,0,1,0.0,0,,False,False,False,No Detected Issue
+32,0,1,0.0,0,,False,False,False,No Detected Issue
+33,0,1,0.0,0,,False,False,False,No Detected Issue
+34,0,1,0.0,0,,False,False,False,No Detected Issue
+35,0,1,0.0,0,,False,False,False,No Detected Issue
+36,0,1,0.0,0,,False,False,False,No Detected Issue
+37,0,1,0.0,0,,False,False,False,No Detected Issue
+38,0,1,0.0,0,,False,False,False,No Detected Issue
+39,0,1,0.0,0,,False,False,False,No Detected Issue
+40,0,1,0.0,0,,False,False,False,No Detected Issue
+41,0,1,0.0,0,,False,False,False,No Detected Issue
+42,0,1,0.0,0,,False,False,False,No Detected Issue
+43,0,1,0.0,0,,False,False,False,No Detected Issue
+44,0,1,0.0,0,,False,False,False,No Detected Issue
+45,0,1,0.0,0,,False,False,False,No Detected Issue
+46,0,1,0.0,0,,False,False,False,No Detected Issue
+47,0,1,0.0,0,,False,False,False,No Detected Issue
+48,0,1,0.0,0,,False,False,False,No Detected Issue
+49,0,1,0.0,0,,False,False,False,No Detected Issue
+50,0,1,0.0,0,,False,False,False,No Detected Issue
+51,0,1,0.0,0,,False,False,False,No Detected Issue
+52,0,1,0.0,0,,False,False,False,No Detected Issue
+53,0,1,0.0,0,,False,False,False,No Detected Issue
+54,0,1,0.0,0,,False,False,False,No Detected Issue
+55,0,1,0.0,0,,False,False,False,No Detected Issue
+56,0,1,0.0,0,,False,False,False,No Detected Issue
+57,0,1,0.0,0,,False,False,False,No Detected Issue
+58,0,1,0.0,0,,False,False,False,No Detected Issue
+59,0,1,0.0,0,,False,False,False,No Detected Issue
+60,0,1,0.0,0,,False,False,False,No Detected Issue
+61,0,1,0.0,0,,False,False,False,No Detected Issue
+62,0,1,0.0,0,,False,False,False,No Detected Issue
+63,0,1,0.0,0,,False,False,False,No Detected Issue
+64,0,1,0.0,0,,False,False,False,No Detected Issue
+65,0,1,0.0,0,,False,False,False,No Detected Issue
+67,0,1,0.0,0,,False,False,False,No Detected Issue
+68,0,1,0.0,0,,False,False,False,No Detected Issue
+69,0,1,0.0,0,,False,False,False,No Detected Issue
+70,0,1,0.0,0,,False,False,False,No Detected Issue
+71,0,1,0.0,0,,False,False,False,No Detected Issue
+72,0,1,0.0,0,,False,False,False,No Detected Issue
+73,0,1,0.0,0,,False,False,False,No Detected Issue
+75,0,1,0.0,0,,False,False,False,No Detected Issue
+76,0,1,0.0,0,,False,False,False,No Detected Issue
+77,0,1,0.0,0,,False,False,False,No Detected Issue
+78,0,1,0.0,0,,False,False,False,No Detected Issue
+79,0,1,0.0,0,,False,False,False,No Detected Issue
+80,0,1,0.0,0,,False,False,False,No Detected Issue
+82,0,1,0.0,0,,False,False,False,No Detected Issue
+83,0,1,0.0,0,,False,False,False,No Detected Issue
+84,0,1,0.0,0,,False,False,False,No Detected Issue
+85,0,1,0.0,0,,False,False,False,No Detected Issue
+86,0,1,0.0,0,,False,False,False,No Detected Issue
+87,0,1,0.0,0,,False,False,False,No Detected Issue
+88,0,1,0.0,0,,False,False,False,No Detected Issue
+89,0,1,0.0,0,,False,False,False,No Detected Issue
+90,0,1,0.0,0,,False,False,False,No Detected Issue
+93,0,1,0.0,0,,False,False,False,No Detected Issue
+94,0,1,0.0,0,,False,False,False,No Detected Issue
+95,0,1,0.0,0,,False,False,False,No Detected Issue
+96,0,1,0.0,0,,False,False,False,No Detected Issue
+97,0,1,0.0,0,,False,False,False,No Detected Issue
+98,0,1,0.0,0,,False,False,False,No Detected Issue
+99,0,1,0.0,0,,False,False,False,No Detected Issue
+100,0,1,0.0,0,,False,False,False,No Detected Issue
+101,0,1,0.0,0,,False,False,False,No Detected Issue
+102,0,1,0.0,0,,False,False,False,No Detected Issue
+103,0,1,0.0,0,,False,False,False,No Detected Issue
+105,0,1,0.0,0,,False,False,False,No Detected Issue
+106,0,1,0.0,0,,False,False,False,No Detected Issue
+109,0,1,0.0,0,,False,False,False,No Detected Issue
+110,0,1,0.0,0,,False,False,False,No Detected Issue
+111,0,1,0.0,0,,False,False,False,No Detected Issue
+112,0,1,0.0,0,,False,False,False,No Detected Issue
+114,0,1,0.0,0,,False,False,False,No Detected Issue
+115,0,1,0.0,0,,False,False,False,No Detected Issue
+117,0,1,0.0,0,,False,False,False,No Detected Issue
+118,0,1,0.0,0,,False,False,False,No Detected Issue
+119,0,1,0.0,0,,False,False,False,No Detected Issue
+120,0,1,0.0,0,,False,False,False,No Detected Issue
+122,0,1,0.0,0,,False,False,False,No Detected Issue
+123,0,1,0.0,0,,False,False,False,No Detected Issue
+124,0,1,0.0,0,,False,False,False,No Detected Issue
+125,0,1,0.0,0,,False,False,False,No Detected Issue
+126,0,1,0.0,0,,False,False,False,No Detected Issue
+128,0,1,0.0,0,,False,False,False,No Detected Issue
+129,0,1,0.0,0,,False,False,False,No Detected Issue
+130,0,1,0.0,0,,False,False,False,No Detected Issue
+131,0,1,0.0,0,,False,False,False,No Detected Issue
+132,0,1,0.0,0,,False,False,False,No Detected Issue
+133,0,1,0.0,0,,False,False,False,No Detected Issue
+134,0,1,0.0,0,,False,False,False,No Detected Issue
+135,0,1,0.0,0,,False,False,False,No Detected Issue
+136,0,1,0.0,0,,False,False,False,No Detected Issue
+137,0,1,0.0,0,,False,False,False,No Detected Issue
+138,0,1,0.0,0,,False,False,False,No Detected Issue
+139,0,1,0.0,0,,False,False,False,No Detected Issue
+140,0,1,0.0,0,,False,False,False,No Detected Issue
+143,0,1,0.0,0,,False,False,False,No Detected Issue
+144,0,1,0.0,0,,False,False,False,No Detected Issue
+145,0,1,0.0,0,,False,False,False,No Detected Issue
+146,0,1,0.0,0,,False,False,False,No Detected Issue
+147,0,1,0.0,0,,False,False,False,No Detected Issue
+148,0,1,0.0,0,,False,False,False,No Detected Issue
+149,0,1,0.0,0,,False,False,False,No Detected Issue
+150,0,1,0.0,0,,False,False,False,No Detected Issue
+151,0,1,0.0,0,,False,False,False,No Detected Issue
+152,0,1,0.0,0,,False,False,False,No Detected Issue
+153,0,1,0.0,0,,False,False,False,No Detected Issue
+154,0,1,0.0,0,,False,False,False,No Detected Issue
+155,0,1,0.0,0,,False,False,False,No Detected Issue
+156,0,1,0.0,0,,False,False,False,No Detected Issue
+157,0,1,0.0,0,,False,False,False,No Detected Issue
+158,0,1,0.0,0,,False,False,False,No Detected Issue
+159,0,1,0.0,0,,False,False,False,No Detected Issue
+160,0,1,0.0,0,,False,False,False,No Detected Issue
+161,0,1,0.0,0,,False,False,False,No Detected Issue
+162,0,1,0.0,0,,False,False,False,No Detected Issue
+163,0,1,0.0,0,,False,False,False,No Detected Issue
+164,0,1,0.0,0,,False,False,False,No Detected Issue
+165,0,1,0.0,0,,False,False,False,No Detected Issue
+166,0,1,0.0,0,,False,False,False,No Detected Issue
+167,0,1,0.0,0,,False,False,False,No Detected Issue
+168,0,1,0.0,0,,False,False,False,No Detected Issue
+169,0,1,0.0,0,,False,False,False,No Detected Issue
+170,0,1,0.0,0,,False,False,False,No Detected Issue
+171,0,1,0.0,0,,False,False,False,No Detected Issue
+172,0,1,0.0,0,,False,False,False,No Detected Issue
+173,0,1,0.0,0,,False,False,False,No Detected Issue
+174,0,1,0.0,0,,False,False,False,No Detected Issue
+175,0,1,0.0,0,,False,False,False,No Detected Issue
+176,0,1,0.0,0,,False,False,False,No Detected Issue
+177,0,1,0.0,0,,False,False,False,No Detected Issue
+178,0,1,0.0,0,,False,False,False,No Detected Issue
+179,0,1,0.0,0,,False,False,False,No Detected Issue
+180,0,1,0.0,0,,False,False,False,No Detected Issue
+181,0,1,0.0,0,,False,False,False,No Detected Issue
+182,0,1,0.0,0,,False,False,False,No Detected Issue
+183,0,1,0.0,0,,False,False,False,No Detected Issue
+184,0,1,0.0,0,,False,False,False,No Detected Issue
+185,0,1,0.0,0,,False,False,False,No Detected Issue
+186,0,1,0.0,0,,False,False,False,No Detected Issue
+187,0,1,0.0,0,,False,False,False,No Detected Issue
+188,0,1,0.0,0,,False,False,False,No Detected Issue
+189,0,1,0.0,0,,False,False,False,No Detected Issue
+190,0,1,0.0,0,,False,False,False,No Detected Issue
+191,0,1,0.0,0,,False,False,False,No Detected Issue
+192,0,1,0.0,0,,False,False,False,No Detected Issue
+193,0,1,0.0,0,,False,False,False,No Detected Issue
+194,0,1,0.0,0,,False,False,False,No Detected Issue
+195,0,1,0.0,0,,False,False,False,No Detected Issue
+196,0,1,0.0,0,,False,False,False,No Detected Issue
+197,0,1,0.0,0,,False,False,False,No Detected Issue
+198,0,1,0.0,0,,False,False,False,No Detected Issue
+199,0,1,0.0,0,,False,False,False,No Detected Issue
+200,0,1,0.0,0,,False,False,False,No Detected Issue
+201,0,1,0.0,0,,False,False,False,No Detected Issue
+202,0,1,0.0,0,,False,False,False,No Detected Issue
+203,0,1,0.0,0,,False,False,False,No Detected Issue
+204,0,1,0.0,0,,False,False,False,No Detected Issue
+205,0,1,0.0,0,,False,False,False,No Detected Issue
+206,0,1,0.0,0,,False,False,False,No Detected Issue
+207,0,1,0.0,0,,False,False,False,No Detected Issue
+208,0,1,0.0,0,,False,False,False,No Detected Issue
+209,0,1,0.0,0,,False,False,False,No Detected Issue
+210,0,1,0.0,0,,False,False,False,No Detected Issue
+211,0,1,0.0,0,,False,False,False,No Detected Issue
+212,0,1,0.0,0,,False,False,False,No Detected Issue
+213,0,1,0.0,0,,False,False,False,No Detected Issue
+214,0,1,0.0,0,,False,False,False,No Detected Issue
+215,0,1,0.0,0,,False,False,False,No Detected Issue
+216,0,1,0.0,0,,False,False,False,No Detected Issue
+217,0,1,0.0,0,,False,False,False,No Detected Issue
+218,0,1,0.0,0,,False,False,False,No Detected Issue
+219,0,1,0.0,0,,False,False,False,No Detected Issue
+220,0,1,0.0,0,,False,False,False,No Detected Issue
+221,0,1,0.0,0,,False,False,False,No Detected Issue
+222,0,1,0.0,0,,False,False,False,No Detected Issue
+223,0,1,0.0,0,,False,False,False,No Detected Issue
+224,0,1,0.0,0,,False,False,False,No Detected Issue
+225,0,1,0.0,0,,False,False,False,No Detected Issue
+226,0,1,0.0,0,,False,False,False,No Detected Issue
+227,0,1,0.0,0,,False,False,False,No Detected Issue
+229,0,1,0.0,0,,False,False,False,No Detected Issue
+230,0,1,0.0,0,,False,False,False,No Detected Issue
+231,0,1,0.0,0,,False,False,False,No Detected Issue
+232,0,1,0.0,0,,False,False,False,No Detected Issue
+234,0,1,0.0,0,,False,False,False,No Detected Issue
+235,0,1,0.0,0,,False,False,False,No Detected Issue
+236,0,1,0.0,0,,False,False,False,No Detected Issue
+238,0,1,0.0,0,,False,False,False,No Detected Issue
+239,0,1,0.0,0,,False,False,False,No Detected Issue
+240,0,1,0.0,0,,False,False,False,No Detected Issue
+241,0,1,0.0,0,,False,False,False,No Detected Issue
+242,0,1,0.0,0,,False,False,False,No Detected Issue
+243,0,1,0.0,0,,False,False,False,No Detected Issue
+244,0,1,0.0,0,,False,False,False,No Detected Issue
+245,0,1,0.0,0,,False,False,False,No Detected Issue
+247,0,1,0.0,0,,False,False,False,No Detected Issue
+248,0,1,0.0,0,,False,False,False,No Detected Issue
+249,0,1,0.0,0,,False,False,False,No Detected Issue
+250,0,1,0.0,0,,False,False,False,No Detected Issue
+251,0,1,0.0,0,,False,False,False,No Detected Issue
+252,0,1,0.0,0,,False,False,False,No Detected Issue
+253,0,1,0.0,0,,False,False,False,No Detected Issue
+254,0,1,0.0,0,,False,False,False,No Detected Issue
+255,0,1,0.0,0,,False,False,False,No Detected Issue
+256,0,1,0.0,0,,False,False,False,No Detected Issue
+257,0,1,0.0,0,,False,False,False,No Detected Issue
+258,0,1,0.0,0,,False,False,False,No Detected Issue
+259,0,1,0.0,0,,False,False,False,No Detected Issue
+260,0,1,0.0,0,,False,False,False,No Detected Issue
+261,0,1,0.0,0,,False,False,False,No Detected Issue
+262,0,1,0.0,0,,False,False,False,No Detected Issue
+263,0,1,0.0,0,,False,False,False,No Detected Issue
+264,0,1,0.0,0,,False,False,False,No Detected Issue
+265,0,1,0.0,0,,False,False,False,No Detected Issue
+266,0,1,0.0,0,,False,False,False,No Detected Issue
+267,0,1,0.0,0,,False,False,False,No Detected Issue
+268,0,1,0.0,0,,False,False,False,No Detected Issue
+269,0,1,0.0,0,,False,False,False,No Detected Issue
+270,0,1,0.0,0,,False,False,False,No Detected Issue
+271,0,1,0.0,0,,False,False,False,No Detected Issue
+272,0,1,0.0,0,,False,False,False,No Detected Issue
+273,0,1,0.0,0,,False,False,False,No Detected Issue
+274,0,1,0.0,0,,False,False,False,No Detected Issue
+275,0,1,0.0,0,,False,False,False,No Detected Issue
+276,0,1,0.0,0,,False,False,False,No Detected Issue
+277,0,1,0.0,0,,False,False,False,No Detected Issue
+278,0,1,0.0,0,,False,False,False,No Detected Issue
+279,0,1,0.0,0,,False,False,False,No Detected Issue
+281,0,1,0.0,0,,False,False,False,No Detected Issue
+282,0,1,0.0,0,,False,False,False,No Detected Issue
+283,0,1,0.0,0,,False,False,False,No Detected Issue
+284,0,1,0.0,0,,False,False,False,No Detected Issue
+285,0,1,0.0,0,,False,False,False,No Detected Issue
+291,0,1,0.0,0,,False,False,False,No Detected Issue
+293,0,1,0.0,0,,False,False,False,No Detected Issue
+295,0,1,0.0,0,,False,False,False,No Detected Issue
+306,0,1,0.0,0,,False,False,False,No Detected Issue
+307,0,1,0.0,0,,False,False,False,No Detected Issue
+308,0,1,0.0,0,,False,False,False,No Detected Issue
+309,0,1,0.0,0,,False,False,False,No Detected Issue
+312,0,1,0.0,0,,False,False,False,No Detected Issue
+313,0,1,0.0,0,,False,False,False,No Detected Issue
+314,0,1,0.0,0,,False,False,False,No Detected Issue
+315,0,1,0.0,0,,False,False,False,No Detected Issue
+317,0,1,0.0,0,,False,False,False,No Detected Issue
+319,0,1,0.0,0,,False,False,False,No Detected Issue
+320,0,1,0.0,0,,False,False,False,No Detected Issue
+321,0,1,0.0,0,,False,False,False,No Detected Issue
+324,0,1,0.0,0,,False,False,False,No Detected Issue
+331,0,1,0.0,1,CZ,True,False,False,Outlier Only
+332,0,1,0.0,1,CZ,True,False,False,Outlier Only
+333,0,1,0.0,1,CZ,True,False,False,Outlier Only
+335,0,1,0.0,1,CZ,True,False,False,Outlier Only
+336,0,1,0.0,1,CZ,True,False,False,Outlier Only
+338,0,1,0.0,1,CZ,True,False,False,Outlier Only
+349,0,1,0.0,1,CZ,True,False,False,Outlier Only
+350,0,1,0.0,1,CZ,True,False,False,Outlier Only
+352,0,1,0.0,0,,False,False,False,No Detected Issue
+353,0,1,0.0,0,,False,False,False,No Detected Issue
+354,0,1,0.0,0,,False,False,False,No Detected Issue
+356,0,1,0.0,0,,False,False,False,No Detected Issue
+359,0,1,0.0,0,,False,False,False,No Detected Issue
+360,0,1,0.0,0,,False,False,False,No Detected Issue
+362,0,1,0.0,0,,False,False,False,No Detected Issue
+363,0,1,0.0,0,,False,False,False,No Detected Issue
+366,0,1,0.0,0,,False,False,False,No Detected Issue
+368,0,1,0.0,0,,False,False,False,No Detected Issue
+369,0,1,0.0,0,,False,False,False,No Detected Issue
+370,0,1,0.0,0,,False,False,False,No Detected Issue
+372,0,1,0.0,0,,False,False,False,No Detected Issue
+373,0,1,0.0,0,,False,False,False,No Detected Issue
+374,0,1,0.0,0,,False,False,False,No Detected Issue
+376,0,1,0.0,0,,False,False,False,No Detected Issue
+378,0,1,0.0,0,,False,False,False,No Detected Issue
+379,0,1,0.0,0,,False,False,False,No Detected Issue
+380,0,1,0.0,0,,False,False,False,No Detected Issue
+381,0,1,0.0,0,,False,False,False,No Detected Issue
+382,0,1,0.0,0,,False,False,False,No Detected Issue
+383,0,1,0.0,0,,False,False,False,No Detected Issue
+384,0,1,0.0,0,,False,False,False,No Detected Issue
+385,0,1,0.0,0,,False,False,False,No Detected Issue
+386,0,1,0.0,0,,False,False,False,No Detected Issue
+387,0,1,0.0,0,,False,False,False,No Detected Issue
+388,0,1,0.0,0,,False,False,False,No Detected Issue
+389,0,1,0.0,0,,False,False,False,No Detected Issue
+390,0,1,0.0,0,,False,False,False,No Detected Issue
+391,0,1,0.0,0,,False,False,False,No Detected Issue
+392,0,1,0.0,0,,False,False,False,No Detected Issue
+393,0,1,0.0,0,,False,False,False,No Detected Issue
+394,0,1,0.0,0,,False,False,False,No Detected Issue
+395,0,1,0.0,0,,False,False,False,No Detected Issue
+396,0,1,0.0,0,,False,False,False,No Detected Issue
+397,0,1,0.0,0,,False,False,False,No Detected Issue
+398,0,1,0.0,0,,False,False,False,No Detected Issue
+399,0,1,0.0,0,,False,False,False,No Detected Issue
+400,0,1,0.0,0,,False,False,False,No Detected Issue
+401,0,1,0.0,0,,False,False,False,No Detected Issue
+403,0,1,0.0,0,,False,False,False,No Detected Issue
+404,0,1,0.0,0,,False,False,False,No Detected Issue
+407,0,1,0.0,0,,False,False,False,No Detected Issue
+410,0,1,0.0,0,,False,False,False,No Detected Issue
+411,0,1,0.0,0,,False,False,False,No Detected Issue
+412,0,1,0.0,0,,False,False,False,No Detected Issue
+414,0,1,0.0,0,,False,False,False,No Detected Issue
+415,0,1,0.0,0,,False,False,False,No Detected Issue
+416,0,1,0.0,0,,False,False,False,No Detected Issue
+417,0,1,0.0,0,,False,False,False,No Detected Issue
+418,0,1,0.0,0,,False,False,False,No Detected Issue
+419,0,1,0.0,0,,False,False,False,No Detected Issue
+420,0,1,0.0,0,,False,False,False,No Detected Issue
+421,0,1,0.0,0,,False,False,False,No Detected Issue
+422,0,1,0.0,0,,False,False,False,No Detected Issue
+423,0,1,0.0,0,,False,False,False,No Detected Issue
+424,0,1,0.0,0,,False,False,False,No Detected Issue
+426,0,1,0.0,0,,False,False,False,No Detected Issue
+427,0,1,0.0,0,,False,False,False,No Detected Issue
+428,0,1,0.0,0,,False,False,False,No Detected Issue
+429,0,1,0.0,0,,False,False,False,No Detected Issue
+430,0,1,0.0,0,,False,False,False,No Detected Issue
+431,0,1,0.0,0,,False,False,False,No Detected Issue
+432,0,1,0.0,0,,False,False,False,No Detected Issue
+433,0,1,0.0,0,,False,False,False,No Detected Issue
+434,0,1,0.0,0,,False,False,False,No Detected Issue
+435,0,1,0.0,0,,False,False,False,No Detected Issue
+436,0,1,0.0,0,,False,False,False,No Detected Issue
+437,0,1,0.0,0,,False,False,False,No Detected Issue
+438,0,1,0.0,0,,False,False,False,No Detected Issue
+439,0,1,0.0,0,,False,False,False,No Detected Issue
+440,0,1,0.0,0,,False,False,False,No Detected Issue
+441,0,1,0.0,0,,False,False,False,No Detected Issue
+442,0,1,0.0,0,,False,False,False,No Detected Issue
+443,0,1,0.0,0,,False,False,False,No Detected Issue
+444,0,1,0.0,0,,False,False,False,No Detected Issue
+445,0,1,0.0,0,,False,False,False,No Detected Issue
+446,0,1,0.0,0,,False,False,False,No Detected Issue
+447,0,1,0.0,0,,False,False,False,No Detected Issue
+448,0,1,0.0,0,,False,False,False,No Detected Issue
+449,0,1,0.0,0,,False,False,False,No Detected Issue
+450,0,1,0.0,0,,False,False,False,No Detected Issue
+451,0,1,0.0,0,,False,False,False,No Detected Issue
+452,0,1,0.0,0,,False,False,False,No Detected Issue
+453,0,1,0.0,0,,False,False,False,No Detected Issue
+454,0,1,0.0,0,,False,False,False,No Detected Issue
+455,0,1,0.0,0,,False,False,False,No Detected Issue
+456,0,1,0.0,0,,False,False,False,No Detected Issue
+457,0,1,0.0,0,,False,False,False,No Detected Issue
+458,0,1,0.0,0,,False,False,False,No Detected Issue
+459,0,1,0.0,0,,False,False,False,No Detected Issue
+460,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+461,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+462,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+463,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+464,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+465,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+466,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+467,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+468,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+469,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+470,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+471,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+472,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+473,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+474,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+475,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+476,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+477,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+478,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+479,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+480,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+481,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+482,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+483,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+484,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+485,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+486,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+487,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+488,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+489,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+490,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+491,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+492,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+493,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+494,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+495,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+496,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+497,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+498,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+499,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+500,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+501,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+502,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+503,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+513,0,1,0.0,0,,False,False,False,No Detected Issue
+514,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+515,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+516,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+517,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+518,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+519,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+520,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+521,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+522,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+523,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+524,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+525,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+526,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+527,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+528,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+529,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+530,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+531,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+532,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+533,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+534,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+535,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+536,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+537,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+538,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+539,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+540,0,1,0.0,4,"C3, C4, CZ, FZ",True,False,False,Outlier Only
+541,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+542,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+543,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+544,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+545,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+546,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+547,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+548,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+549,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+550,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+551,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+552,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+553,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+554,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+555,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+556,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+557,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+558,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+559,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+560,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+561,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+562,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+563,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+564,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+565,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+566,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+567,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+575,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+578,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+579,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+580,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+583,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+584,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+585,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+587,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+588,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+591,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+592,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+594,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+595,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+596,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+597,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+598,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+599,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+600,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+601,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+602,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+612,0,1,0.0,0,,False,False,False,No Detected Issue
+613,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+614,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+615,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+616,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+617,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+618,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+619,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+620,0,1,0.0,2,"CZ, FZ",True,False,False,Outlier Only
+634,0,1,0.0,0,,False,False,False,No Detected Issue
+635,0,1,0.0,0,,False,False,False,No Detected Issue
+636,0,1,0.0,0,,False,False,False,No Detected Issue
+637,0,1,0.0,0,,False,False,False,No Detected Issue
+639,0,1,0.0,0,,False,False,False,No Detected Issue
+640,0,1,0.0,0,,False,False,False,No Detected Issue
+641,0,1,0.0,0,,False,False,False,No Detected Issue
+642,0,1,0.0,0,,False,False,False,No Detected Issue
+643,0,1,0.0,0,,False,False,False,No Detected Issue
+644,0,1,0.0,0,,False,False,False,No Detected Issue
+645,0,1,0.0,0,,False,False,False,No Detected Issue
+646,0,1,0.0,0,,False,False,False,No Detected Issue
+647,0,1,0.0,0,,False,False,False,No Detected Issue
+648,0,1,0.0,0,,False,False,False,No Detected Issue
+649,0,1,0.0,0,,False,False,False,No Detected Issue
+650,0,1,0.0,0,,False,False,False,No Detected Issue
+651,0,1,0.0,0,,False,False,False,No Detected Issue
+652,0,1,0.0,0,,False,False,False,No Detected Issue
+653,0,1,0.0,0,,False,False,False,No Detected Issue
+654,0,1,0.0,0,,False,False,False,No Detected Issue
+655,0,1,0.0,0,,False,False,False,No Detected Issue
+656,0,1,0.0,0,,False,False,False,No Detected Issue
+661,0,1,0.0,3,"C3, CZ, FZ",True,False,False,Outlier Only
+665,0,1,0.0,3,"C3, CZ, FZ",True,False,False,Outlier Only
+666,0,1,0.0,3,"C3, CZ, FZ",True,False,False,Outlier Only
+667,0,1,0.0,0,,False,False,False,No Detected Issue
+668,0,1,0.0,0,,False,False,False,No Detected Issue
+669,0,1,0.0,0,,False,False,False,No Detected Issue
+670,0,1,0.0,0,,False,False,False,No Detected Issue
+671,0,1,0.0,0,,False,False,False,No Detected Issue
+672,0,1,0.0,0,,False,False,False,No Detected Issue
+673,0,1,0.0,0,,False,False,False,No Detected Issue
+674,0,1,0.0,0,,False,False,False,No Detected Issue
+675,0,1,0.0,0,,False,False,False,No Detected Issue
+676,0,1,0.0,0,,False,False,False,No Detected Issue
+677,0,1,0.0,0,,False,False,False,No Detected Issue
+678,0,1,0.0,0,,False,False,False,No Detected Issue
+679,0,1,0.0,0,,False,False,False,No Detected Issue
+680,0,1,0.0,0,,False,False,False,No Detected Issue
+681,0,1,0.0,0,,False,False,False,No Detected Issue
+682,0,1,0.0,0,,False,False,False,No Detected Issue
+683,0,1,0.0,0,,False,False,False,No Detected Issue
+684,0,1,0.0,0,,False,False,False,No Detected Issue
+685,0,1,0.0,0,,False,False,False,No Detected Issue
+686,0,1,0.0,0,,False,False,False,No Detected Issue
+687,0,1,0.0,0,,False,False,False,No Detected Issue
+688,0,1,0.0,0,,False,False,False,No Detected Issue
+689,0,1,0.0,0,,False,False,False,No Detected Issue
+690,0,1,0.0,0,,False,False,False,No Detected Issue
+691,0,1,0.0,0,,False,False,False,No Detected Issue
+692,0,1,0.0,0,,False,False,False,No Detected Issue
+693,0,1,0.0,0,,False,False,False,No Detected Issue
+694,0,1,0.0,0,,False,False,False,No Detected Issue
+695,0,1,0.0,0,,False,False,False,No Detected Issue
+696,0,1,0.0,0,,False,False,False,No Detected Issue
+697,0,1,0.0,0,,False,False,False,No Detected Issue
+698,0,1,0.0,0,,False,False,False,No Detected Issue
+699,0,1,0.0,0,,False,False,False,No Detected Issue
+700,0,1,0.0,0,,False,False,False,No Detected Issue
+701,0,1,0.0,0,,False,False,False,No Detected Issue
+702,0,1,0.0,0,,False,False,False,No Detected Issue
+703,0,1,0.0,0,,False,False,False,No Detected Issue
+704,0,1,0.0,0,,False,False,False,No Detected Issue
+705,0,1,0.0,0,,False,False,False,No Detected Issue
+706,0,1,0.0,0,,False,False,False,No Detected Issue
+707,0,1,0.0,0,,False,False,False,No Detected Issue
+708,0,1,0.0,0,,False,False,False,No Detected Issue
+709,0,1,0.0,0,,False,False,False,No Detected Issue
+710,0,1,0.0,0,,False,False,False,No Detected Issue
+711,0,1,0.0,0,,False,False,False,No Detected Issue
+712,0,1,0.0,0,,False,False,False,No Detected Issue
+713,0,1,0.0,0,,False,False,False,No Detected Issue
+714,0,1,0.0,0,,False,False,False,No Detected Issue
+715,0,1,0.0,0,,False,False,False,No Detected Issue
+716,0,1,0.0,0,,False,False,False,No Detected Issue
+717,0,1,0.0,0,,False,False,False,No Detected Issue
+718,0,1,0.0,0,,False,False,False,No Detected Issue
+719,0,1,0.0,0,,False,False,False,No Detected Issue
+720,0,1,0.0,0,,False,False,False,No Detected Issue
+721,0,1,0.0,0,,False,False,False,No Detected Issue
+722,0,1,0.0,0,,False,False,False,No Detected Issue
+723,0,1,0.0,0,,False,False,False,No Detected Issue
+724,0,1,0.0,0,,False,False,False,No Detected Issue
+725,0,1,0.0,0,,False,False,False,No Detected Issue
+726,0,1,0.0,0,,False,False,False,No Detected Issue
+727,0,1,0.0,0,,False,False,False,No Detected Issue
+728,0,1,0.0,0,,False,False,False,No Detected Issue
+729,0,1,0.0,0,,False,False,False,No Detected Issue
+730,0,1,0.0,0,,False,False,False,No Detected Issue
+731,0,1,0.0,0,,False,False,False,No Detected Issue
+732,0,1,0.0,0,,False,False,False,No Detected Issue
+733,0,1,0.0,0,,False,False,False,No Detected Issue
+734,0,1,0.0,0,,False,False,False,No Detected Issue
+735,0,1,0.0,0,,False,False,False,No Detected Issue
+736,0,1,0.0,0,,False,False,False,No Detected Issue
+737,0,1,0.0,0,,False,False,False,No Detected Issue
+738,0,1,0.0,0,,False,False,False,No Detected Issue
+739,0,1,0.0,0,,False,False,False,No Detected Issue
+740,0,1,0.0,0,,False,False,False,No Detected Issue
+741,0,1,0.0,0,,False,False,False,No Detected Issue
+742,0,1,0.0,0,,False,False,False,No Detected Issue
+743,0,1,0.0,0,,False,False,False,No Detected Issue
+744,0,1,0.0,0,,False,False,False,No Detected Issue
+745,0,1,0.0,0,,False,False,False,No Detected Issue
+746,0,1,0.0,0,,False,False,False,No Detected Issue
+747,0,1,0.0,0,,False,False,False,No Detected Issue
+748,0,1,0.0,0,,False,False,False,No Detected Issue
+749,0,1,0.0,0,,False,False,False,No Detected Issue
+750,0,1,0.0,0,,False,False,False,No Detected Issue
+751,0,1,0.0,0,,False,False,False,No Detected Issue
+752,0,1,0.0,0,,False,False,False,No Detected Issue
+753,0,1,0.0,0,,False,False,False,No Detected Issue
+754,0,1,0.0,0,,False,False,False,No Detected Issue
+755,0,1,0.0,0,,False,False,False,No Detected Issue
+756,0,1,0.0,0,,False,False,False,No Detected Issue
+757,0,1,0.0,0,,False,False,False,No Detected Issue
+758,0,1,0.0,0,,False,False,False,No Detected Issue
+759,0,1,0.0,0,,False,False,False,No Detected Issue
+760,0,1,0.0,0,,False,False,False,No Detected Issue
+761,0,1,0.0,0,,False,False,False,No Detected Issue
+762,0,1,0.0,0,,False,False,False,No Detected Issue
+763,0,1,0.0,0,,False,False,False,No Detected Issue
+764,0,1,0.0,0,,False,False,False,No Detected Issue
+765,0,1,0.0,0,,False,False,False,No Detected Issue
+766,0,1,0.0,0,,False,False,False,No Detected Issue
+767,0,1,0.0,0,,False,False,False,No Detected Issue
+768,0,1,0.0,0,,False,False,False,No Detected Issue
+769,0,1,0.0,0,,False,False,False,No Detected Issue
+770,0,1,0.0,0,,False,False,False,No Detected Issue
+771,0,1,0.0,0,,False,False,False,No Detected Issue
+772,0,1,0.0,0,,False,False,False,No Detected Issue
+773,0,1,0.0,0,,False,False,False,No Detected Issue
+787,0,1,0.0,0,,False,False,False,No Detected Issue
+788,0,1,0.0,0,,False,False,False,No Detected Issue
+801,0,1,0.0,0,,False,False,False,No Detected Issue
+802,0,1,0.0,0,,False,False,False,No Detected Issue
+803,0,1,0.0,0,,False,False,False,No Detected Issue
+804,0,1,0.0,0,,False,False,False,No Detected Issue
+805,0,1,0.0,0,,False,False,False,No Detected Issue
+806,0,1,0.0,0,,False,False,False,No Detected Issue
+807,0,1,0.0,0,,False,False,False,No Detected Issue
+808,0,1,0.0,0,,False,False,False,No Detected Issue
+809,0,1,0.0,0,,False,False,False,No Detected Issue
+823,0,1,0.0,0,,False,False,False,No Detected Issue
+824,0,1,0.0,0,,False,False,False,No Detected Issue
+825,0,1,0.0,0,,False,False,False,No Detected Issue
+844,0,1,0.0,0,,False,False,False,No Detected Issue
+855,0,1,0.0,0,,False,False,False,No Detected Issue
+859,0,1,0.0,0,,False,False,False,No Detected Issue
+860,0,1,0.0,0,,False,False,False,No Detected Issue
+861,0,1,0.0,0,,False,False,False,No Detected Issue
+862,0,1,0.0,0,,False,False,False,No Detected Issue
+863,0,1,0.0,0,,False,False,False,No Detected Issue
+864,0,1,0.0,0,,False,False,False,No Detected Issue
+867,0,1,0.0,0,,False,False,False,No Detected Issue
+868,0,1,0.0,0,,False,False,False,No Detected Issue
+869,0,1,0.0,0,,False,False,False,No Detected Issue
+870,0,1,0.0,0,,False,False,False,No Detected Issue
+872,0,1,0.0,0,,False,False,False,No Detected Issue
+873,0,1,0.0,0,,False,False,False,No Detected Issue
+874,0,1,0.0,0,,False,False,False,No Detected Issue
+876,0,1,0.0,0,,False,False,False,No Detected Issue
+877,0,1,0.0,0,,False,False,False,No Detected Issue
+878,0,1,0.0,0,,False,False,False,No Detected Issue
+880,0,1,0.0,0,,False,False,False,No Detected Issue
+881,0,1,0.0,0,,False,False,False,No Detected Issue
+882,0,1,0.0,0,,False,False,False,No Detected Issue
+883,0,1,0.0,0,,False,False,False,No Detected Issue
+884,0,1,0.0,0,,False,False,False,No Detected Issue
+885,0,1,0.0,0,,False,False,False,No Detected Issue
+886,0,1,0.0,0,,False,False,False,No Detected Issue
+888,0,1,0.0,0,,False,False,False,No Detected Issue
+889,0,1,0.0,0,,False,False,False,No Detected Issue
+890,0,1,0.0,0,,False,False,False,No Detected Issue
+893,0,1,0.0,0,,False,False,False,No Detected Issue
+894,0,1,0.0,0,,False,False,False,No Detected Issue
+895,0,1,0.0,0,,False,False,False,No Detected Issue
+896,0,1,0.0,0,,False,False,False,No Detected Issue
+897,0,1,0.0,0,,False,False,False,No Detected Issue
+898,0,1,0.0,0,,False,False,False,No Detected Issue
+899,0,1,0.0,0,,False,False,False,No Detected Issue
+900,0,1,0.0,0,,False,False,False,No Detected Issue
+901,0,1,0.0,0,,False,False,False,No Detected Issue
+902,0,1,0.0,0,,False,False,False,No Detected Issue
+903,0,1,0.0,0,,False,False,False,No Detected Issue
+904,0,1,0.0,0,,False,False,False,No Detected Issue
+905,0,1,0.0,0,,False,False,False,No Detected Issue
+906,0,1,0.0,0,,False,False,False,No Detected Issue
+907,0,1,0.0,0,,False,False,False,No Detected Issue
+908,0,1,0.0,0,,False,False,False,No Detected Issue
+912,0,1,0.0,0,,False,False,False,No Detected Issue
+913,0,1,0.0,0,,False,False,False,No Detected Issue
+914,0,1,0.0,0,,False,False,False,No Detected Issue
+915,0,1,0.0,0,,False,False,False,No Detected Issue
+916,0,1,0.0,0,,False,False,False,No Detected Issue
+918,0,1,0.0,0,,False,False,False,No Detected Issue
+919,0,1,0.0,0,,False,False,False,No Detected Issue
+920,0,1,0.0,0,,False,False,False,No Detected Issue
+921,0,1,0.0,0,,False,False,False,No Detected Issue
+922,0,1,0.0,0,,False,False,False,No Detected Issue
+923,0,1,0.0,0,,False,False,False,No Detected Issue
+924,0,1,0.0,0,,False,False,False,No Detected Issue
+925,0,1,0.0,0,,False,False,False,No Detected Issue
+926,0,1,0.0,0,,False,False,False,No Detected Issue
+928,0,1,0.0,0,,False,False,False,No Detected Issue
+930,0,1,0.0,0,,False,False,False,No Detected Issue
+931,0,1,0.0,0,,False,False,False,No Detected Issue
+934,0,1,0.0,0,,False,False,False,No Detected Issue
+936,0,1,0.0,0,,False,False,False,No Detected Issue
+937,0,1,0.0,0,,False,False,False,No Detected Issue
+938,0,1,0.0,0,,False,False,False,No Detected Issue
+939,0,1,0.0,0,,False,False,False,No Detected Issue
+940,0,1,0.0,0,,False,False,False,No Detected Issue
+941,0,1,0.0,0,,False,False,False,No Detected Issue
+942,0,1,0.0,0,,False,False,False,No Detected Issue
+943,0,1,0.0,0,,False,False,False,No Detected Issue
+944,0,1,0.0,0,,False,False,False,No Detected Issue
+945,0,1,0.0,0,,False,False,False,No Detected Issue
+946,0,1,0.0,0,,False,False,False,No Detected Issue
+947,0,1,0.0,0,,False,False,False,No Detected Issue
+948,0,1,0.0,0,,False,False,False,No Detected Issue
+949,0,1,0.0,0,,False,False,False,No Detected Issue
+950,0,1,0.0,0,,False,False,False,No Detected Issue
+951,0,1,0.0,0,,False,False,False,No Detected Issue
+952,0,1,0.0,0,,False,False,False,No Detected Issue
+953,0,1,0.0,0,,False,False,False,No Detected Issue
+954,0,1,0.0,0,,False,False,False,No Detected Issue
+955,0,1,0.0,0,,False,False,False,No Detected Issue
+956,0,1,0.0,0,,False,False,False,No Detected Issue
+957,0,1,0.0,0,,False,False,False,No Detected Issue
+958,0,1,0.0,0,,False,False,False,No Detected Issue
+959,0,1,0.0,0,,False,False,False,No Detected Issue
+960,0,1,0.0,0,,False,False,False,No Detected Issue
+961,0,1,0.0,0,,False,False,False,No Detected Issue
+962,0,1,0.0,0,,False,False,False,No Detected Issue
+963,0,1,0.0,0,,False,False,False,No Detected Issue
+964,0,1,0.0,0,,False,False,False,No Detected Issue
+965,0,1,0.0,0,,False,False,False,No Detected Issue
+966,0,1,0.0,0,,False,False,False,No Detected Issue
+967,0,1,0.0,0,,False,False,False,No Detected Issue
+968,0,1,0.0,0,,False,False,False,No Detected Issue
+969,0,1,0.0,0,,False,False,False,No Detected Issue
+970,0,1,0.0,0,,False,False,False,No Detected Issue
+971,0,1,0.0,0,,False,False,False,No Detected Issue
+972,0,1,0.0,0,,False,False,False,No Detected Issue
+973,0,1,0.0,0,,False,False,False,No Detected Issue
+974,0,1,0.0,0,,False,False,False,No Detected Issue
+975,0,1,0.0,0,,False,False,False,No Detected Issue
+976,0,1,0.0,0,,False,False,False,No Detected Issue
+977,0,1,0.0,0,,False,False,False,No Detected Issue
+978,0,1,0.0,0,,False,False,False,No Detected Issue
+979,0,1,0.0,0,,False,False,False,No Detected Issue
+980,0,1,0.0,0,,False,False,False,No Detected Issue
+981,0,1,0.0,0,,False,False,False,No Detected Issue
+982,0,1,0.0,0,,False,False,False,No Detected Issue
+983,0,1,0.0,0,,False,False,False,No Detected Issue
+984,0,1,0.0,0,,False,False,False,No Detected Issue
+985,0,1,0.0,0,,False,False,False,No Detected Issue
+986,0,1,0.0,0,,False,False,False,No Detected Issue
+987,0,1,0.0,0,,False,False,False,No Detected Issue
+988,0,1,0.0,0,,False,False,False,No Detected Issue
+989,0,1,0.0,0,,False,False,False,No Detected Issue
+990,0,1,0.0,0,,False,False,False,No Detected Issue
+991,0,1,0.0,0,,False,False,False,No Detected Issue
+992,0,1,0.0,0,,False,False,False,No Detected Issue
+993,0,1,0.0,0,,False,False,False,No Detected Issue
+994,0,1,0.0,0,,False,False,False,No Detected Issue
+995,0,1,0.0,0,,False,False,False,No Detected Issue
+996,0,1,0.0,0,,False,False,False,No Detected Issue
+997,0,1,0.0,0,,False,False,False,No Detected Issue
+998,0,1,0.0,0,,False,False,False,No Detected Issue
+1005,0,1,0.0,0,,False,False,False,No Detected Issue
+1007,0,1,0.0,0,,False,False,False,No Detected Issue
+1008,0,1,0.0,0,,False,False,False,No Detected Issue
+1009,0,1,0.0,0,,False,False,False,No Detected Issue
+1010,0,1,0.0,0,,False,False,False,No Detected Issue
+1011,0,1,0.0,0,,False,False,False,No Detected Issue
+1012,0,1,0.0,0,,False,False,False,No Detected Issue
+1013,0,1,0.0,0,,False,False,False,No Detected Issue
+1014,0,1,0.0,0,,False,False,False,No Detected Issue
+1015,0,1,0.0,0,,False,False,False,No Detected Issue
+1016,0,1,0.0,0,,False,False,False,No Detected Issue
+1017,0,1,0.0,0,,False,False,False,No Detected Issue
+1018,0,1,0.0,0,,False,False,False,No Detected Issue
+1019,0,1,0.0,0,,False,False,False,No Detected Issue
+1020,0,1,0.0,0,,False,False,False,No Detected Issue
+1021,0,1,0.0,0,,False,False,False,No Detected Issue
+1022,0,1,0.0,0,,False,False,False,No Detected Issue
+1023,0,1,0.0,0,,False,False,False,No Detected Issue
+1024,0,1,0.0,0,,False,False,False,No Detected Issue
+1025,0,1,0.0,0,,False,False,False,No Detected Issue
+1026,0,1,0.0,0,,False,False,False,No Detected Issue
+1029,0,1,0.0,0,,False,False,False,No Detected Issue
+1030,0,1,0.0,0,,False,False,False,No Detected Issue
+1032,0,1,0.0,0,,False,False,False,No Detected Issue
+1033,0,1,0.0,0,,False,False,False,No Detected Issue
+1034,0,1,0.0,0,,False,False,False,No Detected Issue
+1036,0,1,0.0,0,,False,False,False,No Detected Issue
+1037,0,1,0.0,0,,False,False,False,No Detected Issue
+1038,0,1,0.0,0,,False,False,False,No Detected Issue
+1039,0,1,0.0,0,,False,False,False,No Detected Issue
+1040,0,1,0.0,0,,False,False,False,No Detected Issue
+1041,0,1,0.0,0,,False,False,False,No Detected Issue
+1042,0,1,0.0,0,,False,False,False,No Detected Issue
+1043,0,1,0.0,0,,False,False,False,No Detected Issue
+1045,0,1,0.0,0,,False,False,False,No Detected Issue
+1047,0,1,0.0,0,,False,False,False,No Detected Issue
+1049,0,1,0.0,0,,False,False,False,No Detected Issue
+1050,0,1,0.0,0,,False,False,False,No Detected Issue
+1051,0,1,0.0,0,,False,False,False,No Detected Issue
+1052,0,1,0.0,0,,False,False,False,No Detected Issue
+1053,0,1,0.0,0,,False,False,False,No Detected Issue
+1054,0,1,0.0,0,,False,False,False,No Detected Issue
+1056,0,1,0.0,0,,False,False,False,No Detected Issue
+1057,0,1,0.0,0,,False,False,False,No Detected Issue
+1061,0,1,0.0,0,,False,False,False,No Detected Issue
+1065,0,1,0.0,0,,False,False,False,No Detected Issue
+1070,0,1,0.0,0,,False,False,False,No Detected Issue
+1071,0,1,0.0,0,,False,False,False,No Detected Issue
+1072,0,1,0.0,0,,False,False,False,No Detected Issue
+1073,0,1,0.0,0,,False,False,False,No Detected Issue
+1074,0,1,0.0,0,,False,False,False,No Detected Issue
+1075,0,1,0.0,0,,False,False,False,No Detected Issue
+1076,0,1,0.0,0,,False,False,False,No Detected Issue
+1077,0,1,0.0,0,,False,False,False,No Detected Issue
+1078,0,1,0.0,0,,False,False,False,No Detected Issue
+1079,0,1,0.0,0,,False,False,False,No Detected Issue
+1082,0,1,0.0,1,CZ,True,False,False,Outlier Only
+1083,0,1,0.0,0,,False,False,False,No Detected Issue
+1084,0,1,0.0,0,,False,False,False,No Detected Issue
+1085,0,1,0.0,0,,False,False,False,No Detected Issue
+1086,0,1,0.0,0,,False,False,False,No Detected Issue
+1087,0,1,0.0,0,,False,False,False,No Detected Issue
+1088,0,1,0.0,0,,False,False,False,No Detected Issue
+1089,0,1,0.0,0,,False,False,False,No Detected Issue
+1090,0,1,0.0,0,,False,False,False,No Detected Issue
+1091,0,1,0.0,0,,False,False,False,No Detected Issue
+1092,0,1,0.0,0,,False,False,False,No Detected Issue
+1093,0,1,0.0,0,,False,False,False,No Detected Issue
+1095,0,1,0.0,0,,False,False,False,No Detected Issue
+1096,0,1,0.0,0,,False,False,False,No Detected Issue
+1097,0,1,0.0,0,,False,False,False,No Detected Issue
+1098,0,1,0.0,0,,False,False,False,No Detected Issue
+1099,0,1,0.0,0,,False,False,False,No Detected Issue
+1100,0,1,0.0,0,,False,False,False,No Detected Issue
+1101,0,1,0.0,0,,False,False,False,No Detected Issue
+1102,0,1,0.0,0,,False,False,False,No Detected Issue
+1103,0,1,0.0,0,,False,False,False,No Detected Issue
+1104,0,1,0.0,0,,False,False,False,No Detected Issue
+1105,0,1,0.0,0,,False,False,False,No Detected Issue
+1106,0,1,0.0,0,,False,False,False,No Detected Issue
+1107,0,1,0.0,0,,False,False,False,No Detected Issue
+1108,0,1,0.0,0,,False,False,False,No Detected Issue
+1109,0,1,0.0,0,,False,False,False,No Detected Issue
+1110,0,1,0.0,0,,False,False,False,No Detected Issue
+1111,0,1,0.0,0,,False,False,False,No Detected Issue
+1112,0,1,0.0,0,,False,False,False,No Detected Issue
+1113,0,1,0.0,0,,False,False,False,No Detected Issue
+1114,0,1,0.0,0,,False,False,False,No Detected Issue
+1115,0,1,0.0,0,,False,False,False,No Detected Issue
+1116,0,1,0.0,0,,False,False,False,No Detected Issue
+1117,0,1,0.0,0,,False,False,False,No Detected Issue
+1118,0,1,0.0,0,,False,False,False,No Detected Issue
+1119,0,1,0.0,0,,False,False,False,No Detected Issue
+1120,0,1,0.0,0,,False,False,False,No Detected Issue
+1121,0,1,0.0,0,,False,False,False,No Detected Issue
+1122,0,1,0.0,0,,False,False,False,No Detected Issue
+1123,0,1,0.0,0,,False,False,False,No Detected Issue
+1124,0,1,0.0,0,,False,False,False,No Detected Issue
+1125,0,1,0.0,0,,False,False,False,No Detected Issue
+1126,0,1,0.0,0,,False,False,False,No Detected Issue
+1127,0,1,0.0,0,,False,False,False,No Detected Issue
+1128,0,1,0.0,0,,False,False,False,No Detected Issue
+1129,0,1,0.0,0,,False,False,False,No Detected Issue
+1130,0,1,0.0,0,,False,False,False,No Detected Issue
+1131,0,1,0.0,0,,False,False,False,No Detected Issue
+1132,0,1,0.0,0,,False,False,False,No Detected Issue
+1133,0,1,0.0,0,,False,False,False,No Detected Issue
+1134,0,1,0.0,0,,False,False,False,No Detected Issue
+1135,0,1,0.0,0,,False,False,False,No Detected Issue
+1136,0,1,0.0,0,,False,False,False,No Detected Issue
+1137,0,1,0.0,0,,False,False,False,No Detected Issue
+1138,0,1,0.0,0,,False,False,False,No Detected Issue
+1139,0,1,0.0,0,,False,False,False,No Detected Issue
+1140,0,1,0.0,0,,False,False,False,No Detected Issue
+1141,0,1,0.0,0,,False,False,False,No Detected Issue
+1142,0,1,0.0,0,,False,False,False,No Detected Issue
+1143,0,1,0.0,0,,False,False,False,No Detected Issue
+1144,0,1,0.0,0,,False,False,False,No Detected Issue
+1145,0,1,0.0,0,,False,False,False,No Detected Issue
+1146,0,1,0.0,0,,False,False,False,No Detected Issue
+1147,0,1,0.0,0,,False,False,False,No Detected Issue
+1148,0,1,0.0,0,,False,False,False,No Detected Issue
+1149,0,1,0.0,0,,False,False,False,No Detected Issue
+1150,0,1,0.0,0,,False,False,False,No Detected Issue
+1151,0,1,0.0,0,,False,False,False,No Detected Issue
+1152,0,1,0.0,0,,False,False,False,No Detected Issue
+1153,0,1,0.0,0,,False,False,False,No Detected Issue
+1154,0,1,0.0,0,,False,False,False,No Detected Issue
+1155,0,1,0.0,0,,False,False,False,No Detected Issue
+1156,0,1,0.0,0,,False,False,False,No Detected Issue
+1157,0,1,0.0,0,,False,False,False,No Detected Issue
+1158,0,1,0.0,0,,False,False,False,No Detected Issue
+1159,0,1,0.0,0,,False,False,False,No Detected Issue
+1160,0,1,0.0,0,,False,False,False,No Detected Issue
+1161,0,1,0.0,0,,False,False,False,No Detected Issue
+1162,0,1,0.0,0,,False,False,False,No Detected Issue
+1163,0,1,0.0,0,,False,False,False,No Detected Issue
+1164,0,1,0.0,0,,False,False,False,No Detected Issue
+1165,0,1,0.0,0,,False,False,False,No Detected Issue
+1166,0,1,0.0,0,,False,False,False,No Detected Issue
+1167,0,1,0.0,0,,False,False,False,No Detected Issue
+1168,0,1,0.0,0,,False,False,False,No Detected Issue
+1169,0,1,0.0,0,,False,False,False,No Detected Issue
+1170,0,1,0.0,0,,False,False,False,No Detected Issue
+1171,0,1,0.0,0,,False,False,False,No Detected Issue
+1172,0,1,0.0,0,,False,False,False,No Detected Issue
+1173,0,1,0.0,0,,False,False,False,No Detected Issue
+1174,0,1,0.0,0,,False,False,False,No Detected Issue
+1175,0,1,0.0,0,,False,False,False,No Detected Issue
+1176,0,1,0.0,0,,False,False,False,No Detected Issue
+1177,0,1,0.0,0,,False,False,False,No Detected Issue
+1178,0,1,0.0,0,,False,False,False,No Detected Issue
+1179,0,1,0.0,0,,False,False,False,No Detected Issue
+1180,0,1,0.0,0,,False,False,False,No Detected Issue
+1181,0,1,0.0,0,,False,False,False,No Detected Issue
+1182,0,1,0.0,0,,False,False,False,No Detected Issue
+1183,0,1,0.0,0,,False,False,False,No Detected Issue
+1184,0,1,0.0,0,,False,False,False,No Detected Issue
+1185,0,1,0.0,0,,False,False,False,No Detected Issue
+1186,0,1,0.0,0,,False,False,False,No Detected Issue
+1188,0,1,0.0,0,,False,False,False,No Detected Issue
+1189,0,1,0.0,0,,False,False,False,No Detected Issue
+1190,0,1,0.0,0,,False,False,False,No Detected Issue
+1191,0,1,0.0,0,,False,False,False,No Detected Issue
+1192,0,1,0.0,0,,False,False,False,No Detected Issue
+1193,0,1,0.0,0,,False,False,False,No Detected Issue
+1196,0,1,0.0,0,,False,False,False,No Detected Issue
+1198,0,1,0.0,0,,False,False,False,No Detected Issue
+1199,0,1,0.0,0,,False,False,False,No Detected Issue
+1201,0,1,0.0,0,,False,False,False,No Detected Issue
+1202,0,1,0.0,0,,False,False,False,No Detected Issue
+1203,0,1,0.0,0,,False,False,False,No Detected Issue
+1204,0,1,0.0,0,,False,False,False,No Detected Issue
+1205,0,1,0.0,0,,False,False,False,No Detected Issue
+1206,0,1,0.0,0,,False,False,False,No Detected Issue
+1207,0,1,0.0,0,,False,False,False,No Detected Issue
+1208,0,1,0.0,0,,False,False,False,No Detected Issue
+1209,0,1,0.0,0,,False,False,False,No Detected Issue
+1210,0,1,0.0,0,,False,False,False,No Detected Issue
+1211,0,1,0.0,0,,False,False,False,No Detected Issue
+1212,0,1,0.0,0,,False,False,False,No Detected Issue
+1213,0,1,0.0,0,,False,False,False,No Detected Issue
+1214,0,1,0.0,0,,False,False,False,No Detected Issue
+1215,0,1,0.0,0,,False,False,False,No Detected Issue
+1216,0,1,0.0,0,,False,False,False,No Detected Issue
+1217,0,1,0.0,0,,False,False,False,No Detected Issue
+1218,0,1,0.0,0,,False,False,False,No Detected Issue
+1219,0,1,0.0,0,,False,False,False,No Detected Issue
+1221,0,1,0.0,0,,False,False,False,No Detected Issue
+1223,0,1,0.0,0,,False,False,False,No Detected Issue
+1225,0,1,0.0,0,,False,False,False,No Detected Issue
+1227,0,1,0.0,0,,False,False,False,No Detected Issue
+1228,0,1,0.0,0,,False,False,False,No Detected Issue
+1229,0,1,0.0,0,,False,False,False,No Detected Issue
+1230,0,1,0.0,0,,False,False,False,No Detected Issue
+1231,0,1,0.0,0,,False,False,False,No Detected Issue
+1232,0,1,0.0,0,,False,False,False,No Detected Issue
+1233,0,1,0.0,0,,False,False,False,No Detected Issue
+1234,0,1,0.0,0,,False,False,False,No Detected Issue
+1235,0,1,0.0,0,,False,False,False,No Detected Issue
+1236,0,1,0.0,0,,False,False,False,No Detected Issue
+1237,0,1,0.0,0,,False,False,False,No Detected Issue
+1239,0,1,0.0,0,,False,False,False,No Detected Issue
+1241,0,1,0.0,0,,False,False,False,No Detected Issue
+1243,0,1,0.0,0,,False,False,False,No Detected Issue
+1244,0,1,0.0,0,,False,False,False,No Detected Issue
+1245,0,1,0.0,0,,False,False,False,No Detected Issue
+1246,0,1,0.0,0,,False,False,False,No Detected Issue
+1247,0,1,0.0,0,,False,False,False,No Detected Issue
+1248,0,1,0.0,0,,False,False,False,No Detected Issue
+1250,0,1,0.0,0,,False,False,False,No Detected Issue
+1251,0,1,0.0,0,,False,False,False,No Detected Issue
+1252,0,1,0.0,0,,False,False,False,No Detected Issue
+1253,0,1,0.0,0,,False,False,False,No Detected Issue
+1254,0,1,0.0,0,,False,False,False,No Detected Issue
+1255,0,1,0.0,0,,False,False,False,No Detected Issue
+1256,0,1,0.0,0,,False,False,False,No Detected Issue
+1257,0,1,0.0,0,,False,False,False,No Detected Issue
+1258,0,1,0.0,0,,False,False,False,No Detected Issue
+1259,0,1,0.0,0,,False,False,False,No Detected Issue
+1260,0,1,0.0,0,,False,False,False,No Detected Issue
+1261,0,1,0.0,0,,False,False,False,No Detected Issue
+1262,0,1,0.0,0,,False,False,False,No Detected Issue
+1263,0,1,0.0,0,,False,False,False,No Detected Issue
+1264,0,1,0.0,0,,False,False,False,No Detected Issue
+1265,0,1,0.0,0,,False,False,False,No Detected Issue
+1266,0,1,0.0,0,,False,False,False,No Detected Issue
+1267,0,1,0.0,0,,False,False,False,No Detected Issue
+1268,0,1,0.0,0,,False,False,False,No Detected Issue
+1269,0,1,0.0,0,,False,False,False,No Detected Issue
+1270,0,1,0.0,0,,False,False,False,No Detected Issue
+1271,0,1,0.0,0,,False,False,False,No Detected Issue
+1272,0,1,0.0,0,,False,False,False,No Detected Issue
+1273,0,1,0.0,0,,False,False,False,No Detected Issue
+1274,0,1,0.0,0,,False,False,False,No Detected Issue
+1275,0,1,0.0,0,,False,False,False,No Detected Issue
+1276,0,1,0.0,0,,False,False,False,No Detected Issue
+1277,0,1,0.0,0,,False,False,False,No Detected Issue
+1278,0,1,0.0,0,,False,False,False,No Detected Issue
+1279,0,1,0.0,0,,False,False,False,No Detected Issue
+1280,0,1,0.0,0,,False,False,False,No Detected Issue
+1281,0,1,0.0,0,,False,False,False,No Detected Issue
+1282,0,1,0.0,0,,False,False,False,No Detected Issue
+1283,0,1,0.0,0,,False,False,False,No Detected Issue
+1284,0,1,0.0,0,,False,False,False,No Detected Issue
+1285,0,1,0.0,0,,False,False,False,No Detected Issue
+1286,0,1,0.0,0,,False,False,False,No Detected Issue
+1287,0,1,0.0,0,,False,False,False,No Detected Issue
+1288,0,1,0.0,0,,False,False,False,No Detected Issue
+1289,0,1,0.0,0,,False,False,False,No Detected Issue
+1290,0,1,0.0,0,,False,False,False,No Detected Issue
+1291,0,1,0.0,0,,False,False,False,No Detected Issue
+1292,0,1,0.0,0,,False,False,False,No Detected Issue
+1293,0,1,0.0,0,,False,False,False,No Detected Issue
+1294,0,1,0.0,0,,False,False,False,No Detected Issue
+1295,0,1,0.0,0,,False,False,False,No Detected Issue
+1296,0,1,0.0,0,,False,False,False,No Detected Issue
+1297,0,1,0.0,0,,False,False,False,No Detected Issue
+1298,0,1,0.0,0,,False,False,False,No Detected Issue
+1299,0,1,0.0,0,,False,False,False,No Detected Issue
+1300,0,1,0.0,0,,False,False,False,No Detected Issue
+1301,0,1,0.0,0,,False,False,False,No Detected Issue
+1302,0,1,0.0,0,,False,False,False,No Detected Issue
+1303,0,1,0.0,0,,False,False,False,No Detected Issue
+1304,0,1,0.0,0,,False,False,False,No Detected Issue
+1305,0,1,0.0,0,,False,False,False,No Detected Issue
+1306,0,1,0.0,0,,False,False,False,No Detected Issue
+1307,0,1,0.0,0,,False,False,False,No Detected Issue
+1308,0,1,0.0,0,,False,False,False,No Detected Issue
+1309,0,1,0.0,0,,False,False,False,No Detected Issue
+1310,0,1,0.0,0,,False,False,False,No Detected Issue
+1311,0,1,0.0,0,,False,False,False,No Detected Issue
+1312,0,1,0.0,0,,False,False,False,No Detected Issue
+1313,0,1,0.0,0,,False,False,False,No Detected Issue
+1314,0,1,0.0,0,,False,False,False,No Detected Issue
+1315,0,1,0.0,0,,False,False,False,No Detected Issue
+1316,0,1,0.0,0,,False,False,False,No Detected Issue
+1317,0,1,0.0,0,,False,False,False,No Detected Issue
+1318,0,1,0.0,0,,False,False,False,No Detected Issue
+1319,0,1,0.0,0,,False,False,False,No Detected Issue
+1320,0,1,0.0,0,,False,False,False,No Detected Issue
+1321,0,1,0.0,0,,False,False,False,No Detected Issue
+1322,0,1,0.0,0,,False,False,False,No Detected Issue
+1323,0,1,0.0,0,,False,False,False,No Detected Issue
+1324,0,1,0.0,0,,False,False,False,No Detected Issue
+1325,0,1,0.0,0,,False,False,False,No Detected Issue
+1326,0,1,0.0,0,,False,False,False,No Detected Issue
+1327,0,1,0.0,0,,False,False,False,No Detected Issue
+1328,0,1,0.0,0,,False,False,False,No Detected Issue
+1329,0,1,0.0,0,,False,False,False,No Detected Issue
+1330,0,1,0.0,0,,False,False,False,No Detected Issue
+1331,0,1,0.0,0,,False,False,False,No Detected Issue
+1332,0,1,0.0,0,,False,False,False,No Detected Issue
+1333,0,1,0.0,0,,False,False,False,No Detected Issue
+1334,0,1,0.0,0,,False,False,False,No Detected Issue
+1335,0,1,0.0,0,,False,False,False,No Detected Issue
+1336,0,1,0.0,0,,False,False,False,No Detected Issue
+1337,0,1,0.0,0,,False,False,False,No Detected Issue
+1338,0,1,0.0,0,,False,False,False,No Detected Issue
+1339,0,1,0.0,0,,False,False,False,No Detected Issue
+1340,0,1,0.0,0,,False,False,False,No Detected Issue
+1342,0,1,0.0,1,CZ,True,False,False,Outlier Only
+1343,0,1,0.0,0,,False,False,False,No Detected Issue
+1344,0,1,0.0,0,,False,False,False,No Detected Issue
+1345,0,1,0.0,0,,False,False,False,No Detected Issue
+1348,0,1,0.0,0,,False,False,False,No Detected Issue
+1349,0,1,0.0,0,,False,False,False,No Detected Issue
+1350,0,1,0.0,1,CZ,True,False,False,Outlier Only
+1351,0,1,0.0,0,,False,False,False,No Detected Issue
+1353,0,1,0.0,0,,False,False,False,No Detected Issue
+1356,0,1,0.0,0,,False,False,False,No Detected Issue
+1357,0,1,0.0,0,,False,False,False,No Detected Issue
+1358,0,1,0.0,0,,False,False,False,No Detected Issue
+1359,0,1,0.0,0,,False,False,False,No Detected Issue
+1360,0,1,0.0,0,,False,False,False,No Detected Issue
+1361,0,1,0.0,0,,False,False,False,No Detected Issue
+1362,0,1,0.0,0,,False,False,False,No Detected Issue
+1363,0,1,0.0,0,,False,False,False,No Detected Issue
+1365,0,1,0.0,0,,False,False,False,No Detected Issue
+1366,0,1,0.0,0,,False,False,False,No Detected Issue
+1368,0,1,0.0,0,,False,False,False,No Detected Issue
+1369,0,1,0.0,0,,False,False,False,No Detected Issue
+1370,0,1,0.0,0,,False,False,False,No Detected Issue
+1371,0,1,0.0,0,,False,False,False,No Detected Issue
+1372,0,1,0.0,0,,False,False,False,No Detected Issue
+1375,0,1,0.0,0,,False,False,False,No Detected Issue
+1376,0,1,0.0,0,,False,False,False,No Detected Issue
+1377,0,1,0.0,0,,False,False,False,No Detected Issue
+1378,0,1,0.0,1,CZ,True,False,False,Outlier Only
+1379,0,1,0.0,0,,False,False,False,No Detected Issue
+1380,0,1,0.0,0,,False,False,False,No Detected Issue
+1381,0,1,0.0,0,,False,False,False,No Detected Issue
+1382,0,1,0.0,0,,False,False,False,No Detected Issue
+1383,0,1,0.0,0,,False,False,False,No Detected Issue
+1384,0,1,0.0,0,,False,False,False,No Detected Issue
+1385,0,1,0.0,0,,False,False,False,No Detected Issue
+1386,0,1,0.0,0,,False,False,False,No Detected Issue
+1387,0,1,0.0,2,"C3, CZ",True,False,False,Outlier Only
+1388,0,1,0.0,2,"C3, CZ",True,False,False,Outlier Only
+1389,0,1,0.0,2,"C3, CZ",True,False,False,Outlier Only
+1390,0,1,0.0,2,"C3, CZ",True,False,False,Outlier Only
+1393,0,1,0.0,2,"C3, CZ",True,False,False,Outlier Only
+1394,0,1,0.0,2,"C3, CZ",True,False,False,Outlier Only
+1395,0,1,0.0,2,"C3, CZ",True,False,False,Outlier Only
+1396,0,1,0.0,0,,False,False,False,No Detected Issue
+1397,0,1,0.0,0,,False,False,False,No Detected Issue
+1398,0,1,0.0,0,,False,False,False,No Detected Issue
+1399,0,1,0.0,0,,False,False,False,No Detected Issue
+1400,0,1,0.0,0,,False,False,False,No Detected Issue
+1401,0,1,0.0,0,,False,False,False,No Detected Issue
+1402,0,1,0.0,0,,False,False,False,No Detected Issue
+1403,0,1,0.0,0,,False,False,False,No Detected Issue
+1404,0,1,0.0,0,,False,False,False,No Detected Issue
+1405,0,1,0.0,0,,False,False,False,No Detected Issue
+1406,0,1,0.0,0,,False,False,False,No Detected Issue
+1407,0,1,0.0,0,,False,False,False,No Detected Issue
+1408,0,1,0.0,0,,False,False,False,No Detected Issue
+1409,0,1,0.0,0,,False,False,False,No Detected Issue
+1410,0,1,0.0,0,,False,False,False,No Detected Issue
+1411,0,1,0.0,0,,False,False,False,No Detected Issue
+1412,0,1,0.0,0,,False,False,False,No Detected Issue
+1420,0,1,0.0,1,CZ,True,False,False,Outlier Only
+1422,0,1,0.0,1,CZ,True,False,False,Outlier Only
+1423,0,1,0.0,0,,False,False,False,No Detected Issue
+1424,0,1,0.0,0,,False,False,False,No Detected Issue
+1425,0,1,0.0,0,,False,False,False,No Detected Issue
+1426,0,1,0.0,0,,False,False,False,No Detected Issue
+1427,0,1,0.0,0,,False,False,False,No Detected Issue
+1428,0,1,0.0,0,,False,False,False,No Detected Issue
+1429,0,1,0.0,0,,False,False,False,No Detected Issue
+1430,0,1,0.0,0,,False,False,False,No Detected Issue
+1431,0,1,0.0,0,,False,False,False,No Detected Issue
+1432,0,1,0.0,0,,False,False,False,No Detected Issue
+1433,0,1,0.0,0,,False,False,False,No Detected Issue
+1434,0,1,0.0,0,,False,False,False,No Detected Issue
+1435,0,1,0.0,0,,False,False,False,No Detected Issue
+1436,0,1,0.0,0,,False,False,False,No Detected Issue
+1437,0,1,0.0,0,,False,False,False,No Detected Issue
+1438,0,1,0.0,0,,False,False,False,No Detected Issue
+1439,0,1,0.0,0,,False,False,False,No Detected Issue
+1440,0,1,0.0,0,,False,False,False,No Detected Issue
+1441,0,1,0.0,0,,False,False,False,No Detected Issue
+1442,0,1,0.0,0,,False,False,False,No Detected Issue
+1443,0,1,0.0,0,,False,False,False,No Detected Issue
+1444,0,1,0.0,0,,False,False,False,No Detected Issue
+1445,0,1,0.0,0,,False,False,False,No Detected Issue
+1446,0,1,0.0,0,,False,False,False,No Detected Issue
+1447,0,1,0.0,0,,False,False,False,No Detected Issue
+1448,0,1,0.0,0,,False,False,False,No Detected Issue
+1449,0,1,0.0,0,,False,False,False,No Detected Issue
+1450,0,1,0.0,0,,False,False,False,No Detected Issue
+1451,0,1,0.0,0,,False,False,False,No Detected Issue
+1452,0,1,0.0,0,,False,False,False,No Detected Issue
+1453,0,1,0.0,0,,False,False,False,No Detected Issue
+1454,0,1,0.0,0,,False,False,False,No Detected Issue
+1455,0,1,0.0,0,,False,False,False,No Detected Issue
+1456,0,1,0.0,0,,False,False,False,No Detected Issue
+1457,0,1,0.0,0,,False,False,False,No Detected Issue
+1458,0,1,0.0,0,,False,False,False,No Detected Issue
+1459,0,1,0.0,0,,False,False,False,No Detected Issue
+1460,0,1,0.0,0,,False,False,False,No Detected Issue
+1461,0,1,0.0,0,,False,False,False,No Detected Issue
+1462,0,1,0.0,0,,False,False,False,No Detected Issue
+1463,0,1,0.0,0,,False,False,False,No Detected Issue
+1464,0,1,0.0,0,,False,False,False,No Detected Issue
+1465,0,1,0.0,0,,False,False,False,No Detected Issue
+1466,0,1,0.0,0,,False,False,False,No Detected Issue
+1468,0,1,0.0,0,,False,False,False,No Detected Issue
+1472,0,1,0.0,0,,False,False,False,No Detected Issue
+1476,0,1,0.0,0,,False,False,False,No Detected Issue
+1477,0,1,0.0,0,,False,False,False,No Detected Issue
+1478,0,1,0.0,0,,False,False,False,No Detected Issue
+1479,0,1,0.0,0,,False,False,False,No Detected Issue
+1480,0,1,0.0,0,,False,False,False,No Detected Issue
+1481,0,1,0.0,0,,False,False,False,No Detected Issue
+1482,0,1,0.0,0,,False,False,False,No Detected Issue
+1483,0,1,0.0,0,,False,False,False,No Detected Issue
+1484,0,1,0.0,0,,False,False,False,No Detected Issue
+1485,0,1,0.0,0,,False,False,False,No Detected Issue
+1486,0,1,0.0,0,,False,False,False,No Detected Issue
+1487,0,1,0.0,0,,False,False,False,No Detected Issue
+1488,0,1,0.0,0,,False,False,False,No Detected Issue
+1489,0,1,0.0,0,,False,False,False,No Detected Issue
+1490,0,1,0.0,0,,False,False,False,No Detected Issue
+1491,0,1,0.0,0,,False,False,False,No Detected Issue
+1492,0,1,0.0,0,,False,False,False,No Detected Issue
+1493,0,1,0.0,0,,False,False,False,No Detected Issue
+1494,0,1,0.0,0,,False,False,False,No Detected Issue
+1495,0,1,0.0,0,,False,False,False,No Detected Issue
+1496,0,1,0.0,0,,False,False,False,No Detected Issue
+1497,0,1,0.0,0,,False,False,False,No Detected Issue
+1498,0,1,0.0,0,,False,False,False,No Detected Issue
+1499,0,1,0.0,0,,False,False,False,No Detected Issue
+1500,0,1,0.0,0,,False,False,False,No Detected Issue
+1501,0,1,0.0,0,,False,False,False,No Detected Issue
+1502,0,1,0.0,0,,False,False,False,No Detected Issue
+1503,0,1,0.0,0,,False,False,False,No Detected Issue
+1504,0,1,0.0,0,,False,False,False,No Detected Issue
+1505,0,1,0.0,0,,False,False,False,No Detected Issue
+1506,0,1,0.0,0,,False,False,False,No Detected Issue
+1509,0,1,0.0,0,,False,False,False,No Detected Issue
+1510,0,1,0.0,0,,False,False,False,No Detected Issue
+1512,0,1,0.0,0,,False,False,False,No Detected Issue
+1513,0,1,0.0,0,,False,False,False,No Detected Issue
+1514,0,1,0.0,0,,False,False,False,No Detected Issue
+1517,0,1,0.0,0,,False,False,False,No Detected Issue
+1518,0,1,0.0,0,,False,False,False,No Detected Issue
+1519,0,1,0.0,0,,False,False,False,No Detected Issue
+1520,0,1,0.0,0,,False,False,False,No Detected Issue
+1521,0,1,0.0,0,,False,False,False,No Detected Issue
+1522,0,1,0.0,0,,False,False,False,No Detected Issue
+1523,0,1,0.0,0,,False,False,False,No Detected Issue
+1525,0,1,0.0,0,,False,False,False,No Detected Issue
+1528,0,1,0.0,0,,False,False,False,No Detected Issue
+1530,0,1,0.0,0,,False,False,False,No Detected Issue
+1531,0,1,0.0,0,,False,False,False,No Detected Issue
+1532,0,1,0.0,0,,False,False,False,No Detected Issue
+1533,0,1,0.0,0,,False,False,False,No Detected Issue
+1534,0,1,0.0,0,,False,False,False,No Detected Issue
+1535,0,1,0.0,0,,False,False,False,No Detected Issue
+1536,0,1,0.0,0,,False,False,False,No Detected Issue
+1537,0,1,0.0,0,,False,False,False,No Detected Issue
+1538,0,1,0.0,0,,False,False,False,No Detected Issue
+1539,0,1,0.0,0,,False,False,False,No Detected Issue
+1540,0,1,0.0,0,,False,False,False,No Detected Issue
+1541,0,1,0.0,0,,False,False,False,No Detected Issue
+1542,0,1,0.0,0,,False,False,False,No Detected Issue
+1543,0,1,0.0,0,,False,False,False,No Detected Issue
+1545,0,1,0.0,0,,False,False,False,No Detected Issue
+1546,0,1,0.0,0,,False,False,False,No Detected Issue
+1548,0,1,0.0,0,,False,False,False,No Detected Issue
+1549,0,1,0.0,0,,False,False,False,No Detected Issue
+1550,0,1,0.0,0,,False,False,False,No Detected Issue
+1552,0,1,0.0,0,,False,False,False,No Detected Issue
+1554,0,1,0.0,0,,False,False,False,No Detected Issue
+1555,0,1,0.0,0,,False,False,False,No Detected Issue
+1556,0,1,0.0,0,,False,False,False,No Detected Issue
+1557,0,1,0.0,0,,False,False,False,No Detected Issue
+1558,0,1,0.0,0,,False,False,False,No Detected Issue
+1559,0,1,0.0,0,,False,False,False,No Detected Issue
+1560,0,1,0.0,0,,False,False,False,No Detected Issue
+1561,0,1,0.0,0,,False,False,False,No Detected Issue
+1563,0,1,0.0,0,,False,False,False,No Detected Issue
+1564,0,1,0.0,0,,False,False,False,No Detected Issue
+1565,0,1,0.0,0,,False,False,False,No Detected Issue
+1574,0,1,0.0,0,,False,False,False,No Detected Issue
+1576,0,1,0.0,0,,False,False,False,No Detected Issue
+1579,0,1,0.0,0,,False,False,False,No Detected Issue
+1580,0,1,0.0,0,,False,False,False,No Detected Issue
+1581,0,1,0.0,0,,False,False,False,No Detected Issue
+1582,0,1,0.0,0,,False,False,False,No Detected Issue
+1583,0,1,0.0,0,,False,False,False,No Detected Issue
+1587,0,1,0.0,0,,False,False,False,No Detected Issue
+1588,0,1,0.0,0,,False,False,False,No Detected Issue
+1591,0,1,0.0,0,,False,False,False,No Detected Issue
+1598,0,1,0.0,0,,False,False,False,No Detected Issue
+1600,0,1,0.0,0,,False,False,False,No Detected Issue
+1601,0,1,0.0,0,,False,False,False,No Detected Issue
+1605,0,1,0.0,0,,False,False,False,No Detected Issue
+1606,0,1,0.0,0,,False,False,False,No Detected Issue
+1608,0,1,0.0,0,,False,False,False,No Detected Issue
+1610,0,1,0.0,0,,False,False,False,No Detected Issue
+1613,0,1,0.0,0,,False,False,False,No Detected Issue
+1639,0,1,0.0,0,,False,False,False,No Detected Issue
+1656,0,1,0.0,0,,False,False,False,No Detected Issue
+1657,0,1,0.0,0,,False,False,False,No Detected Issue
+1658,0,1,0.0,0,,False,False,False,No Detected Issue
+1659,0,1,0.0,0,,False,False,False,No Detected Issue
+1660,0,1,0.0,0,,False,False,False,No Detected Issue
+1661,0,1,0.0,0,,False,False,False,No Detected Issue
+1662,0,1,0.0,0,,False,False,False,No Detected Issue
+1663,0,1,0.0,0,,False,False,False,No Detected Issue
+1664,0,1,0.0,0,,False,False,False,No Detected Issue
+1666,0,1,0.0,0,,False,False,False,No Detected Issue
+1667,0,1,0.0,0,,False,False,False,No Detected Issue
+1674,0,1,0.0,0,,False,False,False,No Detected Issue
+1675,0,1,0.0,0,,False,False,False,No Detected Issue
+1676,0,1,0.0,0,,False,False,False,No Detected Issue
+1677,0,1,0.0,0,,False,False,False,No Detected Issue
+1678,0,1,0.0,0,,False,False,False,No Detected Issue
+1679,0,1,0.0,0,,False,False,False,No Detected Issue
+1680,0,1,0.0,0,,False,False,False,No Detected Issue
+1681,0,1,0.0,0,,False,False,False,No Detected Issue
+1682,0,1,0.0,0,,False,False,False,No Detected Issue
+1683,0,1,0.0,0,,False,False,False,No Detected Issue
+1684,0,1,0.0,0,,False,False,False,No Detected Issue
+1685,0,1,0.0,0,,False,False,False,No Detected Issue
+1686,0,1,0.0,0,,False,False,False,No Detected Issue
+1687,0,1,0.0,0,,False,False,False,No Detected Issue
+1688,0,1,0.0,0,,False,False,False,No Detected Issue
+1689,0,1,0.0,0,,False,False,False,No Detected Issue
+1690,0,1,0.0,0,,False,False,False,No Detected Issue
+1691,0,1,0.0,0,,False,False,False,No Detected Issue
+1692,0,1,0.0,0,,False,False,False,No Detected Issue
+1693,0,1,0.0,0,,False,False,False,No Detected Issue
+1694,0,1,0.0,0,,False,False,False,No Detected Issue
+1695,0,1,0.0,0,,False,False,False,No Detected Issue
+1696,0,1,0.0,0,,False,False,False,No Detected Issue
+1697,0,1,0.0,0,,False,False,False,No Detected Issue
+1698,0,1,0.0,0,,False,False,False,No Detected Issue
+1699,0,1,0.0,0,,False,False,False,No Detected Issue
+1700,0,1,0.0,0,,False,False,False,No Detected Issue
+1701,0,1,0.0,0,,False,False,False,No Detected Issue
+1702,0,1,0.0,0,,False,False,False,No Detected Issue
+1703,0,1,0.0,0,,False,False,False,No Detected Issue
+1704,0,1,0.0,0,,False,False,False,No Detected Issue
+1705,0,1,0.0,0,,False,False,False,No Detected Issue
+1706,0,1,0.0,0,,False,False,False,No Detected Issue
+1707,0,1,0.0,0,,False,False,False,No Detected Issue
+1708,0,1,0.0,0,,False,False,False,No Detected Issue
+1709,0,1,0.0,0,,False,False,False,No Detected Issue
+1710,0,1,0.0,0,,False,False,False,No Detected Issue
+1711,0,1,0.0,0,,False,False,False,No Detected Issue
+1712,0,1,0.0,0,,False,False,False,No Detected Issue
+1713,0,1,0.0,0,,False,False,False,No Detected Issue
+1714,0,1,0.0,0,,False,False,False,No Detected Issue
+1715,0,1,0.0,0,,False,False,False,No Detected Issue
+1716,0,1,0.0,0,,False,False,False,No Detected Issue
+1717,0,1,0.0,0,,False,False,False,No Detected Issue
+1718,0,1,0.0,0,,False,False,False,No Detected Issue
+1719,0,1,0.0,0,,False,False,False,No Detected Issue
+1720,0,1,0.0,0,,False,False,False,No Detected Issue
+1721,0,1,0.0,0,,False,False,False,No Detected Issue
+1722,0,1,0.0,0,,False,False,False,No Detected Issue
+1723,0,1,0.0,0,,False,False,False,No Detected Issue
+1724,0,1,0.0,0,,False,False,False,No Detected Issue
+1725,0,1,0.0,0,,False,False,False,No Detected Issue
+1726,0,1,0.0,0,,False,False,False,No Detected Issue
+1727,0,1,0.0,0,,False,False,False,No Detected Issue
+1728,0,1,0.0,0,,False,False,False,No Detected Issue
+1729,0,1,0.0,0,,False,False,False,No Detected Issue
+1730,0,1,0.0,0,,False,False,False,No Detected Issue
+1731,0,1,0.0,0,,False,False,False,No Detected Issue
+1732,0,1,0.0,0,,False,False,False,No Detected Issue
+1733,0,1,0.0,0,,False,False,False,No Detected Issue
+1734,0,1,0.0,0,,False,False,False,No Detected Issue
+1735,0,1,0.0,0,,False,False,False,No Detected Issue
+1736,0,1,0.0,0,,False,False,False,No Detected Issue
+1737,0,1,0.0,0,,False,False,False,No Detected Issue
+1738,0,1,0.0,0,,False,False,False,No Detected Issue
+1739,0,1,0.0,0,,False,False,False,No Detected Issue
+1740,0,1,0.0,0,,False,False,False,No Detected Issue
+1741,0,1,0.0,0,,False,False,False,No Detected Issue
+1742,0,1,0.0,0,,False,False,False,No Detected Issue
+1743,0,1,0.0,0,,False,False,False,No Detected Issue
+1744,0,1,0.0,0,,False,False,False,No Detected Issue
+1745,0,1,0.0,0,,False,False,False,No Detected Issue
+1746,0,1,0.0,0,,False,False,False,No Detected Issue
+1747,0,1,0.0,0,,False,False,False,No Detected Issue
+1748,0,1,0.0,0,,False,False,False,No Detected Issue
+1749,0,1,0.0,0,,False,False,False,No Detected Issue
+1750,0,1,0.0,0,,False,False,False,No Detected Issue
+1751,0,1,0.0,0,,False,False,False,No Detected Issue
+1752,0,1,0.0,0,,False,False,False,No Detected Issue
+1753,0,1,0.0,0,,False,False,False,No Detected Issue
+1754,0,1,0.0,0,,False,False,False,No Detected Issue
+1755,0,1,0.0,0,,False,False,False,No Detected Issue
+1756,0,1,0.0,0,,False,False,False,No Detected Issue
+1757,0,1,0.0,0,,False,False,False,No Detected Issue
+1758,0,1,0.0,0,,False,False,False,No Detected Issue
+1759,0,1,0.0,0,,False,False,False,No Detected Issue
+1760,0,1,0.0,0,,False,False,False,No Detected Issue
+1761,0,1,0.0,0,,False,False,False,No Detected Issue
+1762,0,1,0.0,0,,False,False,False,No Detected Issue
+1763,0,1,0.0,0,,False,False,False,No Detected Issue
+1772,0,1,0.0,0,,False,False,False,No Detected Issue
+1773,0,1,0.0,0,,False,False,False,No Detected Issue
+1774,0,1,0.0,0,,False,False,False,No Detected Issue
+1775,0,1,0.0,0,,False,False,False,No Detected Issue
+1776,0,1,0.0,0,,False,False,False,No Detected Issue
+1777,0,1,0.0,0,,False,False,False,No Detected Issue
+1778,0,1,0.0,0,,False,False,False,No Detected Issue
+1779,0,1,0.0,0,,False,False,False,No Detected Issue
+1780,0,1,0.0,0,,False,False,False,No Detected Issue
+1781,0,1,0.0,0,,False,False,False,No Detected Issue
+1782,0,1,0.0,0,,False,False,False,No Detected Issue
+1783,0,1,0.0,0,,False,False,False,No Detected Issue
+1784,0,1,0.0,0,,False,False,False,No Detected Issue
+1785,0,1,0.0,0,,False,False,False,No Detected Issue
+1786,0,1,0.0,0,,False,False,False,No Detected Issue
+1787,0,1,0.0,0,,False,False,False,No Detected Issue
+1788,0,1,0.0,0,,False,False,False,No Detected Issue
+1789,0,1,0.0,0,,False,False,False,No Detected Issue
+1790,0,1,0.0,0,,False,False,False,No Detected Issue
+1791,0,1,0.0,0,,False,False,False,No Detected Issue
+1792,0,1,0.0,0,,False,False,False,No Detected Issue
+1793,0,1,0.0,0,,False,False,False,No Detected Issue
+1794,0,1,0.0,0,,False,False,False,No Detected Issue
+1795,0,1,0.0,0,,False,False,False,No Detected Issue
+1796,0,1,0.0,0,,False,False,False,No Detected Issue
+1797,0,1,0.0,0,,False,False,False,No Detected Issue
+1798,0,1,0.0,0,,False,False,False,No Detected Issue
+1799,0,1,0.0,0,,False,False,False,No Detected Issue
+1800,0,1,0.0,0,,False,False,False,No Detected Issue
+1801,0,1,0.0,0,,False,False,False,No Detected Issue
+1802,0,1,0.0,0,,False,False,False,No Detected Issue
+1803,0,1,0.0,0,,False,False,False,No Detected Issue
+1804,0,1,0.0,0,,False,False,False,No Detected Issue
+1805,0,1,0.0,0,,False,False,False,No Detected Issue
+1806,0,1,0.0,0,,False,False,False,No Detected Issue
+1807,0,1,0.0,0,,False,False,False,No Detected Issue
+1808,0,1,0.0,0,,False,False,False,No Detected Issue
+1809,0,1,0.0,0,,False,False,False,No Detected Issue
+1810,0,1,0.0,0,,False,False,False,No Detected Issue
+1811,0,1,0.0,0,,False,False,False,No Detected Issue
+1812,0,1,0.0,0,,False,False,False,No Detected Issue
+1813,0,1,0.0,0,,False,False,False,No Detected Issue
+1814,0,1,0.0,0,,False,False,False,No Detected Issue
+1815,0,1,0.0,0,,False,False,False,No Detected Issue
+1816,0,1,0.0,0,,False,False,False,No Detected Issue
+1817,0,1,0.0,0,,False,False,False,No Detected Issue
+1818,0,1,0.0,0,,False,False,False,No Detected Issue
+1819,0,1,0.0,0,,False,False,False,No Detected Issue
+1820,0,1,0.0,0,,False,False,False,No Detected Issue
+1822,0,1,0.0,0,,False,False,False,No Detected Issue
+1828,0,1,0.0,0,,False,False,False,No Detected Issue
+1829,0,1,0.0,0,,False,False,False,No Detected Issue
+1831,0,1,0.0,0,,False,False,False,No Detected Issue
+1832,0,1,0.0,0,,False,False,False,No Detected Issue
+1833,0,1,0.0,0,,False,False,False,No Detected Issue
+1834,0,1,0.0,0,,False,False,False,No Detected Issue
+1835,0,1,0.0,0,,False,False,False,No Detected Issue
+1836,0,1,0.0,0,,False,False,False,No Detected Issue
+1839,0,1,0.0,0,,False,False,False,No Detected Issue
+1841,0,1,0.0,0,,False,False,False,No Detected Issue
+1843,0,1,0.0,0,,False,False,False,No Detected Issue
+1844,0,1,0.0,0,,False,False,False,No Detected Issue
+1846,0,1,0.0,0,,False,False,False,No Detected Issue
+1847,0,1,0.0,0,,False,False,False,No Detected Issue
+1850,0,1,0.0,0,,False,False,False,No Detected Issue
+1851,0,1,0.0,0,,False,False,False,No Detected Issue
+1852,0,1,0.0,0,,False,False,False,No Detected Issue
+1854,0,1,0.0,0,,False,False,False,No Detected Issue
+1855,0,1,0.0,0,,False,False,False,No Detected Issue
+1856,0,1,0.0,0,,False,False,False,No Detected Issue
+1858,0,1,0.0,0,,False,False,False,No Detected Issue
+1861,0,1,0.0,0,,False,False,False,No Detected Issue
+1862,0,1,0.0,0,,False,False,False,No Detected Issue
+1869,0,1,0.0,0,,False,False,False,No Detected Issue
+1870,0,1,0.0,0,,False,False,False,No Detected Issue
+1871,0,1,0.0,0,,False,False,False,No Detected Issue
+1873,0,1,0.0,0,,False,False,False,No Detected Issue
+1874,0,1,0.0,0,,False,False,False,No Detected Issue
+1876,0,1,0.0,0,,False,False,False,No Detected Issue
+1877,0,1,0.0,0,,False,False,False,No Detected Issue
+1878,0,1,0.0,0,,False,False,False,No Detected Issue
+1879,0,1,0.0,0,,False,False,False,No Detected Issue
+1880,0,1,0.0,0,,False,False,False,No Detected Issue
+1882,0,1,0.0,0,,False,False,False,No Detected Issue
+1883,0,1,0.0,0,,False,False,False,No Detected Issue
+1884,0,1,0.0,0,,False,False,False,No Detected Issue
+1886,0,1,0.0,0,,False,False,False,No Detected Issue
+1887,0,1,0.0,0,,False,False,False,No Detected Issue
+1888,0,1,0.0,0,,False,False,False,No Detected Issue
+1889,0,1,0.0,0,,False,False,False,No Detected Issue
+1890,0,1,0.0,0,,False,False,False,No Detected Issue
+1891,0,1,0.0,0,,False,False,False,No Detected Issue
+1892,0,1,0.0,0,,False,False,False,No Detected Issue
+1894,0,1,0.0,0,,False,False,False,No Detected Issue
+1895,0,1,0.0,0,,False,False,False,No Detected Issue
+1896,0,1,0.0,0,,False,False,False,No Detected Issue
+1897,0,1,0.0,0,,False,False,False,No Detected Issue
+1898,0,1,0.0,0,,False,False,False,No Detected Issue
+1899,0,1,0.0,0,,False,False,False,No Detected Issue
+1900,0,1,0.0,0,,False,False,False,No Detected Issue
+1901,0,1,0.0,0,,False,False,False,No Detected Issue
+1902,0,1,0.0,0,,False,False,False,No Detected Issue
+1903,0,1,0.0,0,,False,False,False,No Detected Issue
+1904,0,1,0.0,0,,False,False,False,No Detected Issue
+1905,0,1,0.0,0,,False,False,False,No Detected Issue
+1906,0,1,0.0,0,,False,False,False,No Detected Issue
+1907,0,1,0.0,0,,False,False,False,No Detected Issue
+1908,0,1,0.0,0,,False,False,False,No Detected Issue
+1909,0,1,0.0,0,,False,False,False,No Detected Issue
+1910,0,1,0.0,0,,False,False,False,No Detected Issue
+1911,0,1,0.0,0,,False,False,False,No Detected Issue
+1912,0,1,0.0,0,,False,False,False,No Detected Issue
+1913,0,1,0.0,0,,False,False,False,No Detected Issue
+1914,0,1,0.0,0,,False,False,False,No Detected Issue
+1915,0,1,0.0,0,,False,False,False,No Detected Issue
+1916,0,1,0.0,0,,False,False,False,No Detected Issue
+1917,0,1,0.0,0,,False,False,False,No Detected Issue
+1918,0,1,0.0,0,,False,False,False,No Detected Issue
+1919,0,1,0.0,0,,False,False,False,No Detected Issue
+1920,0,1,0.0,0,,False,False,False,No Detected Issue
+1921,0,1,0.0,0,,False,False,False,No Detected Issue
+1922,0,1,0.0,0,,False,False,False,No Detected Issue
+1923,0,1,0.0,0,,False,False,False,No Detected Issue
+1924,0,1,0.0,0,,False,False,False,No Detected Issue
+1925,0,1,0.0,0,,False,False,False,No Detected Issue
+1926,0,1,0.0,0,,False,False,False,No Detected Issue
+1927,0,1,0.0,0,,False,False,False,No Detected Issue
+1928,0,1,0.0,0,,False,False,False,No Detected Issue
+1929,0,1,0.0,0,,False,False,False,No Detected Issue
+1930,0,1,0.0,0,,False,False,False,No Detected Issue
+1931,0,1,0.0,0,,False,False,False,No Detected Issue
+1932,0,1,0.0,0,,False,False,False,No Detected Issue
+1933,0,1,0.0,0,,False,False,False,No Detected Issue
+1934,0,1,0.0,0,,False,False,False,No Detected Issue
+1935,0,1,0.0,0,,False,False,False,No Detected Issue
+1936,0,1,0.0,0,,False,False,False,No Detected Issue
+1937,0,1,0.0,0,,False,False,False,No Detected Issue
+1938,0,1,0.0,0,,False,False,False,No Detected Issue
+1939,0,1,0.0,0,,False,False,False,No Detected Issue
+1940,0,1,0.0,0,,False,False,False,No Detected Issue
+1941,0,1,0.0,0,,False,False,False,No Detected Issue
+1942,0,1,0.0,0,,False,False,False,No Detected Issue
+1943,0,1,0.0,0,,False,False,False,No Detected Issue
+1944,0,1,0.0,0,,False,False,False,No Detected Issue
+1945,0,1,0.0,0,,False,False,False,No Detected Issue
+1946,0,1,0.0,0,,False,False,False,No Detected Issue
+1947,0,1,0.0,0,,False,False,False,No Detected Issue
+1948,0,1,0.0,0,,False,False,False,No Detected Issue
+1949,0,1,0.0,0,,False,False,False,No Detected Issue
+1950,0,1,0.0,0,,False,False,False,No Detected Issue
+1951,0,1,0.0,0,,False,False,False,No Detected Issue
+1952,0,1,0.0,0,,False,False,False,No Detected Issue
+1953,0,1,0.0,0,,False,False,False,No Detected Issue
+1954,0,1,0.0,0,,False,False,False,No Detected Issue
+1955,0,1,0.0,0,,False,False,False,No Detected Issue
+1956,0,1,0.0,0,,False,False,False,No Detected Issue
+1957,0,1,0.0,0,,False,False,False,No Detected Issue
+1958,0,1,0.0,0,,False,False,False,No Detected Issue
+1959,0,1,0.0,0,,False,False,False,No Detected Issue
+1960,0,1,0.0,0,,False,False,False,No Detected Issue
+1961,0,1,0.0,0,,False,False,False,No Detected Issue
+1971,0,1,0.0,0,,False,False,False,No Detected Issue
+1972,0,1,0.0,0,,False,False,False,No Detected Issue
+1973,0,1,0.0,0,,False,False,False,No Detected Issue
+1974,0,1,0.0,0,,False,False,False,No Detected Issue
+1975,0,1,0.0,0,,False,False,False,No Detected Issue
+1976,0,1,0.0,0,,False,False,False,No Detected Issue
+1977,0,1,0.0,0,,False,False,False,No Detected Issue
+1978,0,1,0.0,0,,False,False,False,No Detected Issue
+1979,0,1,0.0,0,,False,False,False,No Detected Issue
+1981,0,1,0.0,0,,False,False,False,No Detected Issue
+1982,0,1,0.0,0,,False,False,False,No Detected Issue
+1983,0,1,0.0,0,,False,False,False,No Detected Issue
+1985,0,1,0.0,0,,False,False,False,No Detected Issue
+1986,0,1,0.0,0,,False,False,False,No Detected Issue
+1987,0,1,0.0,0,,False,False,False,No Detected Issue
+1988,0,1,0.0,0,,False,False,False,No Detected Issue
+1989,0,1,0.0,0,,False,False,False,No Detected Issue
+1990,0,1,0.0,0,,False,False,False,No Detected Issue
+1991,0,1,0.0,0,,False,False,False,No Detected Issue
+1992,0,1,0.0,0,,False,False,False,No Detected Issue
+1994,0,1,0.0,0,,False,False,False,No Detected Issue
+1995,0,1,0.0,0,,False,False,False,No Detected Issue
+1996,0,1,0.0,0,,False,False,False,No Detected Issue
+1997,0,1,0.0,0,,False,False,False,No Detected Issue
+1998,0,1,0.0,0,,False,False,False,No Detected Issue
+1999,0,1,0.0,0,,False,False,False,No Detected Issue
+2002,0,1,0.0,0,,False,False,False,No Detected Issue
+2003,0,1,0.0,0,,False,False,False,No Detected Issue
+2004,0,1,0.0,0,,False,False,False,No Detected Issue
+2005,0,1,0.0,0,,False,False,False,No Detected Issue
+2006,0,1,0.0,0,,False,False,False,No Detected Issue
+2007,0,1,0.0,0,,False,False,False,No Detected Issue
+2009,0,1,0.0,0,,False,False,False,No Detected Issue
+2010,0,1,0.0,0,,False,False,False,No Detected Issue
+2011,0,1,0.0,0,,False,False,False,No Detected Issue
+2012,0,1,0.0,0,,False,False,False,No Detected Issue
+2014,0,1,0.0,0,,False,False,False,No Detected Issue
+2017,0,1,0.0,0,,False,False,False,No Detected Issue
+2018,0,1,0.0,0,,False,False,False,No Detected Issue
+2020,0,1,0.0,0,,False,False,False,No Detected Issue
+2021,0,1,0.0,0,,False,False,False,No Detected Issue
+2022,0,1,0.0,0,,False,False,False,No Detected Issue
+2023,0,1,0.0,0,,False,False,False,No Detected Issue
+2024,0,1,0.0,0,,False,False,False,No Detected Issue
+2025,0,1,0.0,0,,False,False,False,No Detected Issue
+2026,0,1,0.0,0,,False,False,False,No Detected Issue
+2027,0,1,0.0,0,,False,False,False,No Detected Issue
+2028,0,1,0.0,0,,False,False,False,No Detected Issue
+2029,0,1,0.0,0,,False,False,False,No Detected Issue
+2030,0,1,0.0,0,,False,False,False,No Detected Issue
+2031,0,1,0.0,0,,False,False,False,No Detected Issue
+2033,0,1,0.0,0,,False,False,False,No Detected Issue
+2035,0,1,0.0,0,,False,False,False,No Detected Issue
+2036,0,1,0.0,0,,False,False,False,No Detected Issue
+2039,0,1,0.0,0,,False,False,False,No Detected Issue
+2040,0,1,0.0,0,,False,False,False,No Detected Issue
+2041,0,1,0.0,0,,False,False,False,No Detected Issue
+2043,0,1,0.0,0,,False,False,False,No Detected Issue
+2044,0,1,0.0,0,,False,False,False,No Detected Issue
+2046,0,1,0.0,0,,False,False,False,No Detected Issue
+2047,0,1,0.0,0,,False,False,False,No Detected Issue
+2048,0,1,0.0,0,,False,False,False,No Detected Issue
+2049,0,1,0.0,0,,False,False,False,No Detected Issue
+2050,0,1,0.0,0,,False,False,False,No Detected Issue
+2051,0,1,0.0,0,,False,False,False,No Detected Issue
+2052,0,1,0.0,0,,False,False,False,No Detected Issue
+2053,0,1,0.0,0,,False,False,False,No Detected Issue
+2054,0,1,0.0,0,,False,False,False,No Detected Issue
+2055,0,1,0.0,0,,False,False,False,No Detected Issue
+2056,0,1,0.0,0,,False,False,False,No Detected Issue
+2057,0,1,0.0,0,,False,False,False,No Detected Issue
+2058,0,1,0.0,0,,False,False,False,No Detected Issue
+2059,0,1,0.0,0,,False,False,False,No Detected Issue
+2060,0,1,0.0,0,,False,False,False,No Detected Issue
+2061,0,1,0.0,0,,False,False,False,No Detected Issue
+2062,0,1,0.0,0,,False,False,False,No Detected Issue
+2063,0,1,0.0,0,,False,False,False,No Detected Issue
+2064,0,1,0.0,0,,False,False,False,No Detected Issue
+2065,0,1,0.0,0,,False,False,False,No Detected Issue
+2067,0,1,0.0,0,,False,False,False,No Detected Issue
+2068,0,1,0.0,0,,False,False,False,No Detected Issue
+2070,0,1,0.0,0,,False,False,False,No Detected Issue
+2071,0,1,0.0,0,,False,False,False,No Detected Issue
+2072,0,1,0.0,0,,False,False,False,No Detected Issue
+2073,0,1,0.0,0,,False,False,False,No Detected Issue
+2074,0,1,0.0,0,,False,False,False,No Detected Issue
+2075,0,1,0.0,0,,False,False,False,No Detected Issue
+2076,0,1,0.0,0,,False,False,False,No Detected Issue
+2077,0,1,0.0,0,,False,False,False,No Detected Issue
+2078,0,1,0.0,0,,False,False,False,No Detected Issue
+2079,0,1,0.0,0,,False,False,False,No Detected Issue
+2080,0,1,0.0,0,,False,False,False,No Detected Issue
+2082,0,1,0.0,0,,False,False,False,No Detected Issue
+2083,0,1,0.0,0,,False,False,False,No Detected Issue
+2084,0,1,0.0,0,,False,False,False,No Detected Issue
+2085,0,1,0.0,0,,False,False,False,No Detected Issue
+2086,0,1,0.0,0,,False,False,False,No Detected Issue
+2087,0,1,0.0,0,,False,False,False,No Detected Issue
+2088,0,1,0.0,0,,False,False,False,No Detected Issue
+2089,0,1,0.0,0,,False,False,False,No Detected Issue
+2091,0,1,0.0,0,,False,False,False,No Detected Issue
+2092,0,1,0.0,0,,False,False,False,No Detected Issue
+2093,0,1,0.0,0,,False,False,False,No Detected Issue
+2094,0,1,0.0,0,,False,False,False,No Detected Issue
+2095,0,1,0.0,0,,False,False,False,No Detected Issue
+2096,0,1,0.0,0,,False,False,False,No Detected Issue
+2098,0,1,0.0,0,,False,False,False,No Detected Issue
+2099,0,1,0.0,0,,False,False,False,No Detected Issue
+2100,0,1,0.0,0,,False,False,False,No Detected Issue
+2101,0,1,0.0,0,,False,False,False,No Detected Issue
+2102,0,1,0.0,0,,False,False,False,No Detected Issue
+2103,0,1,0.0,0,,False,False,False,No Detected Issue
+2104,0,1,0.0,0,,False,False,False,No Detected Issue
+2105,0,1,0.0,0,,False,False,False,No Detected Issue
+2106,0,1,0.0,0,,False,False,False,No Detected Issue
+2107,0,1,0.0,0,,False,False,False,No Detected Issue
+2109,0,1,0.0,0,,False,False,False,No Detected Issue
+2110,0,1,0.0,0,,False,False,False,No Detected Issue
+2111,0,1,0.0,0,,False,False,False,No Detected Issue
+2114,0,1,0.0,0,,False,False,False,No Detected Issue
+2116,0,1,0.0,0,,False,False,False,No Detected Issue
+2117,0,1,0.0,0,,False,False,False,No Detected Issue
+2118,0,1,0.0,0,,False,False,False,No Detected Issue
+2121,0,1,0.0,0,,False,False,False,No Detected Issue
+2123,0,1,0.0,0,,False,False,False,No Detected Issue
+2124,0,1,0.0,0,,False,False,False,No Detected Issue
+2125,0,1,0.0,0,,False,False,False,No Detected Issue
+2126,0,1,0.0,0,,False,False,False,No Detected Issue
+2127,0,1,0.0,0,,False,False,False,No Detected Issue
+2128,0,1,0.0,0,,False,False,False,No Detected Issue
+2131,0,1,0.0,0,,False,False,False,No Detected Issue
+2132,0,1,0.0,0,,False,False,False,No Detected Issue
+2133,0,1,0.0,0,,False,False,False,No Detected Issue
+2134,0,1,0.0,0,,False,False,False,No Detected Issue
+2135,0,1,0.0,0,,False,False,False,No Detected Issue
+2136,0,1,0.0,0,,False,False,False,No Detected Issue
+2137,0,1,0.0,0,,False,False,False,No Detected Issue
+2138,0,1,0.0,0,,False,False,False,No Detected Issue
+2139,0,1,0.0,0,,False,False,False,No Detected Issue
+2140,0,1,0.0,0,,False,False,False,No Detected Issue
+2141,0,1,0.0,0,,False,False,False,No Detected Issue
+2142,0,1,0.0,0,,False,False,False,No Detected Issue
+2143,0,1,0.0,0,,False,False,False,No Detected Issue
+2144,0,1,0.0,0,,False,False,False,No Detected Issue
+2145,0,1,0.0,0,,False,False,False,No Detected Issue
+2146,0,1,0.0,0,,False,False,False,No Detected Issue
+2147,0,1,0.0,0,,False,False,False,No Detected Issue
+2148,0,1,0.0,0,,False,False,False,No Detected Issue
+2149,0,1,0.0,0,,False,False,False,No Detected Issue
+2150,0,1,0.0,0,,False,False,False,No Detected Issue
+2151,0,1,0.0,0,,False,False,False,No Detected Issue
+2152,0,1,0.0,0,,False,False,False,No Detected Issue
+2153,0,1,0.0,0,,False,False,False,No Detected Issue
+2154,0,1,0.0,0,,False,False,False,No Detected Issue
+2155,0,1,0.0,0,,False,False,False,No Detected Issue
+2156,0,1,0.0,0,,False,False,False,No Detected Issue
+2157,0,1,0.0,0,,False,False,False,No Detected Issue
+2158,0,1,0.0,0,,False,False,False,No Detected Issue
+2159,0,1,0.0,0,,False,False,False,No Detected Issue

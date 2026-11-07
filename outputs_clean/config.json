@@ -1,0 +1,65 @@
+{
+  "fs": 250.0,
+  "notch_hz": 50.0,
+  "notch_q": 30.0,
+  "band": [
+    1.0,
+    40.0
+  ],
+  "band_order": 4,
+  "max_gap_s": 0.5,
+  "max_dc_step": 15.0,
+  "max_stale_frac": 0.15,
+  "max_stale_run": 50,
+  "contam_pad_s": 0.2,
+  "max_contam_frac": 0.15,
+  "max_abs_z": 10.0,
+  "min_std": 1e-06,
+  "psd_nperseg_s": 2.0,
+  "n_psd_check": 200,
+  "bands": {
+    "delta": [
+      1,
+      4
+    ],
+    "theta": [
+      4,
+      8
+    ],
+    "mu": [
+      8,
+      12
+    ],
+    "beta_low": [
+      13,
+      20
+    ],
+    "beta_high": [
+      20,
+      30
+    ],
+    "beta": [
+      13,
+      30
+    ],
+    "gamma": [
+      30,
+      40
+    ]
+  },
+  "csp_band": [
+    8.0,
+    30.0
+  ],
+  "csp_pairs": 2,
+  "cv_folds": 5,
+  "n_perm": 10,
+  "session_win": 5,
+  "session_z": 6.0,
+  "session_min_gap": 20,
+  "seed": 0,
+  "fs_evidence": {
+    "median_duration_rate_hz": 250.27310464259932,
+    "share_peak_at_50hz": 0.96875
+  }
+}

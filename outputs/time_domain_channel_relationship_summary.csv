@@ -1,0 +1,3 @@
+channel_relationship,pair_count,mean_correlation,max_correlation
+Different Channels,13,0.9177122391794442,0.9351524603888381
+Same Channel,67,0.9629377962950926,0.9999999999999182

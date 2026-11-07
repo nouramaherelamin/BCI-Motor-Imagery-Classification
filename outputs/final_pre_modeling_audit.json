@@ -1,0 +1,49 @@
+{
+    "dataset": {
+        "trials": 2160,
+        "channels": [
+            "FZ",
+            "C3",
+            "CZ",
+            "C4"
+        ],
+        "samples_per_trial": 2500,
+        "total_features": 48,
+        "classes": [
+            "Left",
+            "Right"
+        ],
+        "left_trials": 1082,
+        "right_trials": 1078
+    },
+    "data_quality": {
+        "missing_values": 0,
+        "infinite_values": 0,
+        "removed_trials": 0,
+        "trials_requiring_review": 611
+    },
+    "feature_engineering": {
+        "method": "Time-domain statistical features",
+        "features_per_channel": 12,
+        "high_correlation_pairs": 80,
+        "features_involved_in_high_correlations": 28,
+        "keep": 20,
+        "keep_for_evaluation": 20,
+        "candidate_for_removal": 8,
+        "feature_deletion_performed": false
+    },
+    "preprocessing": {
+        "dc_offset_removal": "Applied",
+        "bandpass_filter": "Not applied",
+        "notch_filter": "Not applied",
+        "resampling": "Not applied",
+        "sampling_rate": "Unconfirmed",
+        "timestamps": "Irregular"
+    },
+    "limitations": {
+        "label_mapping": "Provisional",
+        "sampling_rate_confirmation": "Pending",
+        "artifact_review": "Pending",
+        "modeling": "Not started"
+    }
+}

@@ -1,0 +1,10 @@
+Check,Result,Status
+EEG files,2160,Passed
+Files read successfully,2160,Passed
+Samples per file,[2500],Passed
+Column layout [Time+4 ch],2160,Passed
+Files with missing values,0,Passed
+Files with duplicate rows,0,Passed
+Files with non-numeric values,0,Passed
+Labels count vs files,2400 vs 2160,Needs Investigation
+Timestamps regular,30% of intervals < 0.1 ms,Needs Investigation

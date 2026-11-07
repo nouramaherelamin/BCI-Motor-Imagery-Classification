@@ -1,0 +1,5 @@
+relationship,finding,decision,action
+PTP vs MAX-MIN,Exact mathematical duplicate,Confirmed redundancy,Consider removing PTP later
+STD vs RMS,Perfect correlation but not exact equality,Near-redundancy,Review relative differences
+Alpha vs Mu,Very high correlation,Possible frequency-band overlap,Verify band definitions
+Beta vs Gamma,High correlation,Requires investigation,Review PSD and 50 Hz interference

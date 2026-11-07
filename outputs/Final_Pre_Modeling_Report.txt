@@ -1,0 +1,78 @@
+
+BCI MOTOR IMAGERY EEG
+FINAL PRE-MODELING REPORT
+========================================
+
+1. DATASET OVERVIEW
+----------------------------------------
+Total Trials: 2160
+Total Features: 120
+Dataset Shape: (2160, 122)
+Channels: FZ, C3, CZ, C4
+Samples per Trial: 2500
+
+2. DATA VALIDATION
+----------------------------------------
+Duplicate Trials: 0
+Missing Values: 0
+Infinite Values: 0
+Metadata Features: 120
+Reliability Features: 120
+Unmatched Metadata Features: 0
+Unmatched Reliability Features: 0
+
+3. LABEL DISTRIBUTION
+----------------------------------------
+Left: 1082
+Right: 1078
+Missing Labels: 0
+
+4. FEATURE ENGINEERING
+----------------------------------------
+Time-Domain Features: 48
+Frequency-Domain Features: 68
+Motor Imagery Features: 4
+Total Features: 120
+
+5. FEATURE REDUNDANCY AUDIT
+----------------------------------------
+Total Reviewed Relationships: 9
+Confirmed Mathematical Redundancy: 1
+Near-Redundancy: 1
+Confirmed Feature Overlap: 2
+Requires Investigation: 2
+Other Retained Relationships: 3
+
+No features were deleted during this audit.
+
+6. FEATURE REVIEW PRIORITY
+----------------------------------------
+Technical Review: 100
+Critical Review: 20
+
+7. SCIENTIFIC LIMITATIONS
+----------------------------------------
+- Sampling rate remains unconfirmed.
+- Timestamp intervals are irregular.
+- Frequency-domain results are provisional.
+- Motor Imagery frequency features are provisional.
+- Label-to-file mapping is provisional.
+- 240 labels remain unmatched.
+- Signal quality issues require further investigation.
+- ERD/ERS was not calculated because cue timing
+  and baseline information are unavailable.
+
+8. PRE-MODELING STATUS
+----------------------------------------
+Dataset structural validation: PASSED
+Feature metadata validation: PASSED
+Feature reliability validation: PASSED
+Redundancy audit: COMPLETED
+
+Modeling has NOT started.
+
+This report documents the current exploratory and
+pre-modeling state. It does not certify the EEG
+signals or provisional labels as scientifically valid.
+
+Generated: 2026-11-07 00:09:14

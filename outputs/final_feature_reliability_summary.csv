@@ -1,0 +1,4 @@
+feature_group,feature_count,sampling_rate_issues,signal_quality_issues,near_redundant,mathematical_redundancy,alpha_mu_overlap,high_correlation
+Frequency-Domain,68,68,0,0,0,16,68
+Motor Imagery,4,4,0,0,0,1,4
+Time-Domain,48,0,48,8,4,0,48

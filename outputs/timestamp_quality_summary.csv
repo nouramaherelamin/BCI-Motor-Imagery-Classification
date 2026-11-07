@@ -1,0 +1,8 @@
+Metric,Result
+Total EEG Files,2160
+Average Median Interval (sec),0.002390248428055328
+Average Mean Interval (sec),0.003995628761264431
+Average Intervals Below 1ms,755.9375
+Average Intervals Above 10ms,213.37037037037038
+Files With Non-positive Intervals,0
+Sampling Rate Status,Unconfirmed - Irregular Timestamps

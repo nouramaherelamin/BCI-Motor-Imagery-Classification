@@ -1,0 +1,7 @@
+relationship,finding,decision,action
+Alpha Power vs Mu Power,Overlapping frequency bands (8-13 Hz and 8-12 Hz),Confirmed Feature Overlap,Review before final feature selection
+Alpha Relative Power vs Mu Relative Power,Overlapping frequency bands,Confirmed Feature Overlap,Review before final feature selection
+Beta Power vs Gamma Power,High correlation without direct band overlap,Requires Investigation,Retain pending signal quality investigation
+Beta Relative Power vs Gamma Relative Power,High correlation without direct band overlap,Requires Investigation,Retain pending signal quality investigation
+Total Power across channels,Strong cross-channel correlation,Keep,Retain as potentially shared EEG activity
+Other Frequency Relationships,High statistical correlation,Keep for Now,No deletion based on correlation alone

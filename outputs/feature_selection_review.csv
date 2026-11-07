@@ -1,0 +1,49 @@
+feature,channel,decision
+fz_mean,FZ,Candidate for removal
+fz_rms,FZ,Candidate for removal
+fz_std,FZ,Keep
+fz_min,FZ,Keep for evaluation
+fz_max,FZ,Keep for evaluation
+fz_ptp,FZ,Keep for evaluation
+fz_median,FZ,Keep for evaluation
+fz_iqr,FZ,Keep for evaluation
+fz_skewness,FZ,Keep
+fz_kurtosis,FZ,Keep
+fz_zero_crossing_rate,FZ,Keep
+fz_line_length,FZ,Keep
+c3_mean,C3,Candidate for removal
+c3_rms,C3,Candidate for removal
+c3_std,C3,Keep
+c3_min,C3,Keep for evaluation
+c3_max,C3,Keep for evaluation
+c3_ptp,C3,Keep for evaluation
+c3_median,C3,Keep for evaluation
+c3_iqr,C3,Keep for evaluation
+c3_skewness,C3,Keep
+c3_kurtosis,C3,Keep
+c3_zero_crossing_rate,C3,Keep
+c3_line_length,C3,Keep
+cz_mean,CZ,Candidate for removal
+cz_rms,CZ,Candidate for removal
+cz_std,CZ,Keep
+cz_min,CZ,Keep for evaluation
+cz_max,CZ,Keep for evaluation
+cz_ptp,CZ,Keep for evaluation
+cz_median,CZ,Keep for evaluation
+cz_iqr,CZ,Keep for evaluation
+cz_skewness,CZ,Keep
+cz_kurtosis,CZ,Keep
+cz_zero_crossing_rate,CZ,Keep
+cz_line_length,CZ,Keep
+c4_mean,C4,Candidate for removal
+c4_rms,C4,Candidate for removal
+c4_std,C4,Keep
+c4_min,C4,Keep for evaluation
+c4_max,C4,Keep for evaluation
+c4_ptp,C4,Keep for evaluation
+c4_median,C4,Keep for evaluation
+c4_iqr,C4,Keep for evaluation
+c4_skewness,C4,Keep
+c4_kurtosis,C4,Keep
+c4_zero_crossing_rate,C4,Keep
+c4_line_length,C4,Keep

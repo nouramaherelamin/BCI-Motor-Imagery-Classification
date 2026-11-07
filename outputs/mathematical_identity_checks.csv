@@ -1,0 +1,9 @@
+relationship,max_absolute_difference,mean_absolute_difference,exact_match
+fz: STD vs RMS,0.062360764,0.0006819928,False
+fz: PTP vs MAX-MIN,0.0,0.0,True
+c3: STD vs RMS,0.07496834,0.00074762106,False
+c3: PTP vs MAX-MIN,0.0,0.0,True
+cz: STD vs RMS,0.034233093,0.00034241323,False
+cz: PTP vs MAX-MIN,0.0,0.0,True
+c4: STD vs RMS,0.034564972,0.00021058012,False
+c4: PTP vs MAX-MIN,0.0,0.0,True

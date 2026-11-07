@@ -1,0 +1,9 @@
+﻿ML CSV/
+*.npy
+*.npz
+*.pkl
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.DS_Store

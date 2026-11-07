@@ -1,0 +1,209 @@
+trial_index,outlier_channels,outlier_count,label,file_name
+325,CZ,1,Right,cellula_MI_data_325.csv
+326,CZ,1,Right,cellula_MI_data_326.csv
+327,CZ,1,Left,cellula_MI_data_327.csv
+328,CZ,1,Right,cellula_MI_data_328.csv
+329,CZ,1,Right,cellula_MI_data_329.csv
+330,CZ,1,Left,cellula_MI_data_330.csv
+331,CZ,1,Right,cellula_MI_data_331.csv
+332,CZ,1,Left,cellula_MI_data_332.csv
+333,CZ,1,Right,cellula_MI_data_333.csv
+334,CZ,1,Left,cellula_MI_data_334.csv
+335,CZ,1,Left,cellula_MI_data_335.csv
+336,CZ,1,Left,cellula_MI_data_336.csv
+337,CZ,1,Left,cellula_MI_data_337.csv
+338,CZ,1,Left,cellula_MI_data_338.csv
+339,CZ,1,Left,cellula_MI_data_339.csv
+340,CZ,1,Left,cellula_MI_data_340.csv
+341,CZ,1,Right,cellula_MI_data_341.csv
+342,CZ,1,Left,cellula_MI_data_342.csv
+343,CZ,1,Left,cellula_MI_data_343.csv
+344,CZ,1,Left,cellula_MI_data_344.csv
+345,CZ,1,Right,cellula_MI_data_345.csv
+346,CZ,1,Right,cellula_MI_data_346.csv
+347,CZ,1,Left,cellula_MI_data_347.csv
+348,CZ,1,Right,cellula_MI_data_348.csv
+349,CZ,1,Right,cellula_MI_data_349.csv
+350,CZ,1,Left,cellula_MI_data_350.csv
+351,CZ,1,Right,cellula_MI_data_351.csv
+361,CZ,1,Left,cellula_MI_data_361.csv
+460,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_460.csv
+461,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_461.csv
+462,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_462.csv
+463,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_463.csv
+464,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_464.csv
+465,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_465.csv
+466,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_466.csv
+467,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_467.csv
+468,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_468.csv
+469,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_469.csv
+470,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_470.csv
+471,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_471.csv
+472,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_472.csv
+473,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_473.csv
+474,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_474.csv
+475,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_475.csv
+476,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_476.csv
+477,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_477.csv
+478,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_478.csv
+479,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_479.csv
+480,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_480.csv
+481,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_481.csv
+482,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_482.csv
+483,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_483.csv
+484,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_484.csv
+485,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_485.csv
+486,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_486.csv
+487,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_487.csv
+488,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_488.csv
+489,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_489.csv
+490,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_490.csv
+491,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_491.csv
+492,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_492.csv
+493,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_493.csv
+494,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_494.csv
+495,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_495.csv
+496,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_496.csv
+497,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_497.csv
+498,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_498.csv
+499,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_499.csv
+500,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_500.csv
+501,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_501.csv
+502,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_502.csv
+503,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_503.csv
+504,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_504.csv
+514,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_514.csv
+515,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_515.csv
+516,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_516.csv
+517,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_517.csv
+518,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_518.csv
+519,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_519.csv
+520,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_520.csv
+521,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_521.csv
+522,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_522.csv
+523,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_523.csv
+524,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_524.csv
+525,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_525.csv
+526,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_526.csv
+527,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_527.csv
+528,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_528.csv
+529,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_529.csv
+530,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_530.csv
+531,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_531.csv
+532,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_532.csv
+533,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_533.csv
+534,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_534.csv
+535,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_535.csv
+536,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_536.csv
+537,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_537.csv
+538,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_538.csv
+539,"C3, C4, CZ, FZ",4,Right,cellula_MI_data_539.csv
+540,"C3, C4, CZ, FZ",4,Left,cellula_MI_data_540.csv
+541,"CZ, FZ",2,Left,cellula_MI_data_541.csv
+542,"CZ, FZ",2,Left,cellula_MI_data_542.csv
+543,"CZ, FZ",2,Right,cellula_MI_data_543.csv
+544,"CZ, FZ",2,Left,cellula_MI_data_544.csv
+545,"CZ, FZ",2,Left,cellula_MI_data_545.csv
+546,"CZ, FZ",2,Left,cellula_MI_data_546.csv
+547,"CZ, FZ",2,Right,cellula_MI_data_547.csv
+548,"CZ, FZ",2,Left,cellula_MI_data_548.csv
+549,"CZ, FZ",2,Right,cellula_MI_data_549.csv
+550,"CZ, FZ",2,Right,cellula_MI_data_550.csv
+551,"CZ, FZ",2,Left,cellula_MI_data_551.csv
+552,"CZ, FZ",2,Left,cellula_MI_data_552.csv
+553,"CZ, FZ",2,Right,cellula_MI_data_553.csv
+554,"CZ, FZ",2,Left,cellula_MI_data_554.csv
+555,"CZ, FZ",2,Right,cellula_MI_data_555.csv
+556,"CZ, FZ",2,Right,cellula_MI_data_556.csv
+557,"CZ, FZ",2,Right,cellula_MI_data_557.csv
+558,"CZ, FZ",2,Left,cellula_MI_data_558.csv
+559,"CZ, FZ",2,Right,cellula_MI_data_559.csv
+560,"CZ, FZ",2,Left,cellula_MI_data_560.csv
+561,"CZ, FZ",2,Left,cellula_MI_data_561.csv
+562,"CZ, FZ",2,Left,cellula_MI_data_562.csv
+563,"CZ, FZ",2,Left,cellula_MI_data_563.csv
+564,"CZ, FZ",2,Right,cellula_MI_data_564.csv
+565,"CZ, FZ",2,Left,cellula_MI_data_565.csv
+566,"CZ, FZ",2,Right,cellula_MI_data_566.csv
+567,"CZ, FZ",2,Left,cellula_MI_data_567.csv
+568,"CZ, FZ",2,Left,cellula_MI_data_568.csv
+569,"CZ, FZ",2,Left,cellula_MI_data_569.csv
+570,"CZ, FZ",2,Right,cellula_MI_data_570.csv
+571,"CZ, FZ",2,Left,cellula_MI_data_571.csv
+572,"CZ, FZ",2,Left,cellula_MI_data_572.csv
+573,"CZ, FZ",2,Left,cellula_MI_data_573.csv
+574,"CZ, FZ",2,Right,cellula_MI_data_574.csv
+575,"CZ, FZ",2,Right,cellula_MI_data_575.csv
+576,"CZ, FZ",2,Right,cellula_MI_data_576.csv
+577,"CZ, FZ",2,Left,cellula_MI_data_577.csv
+578,"CZ, FZ",2,Left,cellula_MI_data_578.csv
+579,"CZ, FZ",2,Right,cellula_MI_data_579.csv
+580,"CZ, FZ",2,Right,cellula_MI_data_580.csv
+581,"CZ, FZ",2,Left,cellula_MI_data_581.csv
+582,"CZ, FZ",2,Right,cellula_MI_data_582.csv
+583,"CZ, FZ",2,Right,cellula_MI_data_583.csv
+584,"CZ, FZ",2,Right,cellula_MI_data_584.csv
+585,"CZ, FZ",2,Left,cellula_MI_data_585.csv
+586,"CZ, FZ",2,Right,cellula_MI_data_586.csv
+587,"CZ, FZ",2,Right,cellula_MI_data_587.csv
+588,"CZ, FZ",2,Left,cellula_MI_data_588.csv
+589,"CZ, FZ",2,Left,cellula_MI_data_589.csv
+590,"CZ, FZ",2,Right,cellula_MI_data_590.csv
+591,"CZ, FZ",2,Right,cellula_MI_data_591.csv
+592,"CZ, FZ",2,Left,cellula_MI_data_592.csv
+593,"CZ, FZ",2,Left,cellula_MI_data_593.csv
+594,"CZ, FZ",2,Left,cellula_MI_data_594.csv
+595,"CZ, FZ",2,Left,cellula_MI_data_595.csv
+596,"CZ, FZ",2,Right,cellula_MI_data_596.csv
+597,"CZ, FZ",2,Right,cellula_MI_data_597.csv
+598,"CZ, FZ",2,Left,cellula_MI_data_598.csv
+599,"CZ, FZ",2,Left,cellula_MI_data_599.csv
+600,"CZ, FZ",2,Right,cellula_MI_data_600.csv
+601,"CZ, FZ",2,Left,cellula_MI_data_601.csv
+602,"CZ, FZ",2,Left,cellula_MI_data_602.csv
+603,"CZ, FZ",2,Right,cellula_MI_data_603.csv
+613,"CZ, FZ",2,Left,cellula_MI_data_613.csv
+614,"CZ, FZ",2,Right,cellula_MI_data_614.csv
+615,"CZ, FZ",2,Right,cellula_MI_data_615.csv
+616,"CZ, FZ",2,Left,cellula_MI_data_616.csv
+617,"CZ, FZ",2,Right,cellula_MI_data_617.csv
+618,"CZ, FZ",2,Left,cellula_MI_data_618.csv
+619,"CZ, FZ",2,Right,cellula_MI_data_619.csv
+620,"CZ, FZ",2,Right,cellula_MI_data_620.csv
+621,"CZ, FZ",2,Left,cellula_MI_data_621.csv
+658,"C3, CZ, FZ",3,Right,cellula_MI_data_658.csv
+659,"C3, CZ, FZ",3,Right,cellula_MI_data_659.csv
+660,"C3, CZ, FZ",3,Right,cellula_MI_data_660.csv
+661,"C3, CZ, FZ",3,Right,cellula_MI_data_661.csv
+662,"C3, CZ, FZ",3,Left,cellula_MI_data_662.csv
+663,"C3, CZ, FZ",3,Left,cellula_MI_data_663.csv
+664,"C3, CZ, FZ",3,Right,cellula_MI_data_664.csv
+665,"C3, CZ, FZ",3,Right,cellula_MI_data_665.csv
+666,"C3, CZ, FZ",3,Left,cellula_MI_data_666.csv
+775,"C4, CZ",2,Left,cellula_MI_data_775.csv
+776,CZ,1,Left,cellula_MI_data_776.csv
+830,C3,1,Right,cellula_MI_data_830.csv
+831,C3,1,Right,cellula_MI_data_831.csv
+1081,"C4, CZ",2,Left,cellula_MI_data_1081.csv
+1082,CZ,1,Right,cellula_MI_data_1082.csv
+1342,CZ,1,Right,cellula_MI_data_1342.csv
+1350,CZ,1,Left,cellula_MI_data_1350.csv
+1378,CZ,1,Left,cellula_MI_data_1378.csv
+1387,"C3, CZ",2,Left,cellula_MI_data_1387.csv
+1388,"C3, CZ",2,Right,cellula_MI_data_1388.csv
+1389,"C3, CZ",2,Left,cellula_MI_data_1389.csv
+1390,"C3, CZ",2,Right,cellula_MI_data_1390.csv
+1391,"C3, CZ",2,Left,cellula_MI_data_1391.csv
+1392,"C3, CZ",2,Left,cellula_MI_data_1392.csv
+1393,"C3, CZ",2,Right,cellula_MI_data_1393.csv
+1394,"C3, CZ",2,Right,cellula_MI_data_1394.csv
+1395,"C3, CZ",2,Right,cellula_MI_data_1395.csv
+1414,CZ,1,Left,cellula_MI_data_1414.csv
+1415,CZ,1,Left,cellula_MI_data_1415.csv
+1416,CZ,1,Right,cellula_MI_data_1416.csv
+1417,CZ,1,Right,cellula_MI_data_1417.csv
+1418,CZ,1,Right,cellula_MI_data_1418.csv
+1419,CZ,1,Left,cellula_MI_data_1419.csv
+1420,CZ,1,Left,cellula_MI_data_1420.csv
+1421,CZ,1,Right,cellula_MI_data_1421.csv
+1422,CZ,1,Right,cellula_MI_data_1422.csv

@@ -1,0 +1,7 @@
+quality_category,trial_count,percentage
+No Detected Issue,1549,71.71296296296296
+Repeated Samples,286,13.240740740740742
+Outlier Only,150,6.944444444444445
+Long Plateau,117,5.416666666666667
+Outlier + Repeated Samples,42,1.9444444444444444
+Outlier + Long Plateau,16,0.7407407407407408

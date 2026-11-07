@@ -1,0 +1,5 @@
+channel,exactly_equal,max_absolute_difference,mean_absolute_difference,relationship,finding,decision,action
+FZ,True,0.0,0.0,PTP vs MAX-MIN,Exact mathematical equality across all four channels,Confirmed redundancy,Consider removing PTP during final feature selection
+C3,True,0.0,0.0,PTP vs MAX-MIN,Exact mathematical equality across all four channels,Confirmed redundancy,Consider removing PTP during final feature selection
+CZ,True,0.0,0.0,PTP vs MAX-MIN,Exact mathematical equality across all four channels,Confirmed redundancy,Consider removing PTP during final feature selection
+C4,True,0.0,0.0,PTP vs MAX-MIN,Exact mathematical equality across all four channels,Confirmed redundancy,Consider removing PTP during final feature selection

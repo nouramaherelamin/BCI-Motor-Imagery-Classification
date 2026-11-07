@@ -1,0 +1,36 @@
+{
+  "channels": [
+    "FZ",
+    "C3",
+    "CZ",
+    "C4"
+  ],
+  "fs": 250.0,
+  "n_samples": 2500,
+  "expected_files": 2160,
+  "files_per_block": 9,
+  "block_gap_s": 2.0,
+  "bandpass": [
+    0.5,
+    40.0
+  ],
+  "bp_order": 4,
+  "notch_hz": 50.0,
+  "notch_q": 30.0,
+  "reref": "CAR",
+  "held_reject_frac": 0.2,
+  "ptp_factor": 8.0,
+  "flat_factor": 0.05,
+  "bands": {
+    "mu": [
+      8,
+      12
+    ],
+    "beta": [
+      13,
+      30
+    ]
+  },
+  "use_cache": true,
+  "seed": 42
+}

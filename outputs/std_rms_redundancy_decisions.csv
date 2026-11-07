@@ -1,0 +1,5 @@
+feature_1,feature_2,correlation,relationship,decision,reason
+fz_std,fz_rms,1.0,Near-Redundancy,Keep one during final feature selection,"Mean-centered signals make STD and RMS numerically very close, but they are not exactly equal."
+c3_std,c3_rms,1.0,Near-Redundancy,Keep one during final feature selection,"Mean-centered signals make STD and RMS numerically very close, but they are not exactly equal."
+cz_std,cz_rms,1.0,Near-Redundancy,Keep one during final feature selection,"Mean-centered signals make STD and RMS numerically very close, but they are not exactly equal."
+c4_std,c4_rms,1.0,Near-Redundancy,Keep one during final feature selection,"Mean-centered signals make STD and RMS numerically very close, but they are not exactly equal."

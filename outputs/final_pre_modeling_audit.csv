@@ -1,0 +1,13 @@
+check,result
+total_trials,2160
+total_features,120
+missing_values,0
+infinite_values,0
+duplicate_trials,0
+constant_features,0
+left_trials,1082
+right_trials,1078
+label_mapping_status,Provisional
+sampling_rate_status,Unconfirmed
+frequency_features_status,Provisional
+modeling_started,False
