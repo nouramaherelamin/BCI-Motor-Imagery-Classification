@@ -1,0 +1,184 @@
+{
+  "model_version": "bci-mi-2160-rf-v1.0.0",
+  "dataset_scope": "first_2160_trials_only",
+  "selected_model": {
+    "model_name": "RandomForest_76Feat",
+    "dataset_scope": "first_2160_trials_dropped_remainder",
+    "cv_strategy": "GroupKFold(n_splits=5, group=session_id)",
+    "n_trials_evaluated": 1222,
+    "n_sessions": 228,
+    "accuracy": 0.4959,
+    "balanced_accuracy": 0.4953,
+    "precision_macro": 0.4953,
+    "recall_macro": 0.4953,
+    "f1_macro": 0.4947,
+    "roc_auc": 0.4916,
+    "confusion_matrix": {
+      "tn_left_as_left": 273,
+      "fp_left_as_right": 329,
+      "fn_right_as_left": 287,
+      "tp_right_as_right": 333
+    }
+  },
+  "baseline_model": {
+    "model_name": "Baseline_CSP_LDA",
+    "dataset_scope": "first_2160_trials_dropped_remainder",
+    "cv_strategy": "GroupKFold(n_splits=5, group=session_id)",
+    "n_trials_evaluated": 1222,
+    "n_sessions": 228,
+    "accuracy": 0.4828,
+    "balanced_accuracy": 0.4813,
+    "precision_macro": 0.4804,
+    "recall_macro": 0.4813,
+    "f1_macro": 0.4763,
+    "roc_auc": 0.4681,
+    "confusion_matrix": {
+      "tn_left_as_left": 227,
+      "fp_left_as_right": 375,
+      "fn_right_as_left": 257,
+      "tp_right_as_right": 363
+    }
+  },
+  "all_models": [
+    {
+      "model_name": "RandomForest_76Feat",
+      "dataset_scope": "first_2160_trials_dropped_remainder",
+      "cv_strategy": "GroupKFold(n_splits=5, group=session_id)",
+      "n_trials_evaluated": 1222,
+      "n_sessions": 228,
+      "accuracy": 0.4959,
+      "balanced_accuracy": 0.4953,
+      "precision_macro": 0.4953,
+      "recall_macro": 0.4953,
+      "f1_macro": 0.4947,
+      "roc_auc": 0.4916,
+      "confusion_matrix": {
+        "tn_left_as_left": 273,
+        "fp_left_as_right": 329,
+        "fn_right_as_left": 287,
+        "tp_right_as_right": 333
+      }
+    },
+    {
+      "model_name": "ExtraTrees_76Feat",
+      "dataset_scope": "first_2160_trials_dropped_remainder",
+      "cv_strategy": "GroupKFold(n_splits=5, group=session_id)",
+      "n_trials_evaluated": 1222,
+      "n_sessions": 228,
+      "accuracy": 0.4943,
+      "balanced_accuracy": 0.4928,
+      "precision_macro": 0.4926,
+      "recall_macro": 0.4928,
+      "f1_macro": 0.4887,
+      "roc_auc": 0.4956,
+      "confusion_matrix": {
+        "tn_left_as_left": 238,
+        "fp_left_as_right": 364,
+        "fn_right_as_left": 254,
+        "tp_right_as_right": 366
+      }
+    },
+    {
+      "model_name": "GradientBoosting_76Feat",
+      "dataset_scope": "first_2160_trials_dropped_remainder",
+      "cv_strategy": "GroupKFold(n_splits=5, group=session_id)",
+      "n_trials_evaluated": 1222,
+      "n_sessions": 228,
+      "accuracy": 0.4885,
+      "balanced_accuracy": 0.4884,
+      "precision_macro": 0.4884,
+      "recall_macro": 0.4884,
+      "f1_macro": 0.4884,
+      "roc_auc": 0.4882,
+      "confusion_matrix": {
+        "tn_left_as_left": 289,
+        "fp_left_as_right": 313,
+        "fn_right_as_left": 312,
+        "tp_right_as_right": 308
+      }
+    },
+    {
+      "model_name": "Baseline_CSP_LDA",
+      "dataset_scope": "first_2160_trials_dropped_remainder",
+      "cv_strategy": "GroupKFold(n_splits=5, group=session_id)",
+      "n_trials_evaluated": 1222,
+      "n_sessions": 228,
+      "accuracy": 0.4828,
+      "balanced_accuracy": 0.4813,
+      "precision_macro": 0.4804,
+      "recall_macro": 0.4813,
+      "f1_macro": 0.4763,
+      "roc_auc": 0.4681,
+      "confusion_matrix": {
+        "tn_left_as_left": 227,
+        "fp_left_as_right": 375,
+        "fn_right_as_left": 257,
+        "tp_right_as_right": 363
+      }
+    },
+    {
+      "model_name": "LogisticRegression_L2",
+      "dataset_scope": "first_2160_trials_dropped_remainder",
+      "cv_strategy": "GroupKFold(n_splits=5, group=session_id)",
+      "n_trials_evaluated": 1222,
+      "n_sessions": 228,
+      "accuracy": 0.4787,
+      "balanced_accuracy": 0.4783,
+      "precision_macro": 0.4782,
+      "recall_macro": 0.4783,
+      "f1_macro": 0.478,
+      "roc_auc": 0.4832,
+      "confusion_matrix": {
+        "tn_left_as_left": 269,
+        "fp_left_as_right": 333,
+        "fn_right_as_left": 304,
+        "tp_right_as_right": 316
+      }
+    },
+    {
+      "model_name": "SVM_RBF",
+      "dataset_scope": "first_2160_trials_dropped_remainder",
+      "cv_strategy": "GroupKFold(n_splits=5, group=session_id)",
+      "n_trials_evaluated": 1222,
+      "n_sessions": 228,
+      "accuracy": 0.4632,
+      "balanced_accuracy": 0.4615,
+      "precision_macro": 0.4595,
+      "recall_macro": 0.4615,
+      "f1_macro": 0.4554,
+      "roc_auc": 0.4811,
+      "confusion_matrix": {
+        "tn_left_as_left": 210,
+        "fp_left_as_right": 392,
+        "fn_right_as_left": 264,
+        "tp_right_as_right": 356
+      }
+    }
+  ],
+  "golden_samples": [
+    {
+      "file": "golden_left_trial_930.json",
+      "ground_truth_label": "Left",
+      "expected_predicted_label": "Left",
+      "expected_probabilities": {
+        "Left": 0.72673649936505,
+        "Right": 0.27326350063495025
+      }
+    },
+    {
+      "file": "golden_right_trial_1230.json",
+      "ground_truth_label": "Right",
+      "expected_predicted_label": "Right",
+      "expected_probabilities": {
+        "Left": 0.22513132602622649,
+        "Right": 0.774868673973773
+      }
+    }
+  ],
+  "known_limitations": [
+    "Scope restricted strictly to the first 2,160 trials/labels (any trailing rows/files beyond 2,160 are dropped).",
+    "No cue-onset timestamps or pre-cue resting baseline available; full 10-second windows are classified without ERD/ERS baseline normalization.",
+    "Single-trial zero-phase filtering uses odd-reflection padding (padlen=750) instead of multi-trial continuous block context.",
+    "Class separability is near chance (~49.6% GroupKFold accuracy vs ~48.3% CSP+LDA baseline); output probabilities are uncalibrated."
+  ]
+}
