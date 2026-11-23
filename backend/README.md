@@ -1,6 +1,6 @@
 # BCI motor imagery backend
 
-This service provides a versioned HTTP boundary for the future classifier. It includes request validation, process/model health, model lifecycle reporting, safe error responses, environment configuration, and an adapter seam. It does not train or ship a classifier. With the default configuration, predictions return HTTP 503.
+This service serves the project's trained motor-imagery classifier (`ml/`) over HTTP: request validation (JSON and CSV/XLSX upload), real model inference through `ml.adapter`, example trials, health/model information, safe error responses and JSON logging. Set `BCI_MODEL_ARTIFACT` to the `.joblib` bundle to enable predictions (the Docker image does this); without it, predictions return HTTP 503. See the root [README](../README.md) for Docker usage, the full API reference and known limitations.
 
 ## Architecture
 

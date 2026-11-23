@@ -65,3 +65,13 @@ class ApiError(BaseModel):
 
 class ErrorResponse(BaseModel):
     error: ApiError
+
+
+class ExampleSummary(BaseModel):
+    id: str
+    source_file: str
+    ground_truth_label: str
+
+
+class ExampleDetail(ExampleSummary):
+    payload: TrialInput

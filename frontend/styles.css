@@ -1,0 +1,102 @@
+:root {
+  --bg: #f5f7fa;
+  --card: #ffffff;
+  --text: #1d2733;
+  --muted: #5b6878;
+  --border: #d8dee6;
+  --primary: #1f5fbf;
+  --primary-dark: #174a96;
+  --left: #2f7fd8;
+  --right: #d9822b;
+  --ok: #1e8a4c;
+  --warn: #9a6400;
+  --err: #b42318;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+.container { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+
+.site-header { background: #fff; border-bottom: 1px solid var(--border); padding: 24px 0 20px; margin-bottom: 24px; }
+h1 { margin: 0 0 8px; font-size: 1.6rem; }
+h2 { margin: 0 0 16px; font-size: 1.15rem; }
+.lead { margin: 0 0 12px; color: var(--muted); }
+
+.status { display: inline-block; font-size: .9rem; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--border); }
+.status-ok { color: var(--ok); border-color: var(--ok); }
+.status-warn { color: var(--warn); border-color: var(--warn); }
+.status-err { color: var(--err); border-color: var(--err); }
+.status-unknown { color: var(--muted); }
+
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 20px; margin-bottom: 20px; }
+
+.notice { background: #fff8e6; border: 1px solid #f0d58c; border-radius: 10px; padding: 12px 16px; margin-bottom: 20px; font-size: .92rem; }
+.notice p { margin: 0; }
+
+.source-choice { border: 0; padding: 0; margin: 0 0 16px; display: flex; flex-wrap: wrap; gap: 8px 20px; }
+.source-choice label { cursor: pointer; }
+
+.panel { margin-bottom: 16px; }
+.field-label { display: block; font-weight: 600; margin-bottom: 6px; }
+input[type="file"], select { width: 100%; max-width: 100%; padding: 8px; border: 1px solid var(--border); border-radius: 6px; background: #fff; font: inherit; }
+.hint { color: var(--muted); font-size: .88rem; margin: 8px 0 0; padding-left: 18px; }
+p.hint { padding-left: 0; }
+code { background: #eef1f5; padding: 1px 4px; border-radius: 4px; }
+
+.file-check { font-size: .9rem; margin: 10px 0 0; }
+.file-check.ok { color: var(--ok); }
+.file-check.bad { color: var(--err); }
+
+button.primary {
+  width: 100%; padding: 12px; font-size: 1rem; font-weight: 600;
+  color: #fff; background: var(--primary); border: 0; border-radius: 8px; cursor: pointer;
+  display: inline-flex; align-items: center; justify-content: center; gap: 10px;
+}
+button.primary:hover:not(:disabled) { background: var(--primary-dark); }
+button.primary:disabled { background: #9db3d6; cursor: not-allowed; }
+
+.spinner { width: 16px; height: 16px; border: 2px solid rgba(255,255,255,.5); border-top-color: #fff; border-radius: 50%; animation: spin .8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.error { background: #fdecea; border: 1px solid #f5b7b1; color: var(--err); border-radius: 10px; padding: 12px 16px; margin-bottom: 20px; }
+
+.result-main { display: flex; flex-direction: column; align-items: center; margin-bottom: 16px; }
+.result-caption { color: var(--muted); font-size: .9rem; }
+.result-label { font-size: 2.4rem; font-weight: 800; letter-spacing: .04em; }
+.result-label.left { color: var(--left); }
+.result-label.right { color: var(--right); }
+
+.bars { display: grid; gap: 8px; margin-bottom: 12px; }
+.bar-row { display: grid; grid-template-columns: 48px 1fr 56px; align-items: center; gap: 10px; }
+.bar { height: 14px; background: #eef1f5; border-radius: 7px; overflow: hidden; }
+.bar-fill { height: 100%; width: 0; transition: width .3s; }
+.bar-fill.left { background: var(--left); }
+.bar-fill.right { background: var(--right); }
+.bar-pct { text-align: right; font-variant-numeric: tabular-nums; }
+
+.ground-truth { text-align: center; margin: 4px 0 12px; font-weight: 600; }
+.ground-truth.match { color: var(--ok); }
+.ground-truth.mismatch { color: var(--err); }
+
+.meta { display: grid; grid-template-columns: max-content 1fr; gap: 4px 12px; margin: 0 0 8px; font-size: .9rem; }
+.meta dt { color: var(--muted); }
+.meta dd { margin: 0; word-break: break-all; }
+
+.footer { padding-bottom: 32px; font-size: .9rem; }
+.footer a { color: var(--primary); }
+
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+@media (max-width: 480px) {
+  h1 { font-size: 1.3rem; }
+  .card { padding: 16px; }
+  .result-label { font-size: 2rem; }
+}

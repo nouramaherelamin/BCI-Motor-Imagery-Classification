@@ -13,6 +13,7 @@ class Settings:
     log_level: str = "INFO"
     cors_origins: tuple[str, ...] = ()
     model_artifact: Path | None = None
+    examples_dir: Path | None = None
     max_request_bytes: int = 2_000_000
 
     def __post_init__(self) -> None:
@@ -37,6 +38,7 @@ class Settings:
         raw_origins = env.get("BCI_CORS_ORIGINS", "")
         origins = tuple(item.strip() for item in raw_origins.split(",") if item.strip())
         raw_artifact = env.get("BCI_MODEL_ARTIFACT", "").strip()
+        raw_examples = env.get("BCI_EXAMPLES_DIR", "").strip()
         try:
             port = int(env.get("BCI_PORT", "8000"))
             max_request_bytes = int(env.get("BCI_MAX_REQUEST_BYTES", "2000000"))
@@ -49,5 +51,6 @@ class Settings:
             log_level=env.get("BCI_LOG_LEVEL", "INFO").strip().upper(),
             cors_origins=origins,
             model_artifact=Path(raw_artifact).expanduser() if raw_artifact else None,
+            examples_dir=Path(raw_examples).expanduser() if raw_examples else None,
             max_request_bytes=max_request_bytes,
         )

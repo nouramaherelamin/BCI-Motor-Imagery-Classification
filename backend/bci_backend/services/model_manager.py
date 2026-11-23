@@ -89,4 +89,3 @@ class ModelManager:
         with self._lock:
             self._predictor = None
             self._status = ModelStatus.NOT_CONFIGURED
-            self._status = ModelStatus.NOT_CONFIGURED

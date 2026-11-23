@@ -1,0 +1,32 @@
+# One-command startup:  docker compose up --build
+#   Frontend: http://localhost:${FRONTEND_PORT:-8080}
+#   Backend:  http://localhost:${BACKEND_PORT:-8000}  (Swagger UI at /docs)
+# No database is required: the model artifact and example trials are baked into the
+# backend image, and the API is stateless.
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    image: bci-mi-backend:latest
+    environment:
+      BCI_ENV: ${BCI_ENV:-development}
+      BCI_LOG_LEVEL: ${BCI_LOG_LEVEL:-INFO}
+      BCI_MAX_REQUEST_BYTES: ${BCI_MAX_REQUEST_BYTES:-2000000}
+      # Only needed when a browser calls the backend directly (the frontend uses the nginx proxy).
+      BCI_CORS_ORIGINS: ${BCI_CORS_ORIGINS:-http://localhost:8080}
+    ports:
+      - "${BACKEND_PORT:-8000}:8000"
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: frontend
+    image: bci-mi-frontend:latest
+    depends_on:
+      backend:
+        condition: service_healthy
+    ports:
+      - "${FRONTEND_PORT:-8080}:80"
+    restart: unless-stopped

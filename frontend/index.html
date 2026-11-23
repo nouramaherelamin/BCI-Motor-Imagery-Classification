@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BCI Motor Imagery Classifier</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>BCI Motor Imagery Classifier</h1>
+      <p class="lead">
+        Classifies whether a person is <strong>imagining LEFT or RIGHT hand movement</strong> from EEG alone.
+        Submit one raw 10-second trial (4 channels: FZ, C3, CZ, C4 at 250&nbsp;Hz) and the trained model
+        returns its prediction with class probabilities.
+      </p>
+      <div id="status" class="status status-unknown" role="status">Checking backend…</div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="model-notice" class="notice" hidden></section>
+
+    <section class="card">
+      <h2>1. Choose an input</h2>
+
+      <fieldset class="source-choice">
+        <legend class="sr-only">Input source</legend>
+        <label><input type="radio" name="source" value="file" checked> Upload a trial file</label>
+        <label><input type="radio" name="source" value="example"> Use a real example trial</label>
+      </fieldset>
+
+      <div id="file-panel" class="panel">
+        <label for="file-input" class="field-label">EEG trial file (.csv or .xlsx)</label>
+        <input id="file-input" type="file" accept=".csv,.xlsx">
+        <ul class="hint">
+          <li>First row is a header with columns <code>FZ</code>, <code>C3</code>, <code>CZ</code>, <code>C4</code> (a <code>Time</code> column is allowed and ignored).</li>
+          <li>Exactly <strong>2500</strong> numeric sample rows (10&nbsp;s at 250&nbsp;Hz), no empty cells. Max 2&nbsp;MB.</li>
+          <li>Same layout as the dataset's <code>cellula_MI_data_&lt;n&gt;.csv</code> files.</li>
+        </ul>
+        <p id="file-check" class="file-check" hidden></p>
+      </div>
+
+      <div id="example-panel" class="panel" hidden>
+        <label for="example-select" class="field-label">Recorded trial from the dataset</label>
+        <select id="example-select"><option value="">Loading examples…</option></select>
+        <p class="hint">Real trials with a known true label. You can also
+          <a id="example-download" href="#" download>download it as CSV</a> to try the upload path.</p>
+      </div>
+
+      <button id="predict-btn" class="primary" type="button" disabled>Predict</button>
+    </section>
+
+    <section id="error" class="error" role="alert" hidden></section>
+
+    <section id="result" class="card result" hidden aria-live="polite">
+      <h2>2. Prediction</h2>
+      <div class="result-main">
+        <span class="result-caption">Imagined movement</span>
+        <span id="result-label" class="result-label"></span>
+      </div>
+      <div class="bars">
+        <div class="bar-row">
+          <span class="bar-name">Left</span>
+          <div class="bar"><div id="bar-left" class="bar-fill left"></div></div>
+          <span id="pct-left" class="bar-pct"></span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-name">Right</span>
+          <div class="bar"><div id="bar-right" class="bar-fill right"></div></div>
+          <span id="pct-right" class="bar-pct"></span>
+        </div>
+      </div>
+      <p id="ground-truth" class="ground-truth" hidden></p>
+      <dl class="meta">
+        <dt>Input</dt><dd id="result-source"></dd>
+        <dt>Model version</dt><dd id="result-version"></dd>
+      </dl>
+      <p class="hint">Probabilities are the model's uncalibrated class scores, not a calibrated confidence.</p>
+    </section>
+  </main>
+
+  <footer class="container footer">
+    <a href="/docs" target="_blank" rel="noopener">API documentation</a>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

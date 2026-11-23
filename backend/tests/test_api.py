@@ -43,6 +43,10 @@ def test_application_initializes_and_openapi_documents_routes():
         "/api/v1/health",
         "/api/v1/model/info",
         "/api/v1/predict",
+        "/api/v1/predict/file",
+        "/api/v1/examples",
+        "/api/v1/examples/{example_id}",
+        "/api/v1/examples/{example_id}/csv",
     }
     assert schema["paths"]["/api/v1/predict"]["post"]["requestBody"]["required"] is True
 

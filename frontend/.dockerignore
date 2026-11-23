@@ -1,0 +1,3 @@
+# Frontend image build context only needs the static files.
+Dockerfile
+.dockerignore

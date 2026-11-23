@@ -13,6 +13,7 @@ from .api.routes.v1 import router as v1_router
 from .config import Settings
 from .contracts import PredictorLoader
 from .core.logging import configure_logging
+from .services.examples import ExampleStore
 from .services.model_manager import ModelLoadFailure, ModelManager
 
 logger = logging.getLogger(__name__)
@@ -21,13 +22,19 @@ logger = logging.getLogger(__name__)
 class RequestSizeLimitMiddleware:
     """Bound prediction JSON buffering and reject oversized bodies before parsing."""
 
-    def __init__(self, app: Any, *, max_bytes: int, path: str = "/api/v1/predict") -> None:
+    def __init__(
+        self,
+        app: Any,
+        *,
+        max_bytes: int,
+        paths: tuple[str, ...] = ("/api/v1/predict", "/api/v1/predict/file"),
+    ) -> None:
         self.app = app
         self.max_bytes = max_bytes
-        self.path = path
+        self.paths = paths
 
     async def __call__(self, scope: dict[str, Any], receive: Callable[..., Awaitable[Any]], send: Callable[..., Awaitable[Any]]) -> None:
-        if scope["type"] != "http" or scope.get("path") != self.path or scope.get("method") != "POST":
+        if scope["type"] != "http" or scope.get("path") not in self.paths or scope.get("method") != "POST":
             await self.app(scope, receive, send)
             return
 
@@ -60,6 +67,20 @@ class RequestSizeLimitMiddleware:
         await self.app(scope, replay_body, send)
 
 
+def default_predictor_loader() -> PredictorLoader | None:
+    """Return the project's real ML adapter (``ml.adapter``) if it is importable.
+
+    The backend stays importable without the ML package (e.g. for contract tests); in that
+    case a configured artifact is reported as a failed load instead of crashing the process.
+    """
+    try:
+        from ml.adapter import BCIMotorImageryLoader
+    except ImportError:
+        logger.warning("ml_adapter_unavailable")
+        return None
+    return BCIMotorImageryLoader()
+
+
 def create_app(
     settings: Settings | None = None,
     predictor_loader: PredictorLoader | None = None,
@@ -67,17 +88,22 @@ def create_app(
     settings = settings or Settings.from_env()
     configure_logging(settings.log_level)
     models = ModelManager()
+    examples = ExampleStore()
 
     @asynccontextmanager
     async def lifespan(application: FastAPI):
         application.state.settings = settings
         application.state.model_manager = models
+        application.state.examples = ExampleStore.from_directory(settings.examples_dir)
         if settings.model_artifact is not None:
             try:
                 models.load(settings.model_artifact, predictor_loader)
+                logger.info("model_loaded artifact=%s", settings.model_artifact.name)
             except ModelLoadFailure:
                 # Keep the API process available so health/info report the failed state.
                 logger.exception("model_startup_load_failed")
+        else:
+            logger.warning("model_not_configured set BCI_MODEL_ARTIFACT to enable predictions")
         yield
 
     production = settings.environment == "production"
@@ -85,8 +111,9 @@ def create_app(
         title="BCI Motor Imagery API",
         version="0.1.0",
         description=(
-            "Backend API foundation. The trial input contract is provisional; "
-            "prediction is unavailable until a real ML adapter is configured."
+            "Classifies imagined LEFT vs RIGHT hand movement from one raw 10-second, "
+            "4-channel (FZ, C3, CZ, C4) EEG trial sampled at 250 Hz, using the project's "
+            "trained model and its exact training-time preprocessing."
         ),
         docs_url=None if production else "/docs",
         redoc_url=None if production else "/redoc",
@@ -95,6 +122,7 @@ def create_app(
     )
     application.state.settings = settings
     application.state.model_manager = models
+    application.state.examples = examples
 
     if settings.cors_origins:
         application.add_middleware(
@@ -138,4 +166,4 @@ def create_app(
     return application
 
 
-app = create_app()
+app = create_app(predictor_loader=default_predictor_loader())

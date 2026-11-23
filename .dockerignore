@@ -1,0 +1,29 @@
+# Keep the backend build context small: only backend/ and the ML runtime files are needed.
+.git
+.gitignore
+.venv
+**/.venv
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+**/*.egg-info
+.env
+**/.env
+*.ipynb
+**/.ipynb_checkpoints
+notebooks
+outputs
+outputs_clean
+docs
+Ex
+ML CSV
+*.npy
+*.npz
+*.pkl
+labels.csv
+frontend
+backend/tests
+ml/tests
+ml/train.py
+README.md
+docker-compose.yml
